@@ -1,0 +1,174 @@
+---
+title: "BRGEdata -- Multiple omic data-set from the same pupulation"
+author:
+- name: First Author
+  affiliation: First Author's Affiliation
+- name: Second Author
+  affiliation: Second Author's Affiliation
+  email: corresponding@author.com
+date: "`r doc_date()`"
+package: "`r pkg_ver('BRGEdata')`"
+output:
+  BiocStyle::html_document
+abstract: |
+  Description of your vignette
+vignette: |
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+# Getting started
+
+`BRGEdata` includes a collection of BRGE omic and exposome data from the same cohort. The diferent objects guarantees a minimum of samples in common between all sets.
+
+Data available in this R package:
+
+| Data Type     | Number of Samples | Number of Features | Technology                      | Object Name  | Class             |
+| :------------ | ----------------: | -----------------: | :------------------------------ | :----------- | :---------------- |
+| Exposome      | 110               | 15                 |                                 | `brge_expo`  | [`ExposomeSet`](https://github.com/isglobal-brge/rexposome) |
+| Transcriptome | 75                | 67528              | Affymetrix HTA 2.0              | `brge_gexp`  | [`ExpressionSet`](https://bioconductor.org/packages/release/bioc/html/Biobase.html) |
+| Methylome     | 115               | 476946             | Illumina Human Methylation 450K | `brge_methy` | [`GenomicRatioSet`](https://bioconductor.org/packages/release/bioc/html/minfi.html) |
+| Proteome      | 90                | 47                 |                                 | `brge_prot`  | [`ExpressionSet`](https://bioconductor.org/packages/release/bioc/html/Biobase.html) |
+
+`sex` and `age` was included as phenotipic data in each set. Moreover, the `ExposomeSet` includes *asthma status* and *rhinitis status* of each sample.
+
+# Data Resources
+
+## Exposome Data
+
+To load the **exposome data**, stored in an `ExposomeSet`, run the follow commands:
+
+```{r load_exposome, message=FALSE}
+data("brge_expo", package = "BRGEdata")
+brge_expo
+```
+
+The summary of the data contained by `brge_expo`:
+
+| Data Type     | Number of Samples | Number of Features | Technology                      | Object Name  | Class             |
+| :------------ | ----------------: | -----------------: | :------------------------------ | :----------- | :---------------- |
+| Exposome      | 110               | 15                 |                                 | `brge_expo`  | [`ExposomeSet`](https://github.com/isglobal-brge/rexposome) |
+
+
+## Transcriptome Data
+
+To load the **transcriptome data**, saved in an `ExpressionSet`, run the follow commands:
+
+```{r load_transcriptome, message=FALSE}
+data("brge_gexp", package = "BRGEdata")
+brge_gexp
+```
+
+The summary of the data contained by `brge_gexp`:
+
+| Data Type     | Number of Samples | Number of Features | Technology                      | Object Name  | Class             |
+| :------------ | ----------------: | -----------------: | :------------------------------ | :----------- | :---------------- |
+| Transcriptome | 75                | 67528              | Affymetrix HTA 2.0              | `brge_gexp`  | [`ExpressionSet`](https://bioconductor.org/packages/release/bioc/html/Biobase.html) |
+
+
+## Methylome Data
+
+To load the **methylation data**, encapsulated in a `GenomicRatioSet`, run the follow commands:
+
+```{r load_methylome, message=FALSE}
+data("brge_methy", package = "BRGEdata")
+brge_methy
+```
+
+The summary of the data contained by `brge_methy`:
+
+| Data Type     | Number of Samples | Number of Features | Technology                      | Object Name  | Class             |
+| :------------ | ----------------: | -----------------: | :------------------------------ | :----------- | :---------------- |
+| Methylome     | 115               | 476946             | Illumina Human Methylation 450K | `brge_methy` | [`GenomicRatioSet`](https://bioconductor.org/packages/release/bioc/html/minfi.html) |
+
+
+## Proteome Data
+
+To load the **protein data**, stored in an `ExpressionSet`, run the follow commands:
+
+```{r load_proteome, message=FALSE}
+data("brge_prot", package = "BRGEdata")
+brge_prot
+```
+
+The summary of the data contained by `brge_prot`:
+
+| Data Type     | Number of Samples | Number of Features | Technology                      | Object Name  | Class             |
+| :------------ | ----------------: | -----------------: | :------------------------------ | :----------- | :---------------- |
+| Proteome      | 90                | 47                 |                                 | `brge_prot`  | [`ExpressionSet`](https://bioconductor.org/packages/release/bioc/html/Biobase.html) |
+
+
+# Using `BRGEdata` with `MultiDataSet` package
+
+`MultiDataSet` objects are created empty suing `createMultiDataSet`:
+
+```{r create_mds, message=FALSE, warning=FALSE}
+library(MultiDataSet)
+mds <- createMultiDataSet()
+```
+
+Omic data-sets are added to the empty `MultiDataSet` using specific functions. To add *transcriptome data* the used function is `add_gexp`:
+
+```{r mds_gexp, warning=FALSE}
+mds <- add_genexp(mds, brge_gexp)
+```
+
+The equivalent to add *methylome data* is `add_methy`:
+
+```{r mds_methy, warning=FALSE}
+mds <- add_methy(mds, brge_methy)
+```
+
+There is no specific function to include *proteome data*. Hence we can use the basic function `add_eset`, taking advantadge of the argument `dataset.type`:
+
+```{r mds_prot, warning=FALSE}
+mds <- add_eset(mds, brge_prot, dataset.type="proteome")
+```
+
+To include *exposome data*, we are going to use the function `add_exp` from `omicRexposome` package. In this vignette we emulate the `add_exp` using `add_eset`:
+
+```{r mds_exp, message=FALSE, warning=FALSE}
+library(rexposome)
+mds <- add_eset(mds, brge_expo, dataset.type="exposures", GRanges = NA)
+```
+
+We can check the content of the `MultiDataSet` object with `names`:
+
+```{r mds_names}
+names(mds)
+```
+
+Also with the standard `show`:
+
+```{r mds_show}
+mds
+```
+
+
+# Using `BRGEdata` with `MultiAssayExperiment` package
+
+The creation of a `MultiAssayExperiment` we start encapsulating all the data-sets into a `list`:
+
+```{r mae_as_list}
+objlist <- list(
+    "transcriptome" = brge_gexp, 
+    "methylome"     = brge_methy,
+    "proteome"      = brge_prot, 
+    "exposome"      = brge_expo
+)
+```
+
+Then we use this `list` as argument for `MultiAssayExperiment`:
+
+```{r mae_crt, message=FALSE}
+library(MultiAssayExperiment)
+myMultiAssay <- MultiAssayExperiment(objlist)
+myMultiAssay
+```
+
+# Session info {.unnumbered}
+
+```{r sessionInfo, echo=FALSE}
+sessionInfo()
+```
