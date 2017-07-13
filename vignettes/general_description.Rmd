@@ -1,17 +1,20 @@
 ---
-title: "BRGEdata -- Multiple omic data-set from the same pupulation"
+title: "BRGEdata -- data R package with three omic data-set and exposome data-set from the same Spanish pupulation"
 author:
-- name: First Author
-  affiliation: First Author's Affiliation
-- name: Second Author
-  affiliation: Second Author's Affiliation
-  email: corresponding@author.com
+- name: Carles Hernandez-Ferrer
+  affiliation: 
+  - &isg Barcelona Institute for Global Health
+- name: Carlos Ruiz-Arenas
+  affiliation: *isg
+- name: Juan R. Gonzalez
+  affiliation: *isg
+  email: juanr.gonzalez@isglobal.org
 date: "`r doc_date()`"
 package: "`r pkg_ver('BRGEdata')`"
 output:
-  BiocStyle::html_document
+  BiocStyle::html_document2
 abstract: |
-  Description of your vignette
+  This document indicates the different data-sets included in `BRGEdata`. The description includes the technology used to create the and the number of samples and features in each one. then two sections illustrates how to use `BRGEdata` with `MultiDataSet` and `MultiAssayExperiment` packages.
 vignette: |
   %\VignetteIndexEntry{Vignette Title}
   %\VignetteEngine{knitr::rmarkdown}
