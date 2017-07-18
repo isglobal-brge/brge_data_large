@@ -1,6 +1,6 @@
 Package: BRGEdata
 Title: Exposures, Gene Expression and Methylation data for ilustration purpouses
-Version: 0.0.91
+Version: 0.99.1
 Authors@R: c(person("Carlos", "Ruiz-Arenas", email = "carlos.ruiz@isglobal.org", role = c("aut", "cre")),
     person("Carles", "Hernandez-Ferrer", email = "carles.hernandez@isglobal.org", role = "aut"),
     person("Juan R.", "Gonzalex", email = "juanr.gonzalez@isglobal.org", role = "aut"))
@@ -8,14 +8,16 @@ Description: This package contains seeveral sets of omics data including Gene
     Expression (ExpressionSet), Methylation (MethylationSet) and loss of Y data. 
     This data is used in vignettes and exaples at MEAL, snpFier, MADloy and 
     omicRexposome.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+VignetteBuilder: knitr
 Depends: R (>= 3.4),
     Biobase,
     MultiDataSet
 Imports: SummarizedExperiment
 Suggests: rexposome,
     minfi,
-    MultiAssayExperiment
-License: MIT
-Encoding: UTF-8
-LazyData: true
-RoxygenNote: 6.0.1
+    MultiAssayExperiment,
+    knitr

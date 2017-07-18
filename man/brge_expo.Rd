@@ -15,12 +15,4 @@ An \code{ExposomeSet} object.
 \code{ExposomeSet} with full set of 15 exposures grouped in 3 families for
  110 individuals.
 }
-\examples{
-data("brge_expo")
-dim(brge_expo)
-exposureNames(brge_expo)
-familyNames(brge_expo)
-sampleNames(brge_expo)
-phenotypeNames(brge_expo)
-}
 \keyword{datasets}

@@ -15,8 +15,8 @@ output:
   BiocStyle::html_document2
 abstract: |
   This document indicates the different data-sets included in `BRGEdata`. The description includes the technology used to create the and the number of samples and features in each one. then two sections illustrates how to use `BRGEdata` with `MultiDataSet` and `MultiAssayExperiment` packages.
-vignette: |
-  %\VignetteIndexEntry{Vignette Title}
+vignette: >
+  %\VignetteIndexEntry{BRGEdata -- data R package with three omic data-set and exposome data-set from the same Spanish pupulation}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
