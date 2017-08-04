@@ -5,11 +5,4 @@
 #'
 #' @usage data("brge_expo")
 #' @return An \code{ExposomeSet} object.
-#' @examples
-#' data("brge_expo")
-#' dim(brge_expo)
-#' exposureNames(brge_expo)
-#' familyNames(brge_expo)
-#' sampleNames(brge_expo)
-#' phenotypeNames(brge_expo)
 "brge_expo"
