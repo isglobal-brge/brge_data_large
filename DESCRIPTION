@@ -1,6 +1,6 @@
 Package: BRGEdata
 Title: Exposures, Gene Expression and Methylation data for ilustration purpouses
-Version: 0.99.3
+Version: 1.0.0
 Authors@R: c(person("Carlos", "Ruiz-Arenas", email = "carlos.ruiz@isglobal.org", role = c("aut", "cre")),
     person("Carles", "Hernandez-Ferrer", email = "carles.hernandez@isglobal.org", role = "aut"),
     person("Juan R.", "Gonzalez", email = "juanr.gonzalez@isglobal.org", role = "aut"))
