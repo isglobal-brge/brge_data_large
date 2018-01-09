@@ -1,7 +1,7 @@
-#' BRGEdata
+#' brgedata
 #'
 #' @docType package
-#' @name BRGEdata
+#' @name brgedata
 #'
 #' @importClassesFrom SummarizedExperiment SummarizedExperiment
 #' @importClassesFrom Biobase eSet ExpressionSet
