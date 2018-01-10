@@ -1,5 +1,5 @@
 ---
-title: "BRGEdata -- data R package with three omic data-set and exposome data-set from the same Spanish pupulation"
+title: "brgedata -- data R package with three omic data-set and exposome data-set from the same Spanish pupulation"
 author:
 - name: Carles Hernandez-Ferrer
   affiliation: 
@@ -10,20 +10,20 @@ author:
   affiliation: *isg
   email: juanr.gonzalez@isglobal.org
 date: "`r doc_date()`"
-package: "`r pkg_ver('BRGEdata')`"
+package: "`r pkg_ver('brgedata')`"
 output:
-  BiocStyle::html_document2
+  BiocStyle::html_document
 abstract: |
-  This document indicates the different data-sets included in `BRGEdata`. The description includes the technology used to create the and the number of samples and features in each one.
+  This document indicates the different data-sets included in `brgedata`. The description includes the technology used to create the and the number of samples and features in each one.
 vignette: >
-  %\VignetteIndexEntry{BRGEdata -- data R package with three omic data-set and exposome data-set from the same Spanish pupulation}
+  %\VignetteIndexEntry{brgedata -- data R package with three omic data-set and exposome data-set from the same Spanish pupulation}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
 
 # Getting started
 
-`BRGEdata` includes a collection of BRGE omic and exposome data from the same cohort. The diferent objects guarantees a minimum of samples in common between all sets.
+`brgedata` includes a collection of BRGE omic and exposome data from the same cohort. The diferent objects guarantees a minimum of samples in common between all sets.
 
 Data available in this R package:
 
@@ -43,7 +43,7 @@ Data available in this R package:
 To load the **exposome data**, stored in an `ExposomeSet`, run the follow commands:
 
 ```{r load_exposome, message=FALSE}
-data("brge_expo", package = "BRGEdata")
+data("brge_expo", package = "brgedata")
 brge_expo
 ```
 
@@ -59,7 +59,7 @@ The summary of the data contained by `brge_expo`:
 To load the **transcriptome data**, saved in an `ExpressionSet`, run the follow commands:
 
 ```{r load_transcriptome, message=FALSE}
-data("brge_gexp", package = "BRGEdata")
+data("brge_gexp", package = "brgedata")
 brge_gexp
 ```
 
@@ -75,7 +75,7 @@ The summary of the data contained by `brge_gexp`:
 To load the **methylation data**, encapsulated in a `GenomicRatioSet`, run the follow commands:
 
 ```{r load_methylome, message=FALSE}
-data("brge_methy", package = "BRGEdata")
+data("brge_methy", package = "brgedata")
 brge_methy
 ```
 
@@ -91,7 +91,7 @@ The summary of the data contained by `brge_methy`:
 To load the **protein data**, stored in an `ExpressionSet`, run the follow commands:
 
 ```{r load_proteome, message=FALSE}
-data("brge_prot", package = "BRGEdata")
+data("brge_prot", package = "brgedata")
 brge_prot
 ```
 
