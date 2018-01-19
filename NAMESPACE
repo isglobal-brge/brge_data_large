@@ -3,4 +3,3 @@
 importClassesFrom(Biobase,ExpressionSet)
 importClassesFrom(Biobase,eSet)
 importClassesFrom(SummarizedExperiment,SummarizedExperiment)
-importClassesFrom(rexposome,ExposomeSet)
