@@ -31,7 +31,7 @@ Data available in this R package:
 | :------------ | ----------------: | -----------------: | :------------------------------ | :----------- | :---------------- |
 | Exposome      | 110               | 15                 |                                 | `brge_expo`  | [`ExposomeSet`](https://github.com/isglobal-brge/rexposome) |
 | Transcriptome | 75                | 67528              | Affymetrix HTA 2.0              | `brge_gexp`  | [`ExpressionSet`](https://bioconductor.org/packages/release/bioc/html/Biobase.html) |
-| Methylome     | 20                | 476946             | Illumina Human Methylation 450K | `brge_methy` | [`GenomicRatioSet`](https://bioconductor.org/packages/release/bioc/html/minfi.html) |
+| Methylome     | 20                | 392277             | Illumina Human Methylation 450K | `brge_methy` | [`GenomicRatioSet`](https://bioconductor.org/packages/release/bioc/html/minfi.html) |
 | Proteome      | 90                | 47                 |                                 | `brge_prot`  | [`ExpressionSet`](https://bioconductor.org/packages/release/bioc/html/Biobase.html) |
 
 `sex` and `age` was included as phenotipic data in each set. Moreover, the `ExposomeSet` includes *asthma status* and *rhinitis status* of each sample.
@@ -83,7 +83,7 @@ The summary of the data contained by `brge_methy`:
 
 | Data Type     | Number of Samples | Number of Features | Technology                      | Object Name  | Class             |
 | :------------ | ----------------: | -----------------: | :------------------------------ | :----------- | :---------------- |
-| Methylome     | 115               | 476946             | Illumina Human Methylation 450K | `brge_methy` | [`GenomicRatioSet`](https://bioconductor.org/packages/release/bioc/html/minfi.html) |
+| Methylome     | 20               | 392277             | Illumina Human Methylation 450K | `brge_methy` | [`GenomicRatioSet`](https://bioconductor.org/packages/release/bioc/html/minfi.html) |
 
 
 ## Proteome Data
