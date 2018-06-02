@@ -1,13 +1,13 @@
 Package: brgedata
 Title: Exposures, Gene Expression and Methylation data for ilustration purpouses
-Version: 1.1.6
+Version: 1.1.7
 Authors@R: c(person("Carlos", "Ruiz-Arenas", email = "carlos.ruiz@isglobal.org", role = c("aut", "cre")),
     person("Carles", "Hernandez-Ferrer", email = "carles.hernandez@isglobal.org", role = "aut"),
     person("Juan R.", "Gonzalez", email = "juanr.gonzalez@isglobal.org", role = "aut"))
 Description: This package contains several sets of omics data including Gene 
     Expression (ExpressionSet), Methylation (GenomicRatioSet), Proteome and Exposome
     (ExposomeSet). This data is used in vignettes and exaples at MEAL, MultiDataSet and 
-    omicRexposome.
+    omicRexposome. The package also contains other datasets used in the book 'Omic association studies with R/Bioconductor'.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true

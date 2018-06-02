@@ -1,8 +1,8 @@
 \docType{data}
 \name{asthma}
 \alias{asthma}
-\title{SNP data on asthma study}
-\format{The {\tt asthma} data frame has 1578 rows (individuals) and 57 columns (variables) of data from a genetic study on asthma.}
+\title{SNP data on asthma case-control study}
+\format{The \code{asthma} data frame has 1578 rows (individuals) and 57 columns (variables) of data from a genetic study on asthma.}
 \usage{
 data("asthma")
 }
