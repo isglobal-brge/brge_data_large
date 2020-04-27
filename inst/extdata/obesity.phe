@@ -1,4 +1,4 @@
-"FID"	"IID"	"gender"	"obese"	"age"	"smoke"	"country"
+FID	IID	gender	obese	age	smoke	country
 "1"	"100"	2	1	48	1	53
 "1"	"1001"	2	2	49	1	54
 "1"	"1004"	1	1	38	2	51
