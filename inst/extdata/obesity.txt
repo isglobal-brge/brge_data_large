@@ -1,2313 +1,2313 @@
-"scanID"	"gender"	"obese"	"age"	"smoke"	"country"
-100	"Male"	0	48	"Never"	53
-1001	"Male"	1	49	"Never"	54
-1004	"Female"	0	38	"Ex"	51
-1005	"Male"	0	39	"Never"	53
-1006	"Female"	0	43	"Ex"	53
-1008	"Male"	1	49	"Never"	55
-1013	"Male"	1	37	"Current"	51
-1018	"Female"	0	47	"Current"	51
-1020	"Male"	0	30	"Current"	51
-1023	"Male"	1	41	"Ex"	50
-1029	"Female"	1	52	"Current"	53
-1030	"Male"	0	47	"Current"	51
-1031	"Male"	0	29	"Current"	53
-1033	"Female"	0	36	"Ex"	53
-1038	"Male"	0	50	"Current"	53
-104	"Female"	1	39	"Ex"	51
-1042	"Male"	0	53	"Never"	53
-1045	"Male"	0	36	"Current"	54
-1046	"Male"	0	51	"Ex"	54
-1047	"Female"	0	42	"Current"	55
-1049	"Female"	0	42	"Ex"	54
-105	"Female"	0	38	"Current"	54
-1052	"Female"	0	47	"Current"	51
-1053	"Female"	0	40	"Current"	55
-1058	"Male"	0	52	"Never"	51
-1059	"Male"	1	33	"Never"	53
-1060	"Male"	1	54	"Current"	54
-1062	"Female"	0	36	"Current"	54
-1063	"Male"	0	30	"Never"	54
-1066	"Male"	1	49	"Ex"	51
-1067	"Male"	0	40	"Current"	55
-1070	"Male"	0	47	"Never"	54
-1071	"Male"	NA	37	"Current"	51
-1072	"Male"	0	35	"Current"	50
-1073	"Male"	0	47	"Ex"	54
-1074	"Female"	0	45	"Ex"	51
-1075	"Female"	0	49	"Current"	54
-1077	"Female"	0	36	"Ex"	51
-1080	"Female"	0	34	"Current"	51
-1082	"Female"	0	35	"Current"	53
-1083	"Female"	0	46	"Current"	51
-1085	"Female"	1	39	"Current"	54
-1087	"Female"	0	30	"Current"	51
-1088	"Female"	0	34	"Never"	50
-1089	"Female"	0	45	"Current"	53
-1095	"Male"	0	49	"Never"	54
-1098	"Male"	0	49	"Ex"	53
-1099	"Male"	1	31	"Current"	53
-1101	"Male"	0	43	"Ex"	53
-1104	"Male"	0	50	"Ex"	50
-1106	"Female"	1	31	"Never"	50
-1107	"Male"	0	40	"Current"	51
-1109	"Male"	0	39	"Current"	53
-1110	"Male"	0	36	"Ex"	53
-1112	"Male"	0	41	"Ex"	51
-1113	"Male"	0	32	"Current"	55
-1119	"Male"	0	38	"Never"	53
-1126	"Female"	0	29	"Never"	53
-1127	"Female"	1	32	"Ex"	51
-1129	"Male"	1	52	"Current"	53
-1131	"Female"	0	34	"Never"	53
-1132	"Male"	0	52	"Ex"	50
-1133	"Female"	0	48	"Ex"	54
-1134	"Male"	0	30	"Current"	51
-1136	"Female"	0	45	"Current"	54
-1137	"Male"	0	34	"Never"	50
-1138	"Female"	0	30	"Current"	53
-1140	"Female"	0	36	"Current"	53
-1141	"Female"	0	45	"Never"	50
-1146	"Male"	0	45	"Never"	51
-1147	"Male"	0	48	"Never"	51
-115	"Female"	1	51	"Current"	50
-1151	"Male"	0	41	"Never"	54
-1152	"Female"	0	32	"Never"	51
-1153	"Female"	0	36	"Current"	55
-1154	"Male"	0	43	"Never"	51
-1156	"Male"	NA	40	"Never"	51
-1157	"Male"	0	53	"Current"	55
-1158	"Female"	1	52	"Never"	50
-1160	"Male"	0	43	"Ex"	53
-1161	"Female"	0	52	"Never"	53
-1163	"Male"	1	53	"Never"	50
-1164	"Male"	0	38	"Current"	51
-1166	"Female"	0	44	"Current"	53
-1171	"Male"	0	36	"Current"	53
-1172	"Female"	0	30	"Current"	53
-1174	"Female"	0	42	"Never"	51
-1175	"Male"	0	46	"Never"	51
-1178	"Male"	0	34	"Current"	54
-1179	"Female"	0	35	"Current"	53
-118	"Male"	0	47	"Ex"	55
-1183	"Male"	0	50	"Current"	53
-1184	"Female"	0	50	"Never"	53
-1186	"Female"	1	46	"Current"	55
-1188	"Male"	0	44	"Current"	53
-1192	"Female"	1	53	"Never"	53
-1194	"Male"	0	49	"Never"	54
-1195	"Male"	0	55	"Ex"	50
-1197	"Female"	0	39	"Current"	50
-1199	"Female"	1	46	"Current"	53
-12	"Female"	0	42	"Ex"	53
-120	"Female"	0	39	"Current"	51
-1200	"Male"	0	41	"Current"	51
-1202	"Male"	0	43	"Never"	51
-1203	"Female"	1	46	"Current"	55
-1207	"Female"	1	45	"Current"	51
-1209	"Male"	1	47	"Ex"	51
-121	"Female"	0	33	"Current"	55
-1211	"Female"	0	31	"Never"	55
-1213	"Female"	0	44	"Current"	53
-1214	"Female"	0	43	"Never"	51
-1215	"Male"	0	46	"Never"	51
-1217	"Female"	1	45	"Current"	51
-1219	"Female"	0	53	"Never"	54
-1220	"Female"	0	44	"Never"	53
-1222	"Female"	0	41	"Ex"	50
-1226	"Female"	1	50	"Ex"	53
-1229	"Female"	0	33	"Never"	51
-1230	"Female"	1	49	"Ex"	51
-1232	"Male"	0	47	"Never"	53
-1233	"Male"	NA	52	"Never"	51
-1234	"Male"	0	39	"Never"	51
-1235	"Male"	0	50	"Current"	53
-1236	"Male"	0	32	NA	51
-1237	"Male"	1	35	"Never"	51
-1238	"Male"	1	50	"Never"	51
-1242	"Female"	0	42	"Never"	51
-1247	"Female"	1	42	"Never"	53
-125	"Male"	0	48	"Never"	50
-1251	"Male"	0	45	"Current"	53
-1252	"Male"	0	39	"Never"	53
-1253	"Female"	0	46	"Current"	51
-1256	"Female"	0	41	"Current"	53
-1258	"Female"	1	53	"Never"	53
-1259	"Female"	0	48	"Ex"	51
-1261	"Female"	0	42	"Current"	53
-1262	"Female"	1	41	"Ex"	55
-1271	"Female"	0	35	"Current"	50
-1272	"Female"	0	48	"Never"	53
-1275	"Male"	0	54	"Never"	51
-1276	"Female"	0	36	"Ex"	51
-1277	"Male"	NA	35	"Never"	51
-1278	"Male"	0	41	"Current"	51
-128	"Male"	0	40	"Current"	51
-1281	"Female"	0	39	"Current"	51
-1283	"Male"	0	46	"Current"	53
-1285	"Female"	0	54	"Never"	51
-1286	"Male"	0	38	"Current"	53
-1288	"Female"	0	34	"Never"	54
-129	"Female"	0	41	"Ex"	50
-1290	"Male"	0	35	"Current"	50
-1292	"Female"	0	38	"Current"	51
-1294	"Male"	1	39	"Ex"	51
-1295	"Male"	1	36	"Current"	53
-1296	"Female"	0	32	"Current"	53
-1297	"Female"	0	41	"Current"	51
-1299	"Female"	0	48	"Never"	53
-1300	"Female"	0	39	"Ex"	50
-1301	"Male"	0	38	"Ex"	51
-1302	"Male"	1	45	"Ex"	51
-1303	"Male"	0	43	"Current"	54
-1304	"Female"	0	50	"Current"	53
-1309	"Male"	0	31	"Current"	53
-131	"Female"	0	41	"Never"	54
-1310	"Male"	1	42	"Never"	53
-1316	"Female"	0	38	"Current"	51
-1317	"Male"	0	50	"Current"	51
-1318	"Male"	0	42	"Ex"	50
-1320	"Female"	0	50	"Ex"	53
-1326	"Female"	0	38	"Current"	51
-1327	"Female"	1	32	"Current"	53
-1330	"Male"	NA	31	"Never"	51
-1331	"Male"	0	29	"Never"	53
-1332	"Male"	0	43	"Current"	55
-1334	"Male"	NA	39	"Current"	50
-1335	"Female"	0	32	"Current"	51
-134	"Male"	0	36	"Ex"	51
-1340	"Male"	NA	40	"Never"	51
-1341	"Female"	0	34	"Never"	53
-1343	"Male"	0	42	"Current"	53
-1346	"Male"	0	39	"Current"	51
-1347	"Female"	0	41	"Ex"	53
-1351	"Male"	1	53	"Never"	54
-1355	"Female"	0	33	"Current"	55
-1356	"Female"	0	48	"Current"	51
-1358	"Female"	NA	39	"Never"	51
-1359	"Male"	0	42	"Ex"	54
-1363	"Female"	0	44	"Ex"	55
-1365	"Male"	0	36	"Current"	53
-1366	"Male"	0	45	"Ex"	50
-1368	"Male"	1	45	"Current"	54
-1369	"Female"	1	50	"Ex"	53
-1371	"Male"	0	54	"Never"	51
-1373	"Female"	0	34	"Current"	55
-1374	"Female"	0	39	"Current"	53
-1375	"Female"	0	35	"Never"	54
-1376	"Female"	0	32	"Current"	53
-1378	"Female"	0	44	"Current"	50
-1381	"Female"	0	46	"Current"	50
-1383	"Female"	0	46	"Current"	55
-1384	"Male"	0	45	"Current"	53
-1387	"Female"	0	37	"Never"	51
-139	"Female"	0	52	"Never"	53
-1391	"Female"	0	53	"Never"	54
-1392	"Female"	0	49	"Ex"	53
-1393	"Male"	0	35	"Current"	50
-1398	"Male"	0	43	"Ex"	54
-1399	"Female"	0	36	"Never"	53
-14	"Male"	0	37	"Ex"	51
-1401	"Female"	NA	35	"Never"	51
-1405	"Male"	0	52	"Current"	54
-1406	"Male"	1	36	"Ex"	51
-1408	"Male"	0	42	"Ex"	53
-1409	"Male"	NA	53	"Never"	51
-1412	"Male"	1	35	"Never"	51
-1414	"Male"	1	37	"Current"	51
-1415	"Male"	1	51	"Never"	53
-1417	"Male"	0	42	"Current"	55
-1418	"Female"	0	31	"Never"	51
-1419	"Male"	0	54	"Never"	51
-142	"Female"	0	46	"Never"	51
-1421	"Male"	0	43	"Current"	51
-1422	"Female"	0	38	"Never"	53
-1425	"Female"	1	52	"Never"	54
-1426	"Female"	0	35	"Current"	53
-1427	"Female"	0	44	"Ex"	51
-1428	"Female"	0	40	"Current"	55
-143	"Female"	0	37	"Never"	51
-1430	"Female"	1	31	"Current"	53
-1431	"Male"	1	49	"Never"	55
-1434	"Female"	1	55	"Never"	54
-1435	"Female"	0	31	"Never"	51
-1436	"Male"	0	53	"Ex"	51
-1437	"Female"	1	39	"Ex"	51
-1438	"Male"	0	50	"Current"	53
-1439	"Female"	1	41	"Current"	54
-144	"Female"	0	36	"Current"	53
-1440	"Female"	0	40	"Never"	54
-1442	"Male"	0	34	"Never"	55
-1443	"Female"	1	40	"Ex"	53
-1444	"Female"	0	37	"Current"	53
-145	"Male"	0	52	"Never"	51
-1451	"Female"	0	33	"Never"	51
-1453	"Male"	0	34	"Current"	55
-1454	"Female"	0	38	"Never"	55
-1455	"Male"	0	40	"Never"	50
-1457	"Male"	NA	38	"Current"	51
-1458	"Male"	0	44	"Current"	53
-1459	"Male"	NA	40	"Never"	51
-146	"Female"	0	50	"Current"	50
-1462	"Female"	0	42	"Current"	53
-1463	"Male"	0	41	"Never"	54
-1466	"Female"	0	35	"Current"	50
-1468	"Male"	1	54	"Current"	51
-1471	"Female"	0	42	"Never"	53
-1472	"Male"	0	54	"Never"	51
-1474	"Female"	0	36	"Current"	53
-1476	"Male"	0	45	"Ex"	51
-1477	"Female"	NA	34	"Current"	51
-1478	"Male"	0	33	"Never"	55
-1479	"Male"	0	41	"Ex"	50
-1480	"Female"	0	53	"Ex"	50
-1481	"Male"	0	33	"Never"	51
-1483	"Female"	0	44	"Current"	50
-1486	"Male"	NA	34	"Current"	51
-1487	"Female"	0	44	"Never"	50
-1490	"Female"	0	52	"Ex"	54
-1491	"Female"	0	47	"Current"	51
-1493	"Male"	0	42	"Ex"	51
-1494	"Female"	0	32	"Current"	51
-1496	"Female"	0	42	"Current"	55
-1497	"Female"	0	53	"Ex"	51
-1499	"Male"	0	48	"Never"	53
-1502	"Male"	0	39	"Current"	51
-1503	"Male"	0	33	"Never"	54
-1506	"Female"	0	36	"Current"	51
-1509	"Female"	0	49	"Current"	54
-1510	"Male"	0	50	"Never"	53
-1512	"Female"	0	32	"Current"	53
-1513	"Male"	0	35	"Current"	53
-1516	"Female"	0	40	"Current"	50
-1519	"Female"	0	35	"Ex"	50
-1525	"Female"	0	32	"Ex"	51
-1529	"Male"	0	48	"Ex"	54
-153	"Male"	0	52	"Ex"	54
-1530	"Male"	1	40	"Never"	50
-1531	"Female"	1	47	"Current"	55
-1532	"Male"	0	30	"Current"	53
-1535	"Male"	0	39	"Never"	51
-1536	"Male"	NA	40	"Never"	51
-1538	"Male"	0	48	"Never"	55
-1539	"Female"	0	44	"Never"	54
-154	"Male"	NA	34	"Current"	51
-1542	"Female"	0	32	"Current"	55
-1545	"Female"	0	31	"Current"	50
-1546	"Female"	0	53	"Ex"	51
-155	"Male"	0	30	"Never"	51
-1550	"Female"	0	39	"Current"	51
-1551	"Female"	0	43	"Ex"	53
-1553	"Female"	1	39	"Never"	53
-1557	"Male"	0	49	"Never"	54
-1559	"Male"	0	48	"Never"	55
-156	"Male"	0	36	"Current"	53
-1562	"Female"	1	49	"Ex"	51
-1563	"Female"	0	43	"Ex"	55
-1568	"Female"	1	42	"Ex"	54
-1570	"Female"	0	48	"Current"	53
-1571	"Male"	0	51	"Never"	51
-1572	"Male"	0	47	"Current"	55
-1573	"Male"	0	34	"Current"	54
-1574	"Male"	0	33	"Current"	51
-1575	"Female"	1	39	"Never"	53
-1576	"Male"	1	50	"Ex"	53
-1578	"Male"	0	36	"Current"	53
-1579	"Female"	1	49	"Never"	54
-158	"Female"	0	31	"Never"	51
-1583	"Male"	0	40	"Ex"	50
-1584	"Female"	0	34	"Never"	53
-1585	"Male"	0	46	"Current"	53
-1586	"Male"	0	40	"Never"	54
-1589	"Male"	0	44	"Ex"	55
-159	"Male"	NA	40	"Never"	51
-1591	"Female"	1	49	"Never"	55
-1592	"Female"	0	48	"Never"	50
-1593	"Female"	NA	49	"Never"	53
-1594	"Female"	0	35	"Ex"	51
-1595	"Male"	0	55	"Never"	51
-1596	"Male"	0	42	"Current"	53
-1599	"Male"	0	45	"Never"	53
-16	"Female"	0	38	"Current"	51
-1601	"Female"	NA	49	"Never"	53
-1603	"Female"	0	48	"Never"	53
-1605	"Female"	1	52	"Ex"	50
-1607	"Female"	0	47	"Current"	51
-1612	"Male"	0	39	"Current"	51
-1618	"Male"	0	36	"Current"	55
-1619	"Male"	0	36	"Ex"	51
-1621	"Male"	0	43	"Never"	53
-1622	"Male"	0	37	"Current"	54
-1623	"Male"	0	36	"Current"	53
-1625	"Female"	0	31	"Current"	54
-1627	"Female"	0	41	"Current"	53
-1628	"Female"	0	34	"Current"	51
-1629	"Male"	0	40	"Ex"	50
-163	"Male"	0	33	"Never"	54
-1630	"Female"	0	42	"Ex"	54
-1631	"Female"	0	32	"Current"	51
-1632	"Male"	0	31	"Current"	54
-1633	"Female"	0	29	"Current"	53
-1636	"Female"	0	43	"Ex"	53
-1641	"Female"	0	40	"Current"	55
-1642	"Male"	1	42	"Current"	51
-1644	"Female"	1	53	"Never"	50
-1645	"Male"	1	49	"Current"	53
-1649	"Female"	0	39	"Current"	51
-1650	"Female"	0	44	"Never"	50
-1651	"Male"	0	45	"Never"	53
-1652	"Female"	1	46	"Current"	53
-1654	"Male"	0	42	"Never"	53
-1659	"Male"	0	50	"Never"	51
-1660	"Female"	0	34	"Never"	54
-1663	"Male"	0	49	"Current"	51
-1665	"Male"	0	33	"Never"	55
-1667	"Female"	0	35	"Never"	53
-1668	"Female"	0	36	"Current"	53
-1669	"Male"	0	36	"Never"	50
-167	"Male"	0	46	"Never"	51
-1670	"Male"	0	48	"Never"	53
-1671	"Male"	0	38	"Never"	55
-1674	"Male"	0	40	"Current"	55
-1676	"Male"	0	39	"Current"	53
-168	"Female"	NA	50	"Never"	53
-1680	"Female"	0	52	"Current"	54
-1681	"Female"	0	36	"Current"	54
-1682	"Female"	0	49	"Current"	54
-1684	"Male"	0	32	"Current"	53
-1686	"Male"	1	39	"Never"	51
-1688	"Male"	0	47	"Never"	51
-169	"Female"	0	44	"Current"	54
-1690	"Female"	0	55	"Ex"	50
-170	"Female"	0	46	"Current"	55
-1700	"Male"	0	34	"Ex"	50
-1704	"Male"	0	44	"Current"	53
-1705	"Male"	0	40	"Never"	50
-1708	"Female"	0	39	"Never"	53
-1709	"Male"	0	31	"Current"	53
-1714	"Male"	0	46	"Current"	53
-1715	"Male"	0	55	"Ex"	50
-1716	"Female"	1	53	"Never"	54
-1720	"Female"	0	34	"Current"	55
-1723	"Male"	0	43	"Current"	51
-1724	"Male"	0	38	"Current"	54
-1728	"Female"	0	32	"Current"	51
-1729	"Male"	0	47	"Current"	54
-1730	"Male"	0	32	"Current"	53
-1732	"Female"	1	52	"Never"	54
-1733	"Female"	0	44	"Current"	53
-1734	"Female"	0	52	"Never"	51
-1735	"Female"	0	43	"Never"	50
-1737	"Male"	0	43	"Current"	54
-1738	"Male"	NA	53	"Never"	51
-174	"Female"	0	43	"Never"	51
-1741	"Female"	0	44	"Current"	54
-1742	"Female"	0	42	"Never"	51
-1745	"Female"	0	49	"Never"	51
-1746	"Male"	0	30	"Current"	51
-1747	"Female"	1	55	"Never"	50
-1751	"Male"	0	45	"Current"	54
-1753	"Female"	NA	34	"Current"	51
-1754	"Female"	0	41	"Current"	53
-1755	"Female"	0	54	"Never"	51
-1759	"Female"	NA	52	"Never"	51
-1760	"Male"	0	42	"Never"	51
-1761	"Male"	0	32	"Never"	55
-1762	"Female"	0	52	"Ex"	50
-1763	"Male"	0	46	"Current"	53
-1768	"Female"	0	30	"Never"	54
-1769	"Male"	0	53	"Never"	54
-1773	"Female"	1	42	"Ex"	53
-1775	"Female"	0	52	"Current"	50
-1777	"Female"	0	35	"Current"	53
-1778	"Female"	0	36	"Never"	55
-1782	"Female"	0	42	"Current"	53
-1783	"Male"	0	31	"Current"	51
-1784	"Female"	0	48	"Current"	51
-1785	"Female"	0	37	"Never"	51
-1787	"Male"	0	34	"Never"	54
-1788	"Male"	0	36	"Current"	50
-1797	"Female"	0	38	"Current"	50
-180	"Female"	0	51	"Never"	53
-1801	"Male"	0	42	"Ex"	53
-1804	"Male"	0	32	"Never"	51
-1805	"Female"	0	43	"Current"	51
-1807	"Female"	0	32	"Current"	55
-1814	"Male"	0	32	"Current"	51
-1816	"Male"	0	39	"Current"	50
-1818	"Female"	1	41	"Never"	54
-182	"Male"	0	33	"Never"	55
-1820	"Male"	0	53	"Never"	54
-1822	"Female"	0	40	"Never"	50
-1823	"Female"	0	40	"Current"	50
-1824	"Male"	1	41	"Never"	54
-1826	"Male"	NA	39	"Current"	50
-1827	"Male"	0	32	"Never"	51
-1828	"Male"	1	51	"Current"	50
-1829	"Male"	1	45	"Current"	54
-1831	"Male"	0	32	"Ex"	51
-1834	"Male"	0	35	"Never"	54
-1835	"Female"	0	44	"Current"	53
-1836	"Male"	0	55	"Current"	54
-1837	"Female"	0	44	"Never"	54
-184	"Male"	1	32	"Ex"	51
-1842	"Male"	0	36	"Never"	54
-1844	"Female"	1	52	"Ex"	50
-1845	"Male"	0	42	"Current"	51
-1847	"Female"	0	42	"Never"	53
-1848	"Female"	1	35	"Never"	51
-1849	"Female"	0	32	"Never"	51
-1850	"Female"	0	43	"Never"	50
-1854	"Female"	1	32	"Never"	54
-1855	"Male"	0	43	"Never"	51
-1856	"Male"	0	31	"Current"	53
-1858	"Female"	1	38	"Ex"	51
-1861	"Female"	0	38	"Ex"	50
-1862	"Female"	0	48	"Current"	51
-1863	"Male"	0	42	"Ex"	51
-1865	"Male"	0	39	"Never"	51
-1868	"Female"	0	34	"Current"	55
-187	"Female"	1	51	"Never"	53
-1874	"Male"	NA	37	"Current"	51
-1875	"Female"	0	37	"Never"	53
-1876	"Female"	0	31	"Current"	50
-1877	"Male"	0	49	"Current"	54
-1879	"Male"	0	53	"Current"	53
-188	"Male"	0	39	"Current"	53
-1881	"Female"	1	38	"Ex"	51
-1886	"Male"	0	36	"Current"	53
-1889	"Female"	1	37	"Current"	53
-189	"Female"	NA	50	"Never"	53
-1891	"Male"	0	41	"Never"	51
-1892	"Female"	0	50	"Current"	50
-1893	"Male"	0	38	"Ex"	50
-1895	"Female"	0	42	"Current"	53
-1897	"Female"	0	51	"Never"	51
-1899	"Male"	0	39	"Never"	51
-190	"Male"	0	36	"Current"	53
-1910	"Female"	0	30	"Current"	51
-1913	"Male"	1	41	"Current"	50
-1914	"Male"	0	30	"Current"	51
-1915	"Male"	NA	34	"Current"	51
-1918	"Female"	0	36	"Current"	54
-192	"Female"	0	34	"Never"	53
-1923	"Male"	0	38	"Current"	53
-1925	"Male"	0	36	"Current"	53
-1926	"Female"	0	44	"Current"	55
-1929	"Female"	NA	37	"Current"	51
-1930	"Female"	0	49	"Never"	51
-1931	"Female"	0	43	"Current"	51
-1933	"Male"	0	33	"Never"	51
-1934	"Male"	1	45	"Current"	54
-1935	"Female"	0	29	"Never"	53
-1937	"Male"	0	40	"Current"	50
-194	"Male"	0	49	"Current"	54
-1941	"Male"	0	39	"Current"	51
-1943	"Female"	0	31	"Never"	53
-1945	"Female"	0	44	"Ex"	55
-1946	"Female"	0	41	"Current"	53
-1949	"Male"	0	50	"Never"	53
-195	"Male"	0	42	"Ex"	51
-1950	"Female"	0	44	"Current"	53
-1952	"Male"	1	42	"Current"	54
-1953	"Male"	1	39	"Never"	53
-1955	"Female"	0	41	"Current"	53
-1957	"Male"	0	47	"Never"	51
-1958	"Female"	0	46	"Never"	51
-1962	"Female"	0	52	"Ex"	54
-1963	"Male"	0	42	"Ex"	55
-1964	"Female"	0	44	"Current"	53
-1965	"Female"	0	33	"Never"	54
-1968	"Male"	0	30	"Current"	50
-1969	"Male"	0	43	"Ex"	53
-197	"Female"	0	41	"Ex"	53
-1975	"Female"	0	46	"Never"	51
-1977	"Male"	0	38	"Current"	54
-1978	"Male"	0	41	"Current"	53
-1979	"Male"	1	52	"Current"	53
-198	"Female"	0	47	"Current"	54
-1982	"Male"	0	42	"Ex"	53
-1983	"Female"	0	45	"Current"	54
-1984	"Male"	0	32	"Ex"	53
-1986	"Female"	0	49	"Current"	51
-1987	"Female"	0	42	"Never"	51
-1988	"Female"	0	40	"Current"	55
-1989	"Female"	0	50	"Ex"	50
-1990	"Female"	0	34	"Never"	53
-1991	"Female"	0	50	"Current"	53
-1993	"Male"	1	39	"Never"	53
-1994	"Female"	1	45	"Ex"	51
-1997	"Female"	0	30	"Current"	51
-1999	"Male"	0	30	"Current"	53
-20	"Male"	0	32	"Current"	53
-200	"Female"	0	31	"Current"	53
-2000	"Female"	0	42	"Ex"	53
-2001	"Female"	1	52	"Never"	50
-2003	"Male"	0	37	"Never"	53
-2005	"Female"	0	38	"Current"	54
-2012	"Male"	0	43	"Current"	50
-2015	"Female"	NA	38	"Current"	51
-2016	"Female"	0	38	"Current"	51
-2020	"Male"	0	44	"Current"	53
-2021	"Male"	1	36	"Current"	53
-2022	"Female"	0	35	"Ex"	51
-2025	"Male"	0	33	"Never"	54
-2026	"Female"	0	30	"Ex"	50
-2027	"Male"	0	43	"Ex"	55
-2028	"Female"	0	53	"Never"	51
-203	"Male"	0	47	"Current"	51
-2032	"Male"	0	40	"Current"	55
-2033	"Male"	0	32	"Current"	53
-2034	"Male"	0	42	"Never"	53
-2035	"Female"	0	51	"Never"	54
-2039	"Male"	0	31	"Current"	50
-204	"Female"	0	33	"Never"	51
-2040	"Female"	0	39	"Never"	51
-2046	"Male"	0	39	"Ex"	50
-2047	"Male"	1	55	"Never"	54
-2048	"Male"	0	44	"Ex"	55
-2049	"Male"	0	47	"Never"	54
-205	"Female"	0	51	"Current"	55
-2051	"Male"	0	54	"Never"	51
-2052	"Male"	0	41	"Ex"	51
-2055	"Male"	0	33	"Never"	51
-2057	"Female"	0	46	"Current"	50
-2059	"Female"	0	30	"Ex"	53
-2061	"Male"	0	49	"Ex"	53
-2063	"Female"	1	41	"Never"	54
-2064	"Male"	0	31	"Current"	55
-2066	"Female"	1	50	"Ex"	53
-2068	"Female"	0	32	"Current"	54
-2070	"Male"	0	32	"Ex"	53
-2071	"Female"	0	51	"Never"	53
-2072	"Female"	0	37	"Ex"	51
-2075	"Female"	0	33	"Never"	51
-2079	"Female"	0	35	"Ex"	51
-208	"Male"	0	49	"Ex"	53
-2080	"Female"	0	44	"Ex"	55
-2082	"Male"	0	42	"Current"	53
-2086	"Female"	0	47	"Current"	51
-2087	"Male"	0	30	"Current"	51
-2088	"Male"	0	36	"Current"	53
-2089	"Male"	0	48	"Current"	51
-2092	"Female"	0	36	"Current"	53
-2094	"Male"	0	51	"Never"	51
-2099	"Male"	0	33	"Never"	51
-21	"Female"	1	48	"Current"	51
-210	"Female"	0	41	"Ex"	51
-2100	"Female"	1	33	"Never"	53
-2102	"Female"	0	49	"Ex"	53
-2104	"Female"	1	42	"Ex"	53
-2106	"Male"	0	47	"Current"	50
-2108	"Female"	0	43	"Ex"	53
-211	"Female"	0	48	"Never"	53
-2111	"Male"	0	38	"Never"	53
-2112	"Male"	0	34	"Current"	54
-2113	"Male"	0	52	"Current"	54
-2114	"Male"	0	32	"Never"	51
-2115	"Female"	0	48	"Never"	55
-2118	"Male"	0	39	"Current"	51
-2119	"Female"	0	39	"Current"	51
-2120	"Female"	1	50	"Never"	51
-2124	"Male"	0	42	"Current"	54
-2125	"Female"	0	46	"Current"	50
-2130	"Male"	1	51	"Never"	53
-2132	"Female"	1	40	"Never"	50
-2134	"Female"	1	51	"Current"	50
-2135	"Male"	0	42	"Never"	53
-2136	"Male"	0	33	"Never"	53
-2137	"Male"	0	42	"Current"	55
-2138	"Male"	0	47	"Never"	51
-2142	"Female"	0	36	"Current"	54
-2144	"Male"	1	38	"Ex"	51
-2145	"Male"	0	39	"Current"	53
-2147	"Female"	0	50	"Current"	50
-2149	"Female"	0	42	"Never"	51
-2152	"Female"	0	51	"Never"	54
-2153	"Male"	0	37	"Current"	55
-2159	"Female"	0	36	"Current"	51
-2162	"Male"	0	51	"Never"	51
-2163	"Female"	1	39	"Never"	53
-2171	"Female"	1	39	"Never"	53
-2174	"Female"	1	42	"Current"	54
-2175	"Female"	0	42	"Current"	53
-2176	"Female"	0	36	"Ex"	51
-2177	"Male"	0	41	"Current"	51
-2178	"Female"	0	42	"Ex"	51
-2180	"Male"	0	48	"Never"	53
-2184	"Female"	1	52	"Current"	53
-2186	"Female"	0	43	"Current"	54
-2189	"Female"	0	31	"Current"	51
-219	"Male"	NA	52	"Never"	51
-2191	"Female"	0	31	"Current"	55
-2192	"Female"	0	50	"Never"	51
-2196	"Female"	0	46	"Current"	53
-2197	"Male"	0	40	"Current"	53
-22	"Female"	0	31	"Never"	55
-220	"Male"	0	50	"Never"	51
-2201	"Female"	1	48	"Ex"	51
-2202	"Female"	0	31	"Current"	50
-2203	"Female"	0	36	"Ex"	51
-2206	"Male"	NA	40	"Never"	51
-2207	"Male"	0	49	"Current"	54
-2209	"Male"	0	43	"Never"	51
-2210	"Male"	0	52	"Ex"	54
-2211	"Female"	0	34	"Never"	53
-2212	"Female"	0	42	"Never"	51
-2215	"Female"	0	32	"Current"	55
-2216	"Female"	0	51	"Never"	54
-2217	"Male"	0	49	"Current"	54
-2219	"Female"	0	44	"Never"	50
-2223	"Male"	0	49	"Current"	51
-2225	"Female"	0	43	"Current"	53
-2228	"Female"	1	41	"Current"	50
-2229	"Male"	1	40	"Ex"	53
-2231	"Female"	0	44	"Ex"	51
-2232	"Male"	0	44	"Never"	50
-2237	"Female"	0	45	"Never"	50
-2244	"Male"	0	45	"Ex"	51
-2249	"Female"	0	43	"Current"	51
-225	"Female"	NA	39	"Current"	50
-2251	"Female"	1	33	"Never"	53
-2254	"Male"	0	48	"Never"	53
-2255	"Male"	0	44	"Current"	54
-2259	"Female"	0	49	"Current"	54
-2260	"Male"	0	37	"Never"	53
-2261	"Female"	0	50	"Current"	51
-2265	"Female"	0	42	"Ex"	51
-2266	"Male"	0	47	"Never"	51
-2267	"Male"	0	49	"Never"	55
-2269	"Male"	0	34	"Current"	51
-227	"Male"	0	42	"Never"	53
-2271	"Male"	1	40	"Never"	50
-2273	"Female"	0	44	"Ex"	50
-2275	"Female"	0	50	"Never"	53
-2276	"Male"	0	31	"Current"	51
-2279	"Male"	0	50	"Current"	50
-228	"Male"	0	39	"Ex"	54
-2280	"Female"	1	42	"Current"	54
-2282	"Female"	0	42	"Ex"	51
-2283	"Male"	0	52	"Never"	51
-2285	"Female"	1	31	"Current"	53
-2290	"Male"	0	37	"Never"	53
-2291	"Female"	0	33	"Current"	51
-2292	"Male"	0	30	"Never"	51
-2294	"Male"	1	42	"Ex"	53
-2295	"Male"	0	45	"Ex"	51
-2298	"Male"	0	31	"Never"	51
-2303	"Male"	0	51	"Never"	54
-2305	"Female"	1	52	"Never"	53
-2308	"Male"	NA	31	"Never"	51
-2312	"Female"	0	33	"Never"	55
-2313	"Female"	0	38	"Current"	51
-2314	"Male"	1	53	"Never"	50
-2317	"Female"	0	29	"Never"	53
-232	"Male"	0	49	"Ex"	50
-2322	"Female"	0	32	"Current"	53
-2325	"Male"	0	45	"Never"	51
-2328	"Female"	0	35	"Never"	54
-2334	"Male"	0	49	"Never"	51
-2335	"Female"	1	48	"Current"	51
-2336	"Male"	1	37	"Current"	51
-2337	"Male"	0	32	"Never"	55
-2339	"Female"	0	29	"Current"	53
-234	"Female"	0	41	"Ex"	50
-2340	"Male"	0	30	"Current"	51
-2342	"Male"	0	33	"Current"	55
-2343	"Female"	1	50	"Ex"	53
-2344	"Female"	0	36	"Ex"	53
-2345	"Female"	0	38	"Never"	55
-2346	"Female"	0	50	"Current"	53
-235	"Male"	0	38	"Current"	51
-2350	"Male"	0	42	"Never"	51
-2354	"Female"	0	30	"Current"	53
-2356	"Male"	0	43	"Ex"	53
-2358	"Female"	0	47	"Never"	50
-236	"Male"	1	50	"Ex"	53
-2360	"Female"	0	50	"Ex"	50
-2361	"Male"	0	36	"Current"	54
-2363	"Male"	0	48	"Never"	55
-2366	"Male"	0	36	"Current"	53
-2372	"Female"	0	39	"Never"	55
-2373	"Male"	0	43	"Current"	53
-2376	"Male"	0	43	"Ex"	55
-2377	"Female"	0	36	"Current"	55
-2379	"Male"	0	34	"Never"	53
-238	"Female"	0	48	"Never"	55
-2381	"Female"	1	41	"Ex"	50
-2382	"Male"	0	48	"Current"	54
-2385	"Male"	0	42	"Ex"	50
-2389	"Male"	0	32	"Current"	53
-2390	"Female"	0	40	"Current"	53
-2391	"Female"	0	35	"Ex"	50
-2394	"Male"	0	32	"Current"	54
-2395	"Male"	0	49	"Current"	50
-2396	"Female"	0	52	"Never"	51
-2397	"Male"	0	36	"Ex"	51
-2399	"Male"	0	34	"Never"	55
-2400	"Male"	0	41	"Never"	54
-2403	"Female"	0	45	"Never"	51
-2404	"Female"	0	48	"Ex"	54
-2405	"Male"	1	46	"Current"	55
-2406	"Female"	0	36	"Never"	50
-2407	"Female"	0	40	"Ex"	50
-2408	"Male"	1	53	"Never"	50
-241	"Male"	1	46	"Current"	55
-2411	"Female"	1	45	"Ex"	51
-2415	"Male"	0	48	"Never"	51
-2416	"Male"	0	43	"Current"	54
-2419	"Male"	1	49	"Never"	54
-242	"Female"	0	30	"Current"	51
-2420	"Male"	0	33	"Never"	51
-2422	"Male"	1	32	"Never"	54
-2423	"Female"	1	48	"Current"	51
-2425	"Male"	0	44	"Current"	55
-2426	"Female"	0	40	"Ex"	50
-2428	"Female"	0	32	"Ex"	51
-2430	"Female"	0	33	"Never"	51
-2431	"Male"	1	52	"Current"	53
-2433	"Female"	1	41	"Ex"	55
-2434	"Female"	0	34	"Ex"	53
-2438	"Female"	0	32	"Ex"	53
-2442	"Female"	0	38	"Current"	51
-2446	"Female"	0	37	"Current"	54
-2449	"Female"	0	33	"Never"	54
-2451	"Male"	0	44	"Ex"	55
-2452	"Female"	0	48	"Never"	50
-2455	"Male"	0	48	"Current"	54
-2456	"Male"	0	47	"Never"	53
-2458	"Male"	0	34	"Current"	51
-246	"Female"	0	48	"Current"	51
-2460	"Female"	1	50	"Ex"	54
-2461	"Female"	1	53	"Never"	50
-2462	"Male"	1	47	"Current"	55
-2463	"Female"	0	47	"Never"	50
-2465	"Female"	0	55	"Never"	50
-2466	"Male"	0	36	"Never"	54
-2468	"Female"	0	52	"Never"	51
-2469	"Male"	0	41	"Ex"	53
-247	"Female"	0	39	"Current"	51
-2470	"Female"	0	30	"Current"	53
-2473	"Male"	1	39	"Ex"	51
-2474	"Female"	0	43	"Current"	50
-2475	"Female"	0	55	"Never"	51
-2477	"Male"	1	48	"Current"	51
-2478	"Male"	0	45	"Ex"	50
-248	"Female"	0	45	"Never"	53
-2481	"Male"	0	42	"Ex"	51
-2484	"Female"	0	36	"Current"	53
-2485	"Female"	0	47	"Ex"	55
-2486	"Female"	0	31	"Current"	51
-2488	"Female"	0	32	"Ex"	51
-2493	"Male"	0	51	"Never"	51
-2494	"Male"	0	39	"Current"	53
-2495	"Female"	0	38	"Current"	55
-2499	"Female"	0	32	"Ex"	53
-25	"Male"	0	32	"Current"	51
-250	"Female"	0	52	"Current"	55
-2501	"Female"	1	50	"Never"	51
-2504	"Male"	0	52	"Ex"	54
-2505	"Male"	0	48	"Never"	51
-2508	"Male"	NA	35	"Never"	51
-2509	"Female"	0	30	"Current"	50
-2512	"Female"	0	29	"Never"	53
-2514	"Female"	0	50	"Current"	53
-2516	"Male"	1	36	"Current"	53
-2517	"Male"	0	43	"Current"	54
-2520	"Female"	0	48	"Never"	55
-2521	"Male"	0	30	"Current"	51
-2522	"Female"	1	30	"Never"	54
-2523	"Male"	0	32	"Current"	53
-2525	"Female"	0	48	"Never"	51
-2526	"Male"	0	31	"Never"	51
-2527	"Female"	0	36	"Never"	53
-2529	"Female"	0	43	"Current"	55
-2530	"Male"	0	45	"Ex"	51
-2534	"Male"	0	47	"Never"	53
-2535	"Female"	0	31	"Current"	50
-2536	"Female"	NA	38	"Current"	51
-2537	"Male"	0	30	"Ex"	53
-2539	"Male"	0	42	"Current"	54
-254	"Female"	1	44	"Current"	51
-2542	"Male"	0	46	"Current"	50
-2543	"Female"	0	47	"Current"	51
-2545	"Male"	0	55	"Never"	50
-2549	"Female"	1	41	"Never"	54
-255	"Male"	0	37	"Current"	53
-2551	"Male"	0	30	"Never"	54
-2552	"Male"	0	44	"Current"	55
-2553	"Male"	0	43	"Current"	55
-2556	"Female"	NA	40	"Never"	51
-2557	"Female"	0	43	"Never"	51
-2559	"Female"	0	44	"Current"	51
-2562	"Male"	NA	31	"Never"	51
-2564	"Female"	1	47	"Current"	50
-2568	"Male"	1	32	"Current"	53
-2569	"Male"	0	32	"Current"	53
-257	"Female"	0	36	"Current"	54
-2570	"Male"	0	40	"Current"	53
-2573	"Female"	0	43	"Current"	50
-2577	"Male"	0	43	"Never"	50
-2578	"Female"	0	44	"Never"	54
-2580	"Female"	0	39	"Ex"	54
-2581	"Female"	0	39	"Ex"	54
-2585	"Female"	0	32	"Current"	53
-2586	"Female"	0	31	"Current"	51
-2589	"Female"	0	45	"Ex"	50
-2590	"Male"	0	44	"Current"	54
-26	"Female"	0	47	"Current"	55
-260	"Male"	0	47	"Current"	54
-2600	"Female"	0	32	"Current"	53
-2602	"Female"	0	41	"Current"	51
-2603	"Female"	0	43	"Current"	53
-2608	"Male"	0	33	"Never"	54
-2611	"Male"	0	44	"Current"	53
-2612	"Female"	0	32	"Ex"	51
-2613	"Male"	0	52	"Current"	55
-2614	"Male"	0	49	"Never"	51
-2616	"Male"	0	42	"Ex"	51
-2618	"Male"	0	44	"Current"	53
-2619	"Female"	0	31	"Never"	51
-2620	"Male"	0	45	"Current"	53
-2622	"Male"	0	43	"Current"	55
-2625	"Male"	0	43	"Current"	53
-2627	"Male"	NA	50	"Never"	53
-2629	"Female"	0	54	"Never"	51
-2630	"Male"	0	33	"Never"	54
-2631	"Male"	0	45	"Current"	53
-2632	"Male"	0	35	"Current"	53
-2637	"Male"	0	37	"Never"	53
-2638	"Male"	0	47	"Never"	51
-2647	"Female"	0	55	"Current"	54
-2648	"Female"	1	48	"Current"	51
-2649	"Female"	0	42	"Ex"	53
-265	"Male"	NA	38	"Current"	51
-2650	"Female"	0	53	"Never"	54
-2652	"Female"	1	54	"Current"	50
-2655	"Female"	0	43	"Ex"	54
-2656	"Female"	1	54	"Current"	50
-2658	"Female"	0	54	"Never"	51
-2659	"Female"	1	42	"Ex"	53
-266	"Female"	1	49	"Never"	54
-2662	"Female"	0	45	"Current"	54
-2663	"Male"	1	45	"Ex"	51
-2664	"Female"	0	44	"Current"	53
-2668	"Female"	0	44	"Current"	55
-267	"Female"	1	39	"Current"	54
-2670	"Female"	0	55	"Current"	54
-2671	"Female"	0	36	"Never"	50
-2674	"Male"	0	44	"Never"	54
-268	"Male"	0	35	"Current"	50
-2680	"Female"	0	45	"Current"	54
-2681	"Male"	0	39	"Current"	51
-2683	"Female"	0	43	"Current"	53
-2687	"Male"	0	44	"Current"	51
-2692	"Male"	0	48	"Never"	51
-2694	"Male"	1	41	"Ex"	50
-2695	"Male"	1	50	"Never"	51
-2696	"Female"	0	47	"Never"	50
-2697	"Female"	0	44	"Current"	54
-2698	"Female"	0	44	"Ex"	55
-2699	"Male"	0	48	"Never"	53
-27	"Male"	1	55	"Never"	50
-2701	"Female"	0	42	"Never"	53
-2702	"Female"	0	44	"Current"	53
-2704	"Female"	0	40	"Current"	53
-2705	"Female"	1	33	"Never"	53
-2710	"Male"	0	31	"Current"	55
-2711	"Female"	0	49	"Never"	51
-2712	"Female"	0	42	"Never"	51
-2713	"Male"	0	53	"Never"	51
-2714	"Female"	0	50	"Current"	53
-2717	"Male"	0	53	"Never"	53
-2720	"Female"	0	29	"Never"	53
-2721	"Female"	0	53	"Ex"	50
-2724	"Male"	0	41	"Current"	51
-2725	"Female"	0	43	"Current"	51
-2727	"Female"	1	52	"Ex"	50
-2728	"Male"	0	30	"Current"	53
-2729	"Male"	NA	31	"Never"	51
-273	"Female"	0	44	"Current"	53
-2730	"Female"	0	36	"Current"	53
-2731	"Female"	NA	52	"Never"	51
-2732	"Female"	0	53	"Never"	54
-2733	"Female"	0	48	"Never"	55
-2734	"Female"	0	48	"Ex"	51
-2735	"Male"	1	50	"Ex"	54
-2738	"Male"	0	45	"Current"	54
-274	"Female"	0	35	"Ex"	51
-2741	"Female"	1	54	"Current"	54
-2743	"Female"	1	39	"Ex"	51
-2745	"Female"	0	54	"Never"	51
-2746	"Male"	NA	34	"Current"	51
-2747	"Male"	1	35	"Never"	51
-2749	"Female"	0	29	"Current"	53
-2753	"Female"	0	47	"Ex"	51
-2755	"Female"	NA	37	"Current"	51
-2757	"Male"	0	42	"Ex"	53
-2758	"Male"	1	41	"Current"	50
-2762	"Male"	0	30	"Current"	51
-2765	"Male"	1	41	"Ex"	55
-2768	"Female"	0	48	"Current"	53
-2769	"Male"	0	42	"Ex"	54
-277	"Female"	0	32	"Current"	53
-2771	"Female"	1	53	"Ex"	54
-2772	"Female"	0	50	"Never"	51
-2777	"Female"	NA	38	"Current"	51
-2778	"Female"	0	36	"Current"	54
-2779	"Female"	0	50	"Ex"	53
-278	"Male"	0	50	"Never"	53
-2780	"Male"	1	41	"Ex"	50
-2781	"Male"	1	48	"Current"	53
-2784	"Female"	0	55	"Current"	54
-2787	"Female"	0	42	"Never"	51
-2788	"Female"	0	42	"Current"	50
-279	"Female"	0	32	"Never"	51
-2790	"Male"	0	35	"Current"	50
-2792	"Female"	1	42	"Current"	51
-2794	"Female"	0	44	"Current"	53
-2795	"Female"	0	43	"Never"	53
-2796	"Female"	0	43	"Current"	54
-28	"Male"	0	29	"Current"	53
-2800	"Male"	0	41	"Current"	53
-2801	"Male"	0	35	"Never"	53
-2802	"Female"	0	36	"Current"	53
-2805	"Male"	1	49	"Ex"	51
-2806	"Female"	0	36	"Never"	50
-2811	"Female"	0	42	"Current"	53
-2817	"Male"	1	38	"Ex"	51
-2821	"Male"	0	51	"Never"	51
-2822	"Female"	0	48	"Never"	51
-2826	"Female"	0	36	"Never"	53
-2830	"Female"	0	38	"Current"	51
-2832	"Male"	1	38	"Ex"	51
-2835	"Male"	0	47	"Current"	53
-2842	"Female"	0	45	"Ex"	51
-2844	"Female"	0	33	"Never"	53
-2845	"Male"	0	45	"Current"	53
-2847	"Female"	0	29	"Never"	53
-2849	"Female"	0	31	"Current"	55
-2850	"Male"	0	38	"Ex"	51
-2851	"Male"	0	44	"Current"	54
-2852	"Male"	0	35	"Never"	54
-2853	"Male"	0	51	"Never"	51
-2855	"Male"	1	41	"Never"	51
-2862	"Female"	0	51	"Ex"	54
-2864	"Male"	1	50	"Ex"	53
-2865	"Female"	0	49	"Current"	54
-2866	"Female"	0	38	"Current"	54
-2870	"Male"	0	45	"Ex"	50
-2872	"Female"	1	46	"Current"	53
-2873	"Female"	1	30	"Never"	54
-2875	"Male"	0	45	"Never"	53
-2880	"Male"	0	49	"Ex"	53
-2883	"Male"	0	32	"Ex"	51
-2885	"Male"	0	50	"Ex"	53
-2888	"Male"	0	45	"Current"	53
-2889	"Female"	0	50	"Current"	53
-2890	"Female"	0	44	"Current"	54
-2891	"Female"	0	35	"Ex"	50
-2895	"Female"	0	43	"Current"	54
-2898	"Male"	1	33	"Never"	53
-2899	"Male"	0	53	"Current"	55
-29	"Male"	0	36	"Never"	55
-290	"Male"	0	31	"Current"	50
-2900	"Female"	0	29	"Current"	53
-2901	"Male"	0	48	"Current"	51
-2902	"Male"	0	44	"Never"	53
-2905	"Female"	1	48	"Ex"	51
-2906	"Male"	0	34	"Never"	53
-2907	"Male"	0	47	"Ex"	51
-2909	"Female"	0	31	"Never"	53
-2910	"Male"	0	36	"Never"	53
-2913	"Female"	0	41	"Current"	53
-2915	"Female"	1	44	"Current"	51
-2917	"Male"	0	49	"Current"	54
-2918	"Female"	0	48	"Current"	51
-2922	"Male"	1	48	"Ex"	51
-2923	"Female"	0	30	"Current"	53
-2925	"Male"	0	45	"Never"	50
-2927	"Female"	0	33	"Never"	54
-2928	"Male"	0	49	"Ex"	50
-293	"Female"	0	39	"Never"	50
-2931	"Female"	0	45	"Ex"	51
-2932	"Female"	0	30	"Current"	50
-2933	"Female"	1	42	"Ex"	53
-2935	"Male"	1	42	"Never"	53
-2939	"Male"	0	47	"Never"	50
-2940	"Female"	1	39	"Never"	53
-2943	"Male"	0	37	"Current"	53
-2944	"Male"	1	49	"Never"	55
-2946	"Male"	1	41	"Never"	51
-2948	"Male"	0	45	"Ex"	51
-2949	"Male"	0	39	"Current"	50
-2951	"Male"	0	44	"Never"	53
-2957	"Male"	1	51	"Current"	55
-296	"Male"	0	33	"Current"	55
-2962	"Female"	1	51	"Current"	50
-2965	"Male"	0	43	"Ex"	55
-2966	"Male"	0	32	"Never"	55
-2967	"Female"	0	39	"Current"	51
-297	"Female"	0	42	"Current"	53
-2971	"Female"	1	30	"Never"	54
-2973	"Female"	0	34	"Never"	55
-2975	"Male"	0	31	"Never"	53
-2977	"Male"	NA	49	"Never"	53
-2978	"Male"	0	53	"Current"	53
-2979	"Female"	0	46	"Current"	51
-2980	"Male"	0	29	"Never"	53
-2981	"Male"	0	47	"Ex"	54
-2982	"Female"	0	32	"Current"	53
-2983	"Male"	0	49	"Ex"	53
-2984	"Female"	0	36	"Ex"	51
-2986	"Male"	0	43	"Ex"	53
-2987	"Male"	0	44	"Current"	51
-2989	"Male"	0	41	"Ex"	50
-2991	"Female"	0	43	"Ex"	53
-2993	"Female"	1	36	"Ex"	51
-2994	"Male"	0	50	"Never"	51
-2998	"Female"	0	45	"Never"	51
-2999	"Female"	0	50	"Never"	51
-3	"Female"	0	55	"Never"	51
-30	"Male"	0	44	"Current"	53
-3003	"Female"	0	38	"Current"	51
-3006	"Female"	0	39	"Current"	53
-3009	"Female"	0	38	"Current"	51
-3010	"Male"	NA	34	"Current"	51
-3015	"Male"	0	34	"Never"	53
-3016	"Female"	0	49	"Ex"	53
-3018	"Male"	1	52	"Ex"	50
-3022	"Female"	0	48	"Current"	51
-3023	"Male"	0	36	"Ex"	51
-3024	"Female"	0	44	"Current"	53
-3028	"Female"	0	48	"Ex"	51
-3033	"Male"	1	50	"Never"	51
-3036	"Male"	0	48	"Never"	51
-3037	"Female"	1	32	"Current"	53
-3039	"Female"	0	50	"Never"	53
-3045	"Female"	1	46	"Current"	53
-3047	"Female"	1	36	"Ex"	51
-3048	"Male"	0	50	"Never"	53
-3049	"Female"	0	44	"Never"	50
-3051	"Male"	0	47	"Current"	50
-3052	"Male"	0	45	"Current"	53
-3056	"Female"	0	42	"Ex"	51
-3058	"Female"	0	45	"Current"	54
-3064	"Female"	0	44	"Ex"	51
-3065	"Female"	1	48	"Current"	51
-3066	"Female"	0	38	"Ex"	50
-3068	"Male"	0	41	"Ex"	53
-307	"Female"	0	53	"Current"	53
-3072	"Male"	0	32	"Current"	53
-3074	"Female"	1	49	"Current"	53
-3076	"Male"	0	44	"Current"	54
-3078	"Female"	0	30	"Ex"	50
-308	"Female"	1	45	"Current"	51
-3090	"Male"	0	36	"Never"	54
-3091	"Male"	0	47	"Never"	50
-3092	"Male"	1	39	"Ex"	51
-3094	"Female"	0	34	"Never"	53
-3097	"Male"	1	32	"Current"	53
-31	"Female"	0	34	"Ex"	50
-3102	"Female"	0	29	"Current"	53
-3103	"Female"	NA	31	"Never"	51
-3105	"Female"	0	39	"Ex"	54
-3106	"Male"	0	43	"Never"	53
-3111	"Male"	1	37	"Current"	53
-3113	"Male"	0	34	"Never"	55
-3115	"Female"	0	40	"Current"	55
-3116	"Female"	0	42	"Current"	54
-3119	"Male"	0	44	"Current"	54
-3120	"Female"	0	46	"Never"	51
-3125	"Male"	0	48	"Never"	51
-3128	"Male"	0	34	"Current"	55
-3129	"Female"	0	30	"Ex"	53
-313	"Female"	0	44	"Current"	55
-3131	"Male"	0	44	"Never"	53
-3132	"Male"	0	39	"Never"	53
-3135	"Male"	0	32	"Never"	51
-3137	"Male"	0	36	"Ex"	51
-3138	"Female"	0	55	"Never"	51
-3139	"Male"	NA	50	"Never"	53
-3140	"Female"	0	34	"Never"	53
-3142	"Female"	1	31	"Never"	50
-3143	"Male"	NA	31	"Current"	51
-3144	"Female"	0	48	"Current"	51
-3146	"Male"	1	37	"Current"	53
-315	"Male"	0	47	"Never"	54
-3150	"Male"	0	52	"Current"	50
-3151	"Female"	1	52	"Never"	50
-3154	"Male"	0	31	"Never"	51
-3156	"Female"	0	51	"Never"	54
-3157	"Male"	0	39	"Current"	53
-3162	"Male"	0	34	"Ex"	53
-3163	"Male"	0	44	"Ex"	54
-3164	"Female"	0	32	"Ex"	51
-3167	"Male"	0	30	"Current"	53
-3168	"Male"	0	47	"Never"	50
-3171	"Male"	0	43	"Current"	51
-3172	"Male"	0	32	"Current"	53
-3173	"Female"	0	41	"Ex"	50
-3176	"Female"	0	37	"Current"	54
-318	"Female"	0	42	"Ex"	51
-3185	"Female"	0	32	"Never"	55
-3187	"Female"	0	49	"Current"	54
-3190	"Female"	1	51	"Never"	53
-3191	"Male"	0	45	"Current"	53
-3192	"Female"	1	54	"Current"	50
-3193	"Female"	0	36	"Never"	55
-3196	"Female"	0	49	"Current"	54
-3197	"Male"	0	37	"Current"	55
-3201	"Female"	0	43	"Current"	50
-3202	"Male"	0	30	"Ex"	50
-3204	"Female"	0	51	"Current"	55
-3208	"Male"	0	33	"Never"	51
-3209	"Female"	0	49	"Current"	51
-321	"Male"	0	55	"Never"	50
-3210	"Female"	1	41	"Ex"	55
-3212	"Male"	NA	31	"Current"	51
-3215	"Female"	0	29	"Never"	53
-3216	"Female"	0	33	"Current"	51
-3219	"Female"	0	44	"Ex"	51
-3223	"Male"	0	46	"Never"	51
-3227	"Male"	0	44	"Never"	50
-3228	"Male"	NA	49	"Never"	53
-323	"Female"	0	43	"Current"	53
-3230	"Female"	0	40	"Never"	50
-3232	"Female"	0	52	"Ex"	50
-3233	"Male"	0	39	"Ex"	50
-3234	"Male"	1	35	"Never"	51
-3235	"Female"	0	34	"Never"	53
-3236	"Male"	1	42	"Ex"	54
-3238	"Female"	0	53	"Ex"	51
-324	"Female"	0	32	"Ex"	51
-3242	"Male"	0	40	"Current"	50
-3245	"Female"	1	38	"Ex"	51
-3246	"Female"	0	39	"Current"	50
-3249	"Male"	1	39	"Never"	51
-325	"Female"	0	34	"Current"	55
-3251	"Male"	0	48	"Ex"	51
-3254	"Female"	0	39	"Never"	55
-3255	"Male"	1	52	"Current"	53
-3257	"Female"	1	53	"Never"	54
-3265	"Female"	0	40	"Current"	51
-3267	"Female"	0	42	"Ex"	53
-3268	"Female"	1	54	"Current"	51
-3269	"Male"	0	44	"Never"	53
-3271	"Female"	0	31	"Current"	55
-3275	"Male"	0	49	"Current"	54
-3276	"Male"	0	45	"Current"	53
-3279	"Male"	0	34	"Current"	54
-3280	"Female"	0	30	"Never"	51
-3282	"Male"	0	45	"Current"	53
-3283	"Male"	NA	39	"Current"	50
-3284	"Female"	1	52	"Ex"	50
-3286	"Female"	0	37	"Never"	53
-3289	"Male"	1	52	"Never"	50
-3292	"Male"	0	48	"Never"	50
-3293	"Female"	0	36	"Ex"	51
-3298	"Male"	1	36	"Ex"	51
-330	"Male"	1	43	"Ex"	51
-3300	"Male"	0	44	"Ex"	50
-3301	"Male"	NA	39	"Never"	51
-3302	"Female"	0	31	"Current"	51
-3306	"Male"	0	44	"Current"	53
-3309	"Male"	0	30	"Ex"	53
-3314	"Male"	0	48	"Never"	51
-3316	"Male"	0	40	"Never"	54
-3317	"Female"	0	44	"Ex"	51
-332	"Female"	0	45	"Never"	53
-3324	"Male"	0	53	"Current"	53
-3325	"Male"	0	45	"Never"	53
-3327	"Male"	0	34	"Never"	53
-3328	"Female"	0	44	"Never"	50
-3329	"Male"	0	42	"Ex"	53
-3333	"Male"	0	34	"Never"	55
-3334	"Male"	0	47	"Ex"	51
-3335	"Female"	0	52	"Ex"	54
-3336	"Male"	0	55	"Never"	50
-3338	"Female"	0	42	"Never"	51
-3339	"Male"	1	39	"Ex"	51
-3340	"Male"	0	34	"Ex"	53
-3344	"Male"	0	55	"Never"	51
-3345	"Male"	1	41	"Current"	50
-3346	"Female"	0	34	"Never"	50
-3347	"Female"	0	40	"Ex"	50
-3351	"Female"	0	38	"Never"	53
-3354	"Female"	0	33	"Never"	51
-3356	"Male"	0	36	"Current"	53
-3358	"Male"	0	34	"Never"	53
-3359	"Female"	0	31	"Current"	51
-336	"Male"	0	34	"Ex"	53
-3360	"Male"	0	49	"Ex"	50
-3361	"Female"	0	39	"Ex"	50
-3362	"Female"	0	33	"Never"	54
-3363	"Male"	0	48	"Current"	54
-3364	"Female"	NA	35	"Ex"	51
-3366	"Female"	0	44	"Current"	53
-3370	"Male"	0	36	"Never"	55
-3371	"Female"	0	41	"Ex"	50
-3372	"Female"	NA	49	"Never"	53
-3373	"Male"	0	46	"Current"	51
-3374	"Female"	0	49	"Current"	54
-3375	"Male"	0	34	"Current"	54
-3376	"Female"	0	33	"Never"	51
-3377	"Female"	0	49	"Never"	51
-3378	"Female"	0	36	"Never"	54
-3379	"Female"	0	34	"Never"	53
-338	"Female"	0	53	"Never"	54
-3380	"Male"	0	50	"Never"	51
-3383	"Female"	0	43	"Ex"	54
-3384	"Male"	0	47	"Never"	54
-3385	"Female"	0	39	"Ex"	54
-3386	"Female"	0	44	"Ex"	55
-3391	"Female"	1	52	"Current"	53
-3392	"Female"	0	38	"Current"	53
-3394	"Female"	0	45	"Never"	53
-3395	"Female"	0	44	"Never"	50
-3397	"Female"	0	48	"Current"	51
-340	"Male"	NA	31	"Current"	51
-3402	"Male"	0	44	"Ex"	54
-3405	"Female"	0	49	"Ex"	50
-3406	"Male"	1	45	"Ex"	51
-3407	"Female"	0	51	"Never"	53
-3410	"Male"	0	37	"Ex"	51
-3413	"Female"	0	46	"Never"	51
-3414	"Female"	NA	31	"Never"	51
-3416	"Male"	0	33	"Never"	51
-3417	"Female"	0	47	"Ex"	55
-3418	"Female"	0	54	"Never"	51
-3419	"Male"	NA	34	"Current"	51
-342	"Male"	1	31	"Never"	50
-3420	"Male"	0	47	"Current"	53
-3421	"Male"	0	35	"Current"	50
-3423	"Female"	0	38	"Current"	55
-3424	"Male"	NA	31	"Current"	51
-3425	"Female"	0	44	"Never"	50
-3428	"Female"	0	48	"Never"	55
-3429	"Male"	0	45	"Never"	51
-3430	"Female"	0	32	"Current"	54
-3438	"Male"	0	50	"Current"	50
-3446	"Female"	0	39	"Current"	53
-3447	"Female"	0	32	"Never"	50
-3450	"Female"	0	39	"Never"	51
-3451	"Male"	0	45	"Current"	54
-3453	"Male"	0	44	"Current"	53
-3455	"Male"	1	51	"Current"	55
-3457	"Female"	0	34	"Never"	53
-346	"Male"	0	39	"Current"	50
-3461	"Male"	1	46	"Current"	55
-3462	"Female"	0	41	"Current"	51
-3464	"Female"	0	30	"Current"	50
-3465	"Female"	0	36	"Never"	53
-3466	"Male"	1	52	"Never"	50
-3467	"Male"	0	35	"Current"	53
-3471	"Female"	0	39	"Current"	53
-3473	"Female"	0	54	"Never"	51
-3474	"Female"	0	53	"Current"	53
-3476	"Female"	0	44	"Current"	55
-3477	"Male"	1	39	"Never"	51
-3479	"Female"	0	36	"Never"	54
-348	"Male"	0	38	"Current"	55
-3482	"Female"	0	42	"Ex"	53
-3483	"Female"	1	49	"Current"	53
-3485	"Female"	0	46	"Current"	54
-3486	"Female"	1	41	"Current"	54
-349	"Male"	0	45	"Never"	50
-3492	"Male"	1	54	"Current"	51
-3496	"Male"	0	34	"Never"	53
-3497	"Male"	0	30	"Current"	51
-3498	"Male"	0	53	"Never"	53
-3499	"Female"	0	52	"Ex"	50
-350	"Female"	0	39	"Never"	50
-3501	"Male"	0	49	"Current"	54
-3503	"Female"	0	35	"Current"	50
-3507	"Female"	0	39	"Current"	50
-3508	"Female"	1	50	"Ex"	54
-3509	"Male"	0	53	"Never"	54
-3513	"Male"	1	50	"Ex"	53
-3515	"Male"	1	39	"Never"	53
-3516	"Male"	0	33	"Never"	54
-3517	"Male"	0	37	"Current"	53
-3519	"Male"	0	50	"Current"	53
-3525	"Female"	0	43	"Current"	54
-3527	"Female"	0	42	"Never"	53
-3528	"Female"	0	43	"Current"	51
-3529	"Male"	0	39	"Current"	53
-3531	"Male"	0	47	"Never"	50
-3533	"Male"	0	37	"Current"	53
-3534	"Female"	0	38	"Current"	51
-3537	"Male"	0	30	"Current"	50
-3538	"Female"	1	41	"Current"	54
-354	"Female"	0	34	"Never"	53
-3540	"Male"	0	53	"Ex"	50
-3541	"Male"	0	48	"Current"	53
-3543	"Female"	0	38	"Never"	53
-3545	"Male"	1	32	"Never"	54
-3546	"Female"	0	41	"Ex"	50
-3551	"Male"	0	40	"Current"	55
-3553	"Female"	NA	37	"Current"	51
-3554	"Female"	NA	40	"Never"	51
-3557	"Female"	0	50	"Ex"	53
-356	"Male"	0	47	"Current"	53
-3560	"Male"	0	39	"Never"	51
-3561	"Male"	NA	34	"Current"	51
-3564	"Female"	0	44	"Current"	55
-3565	"Female"	1	46	"Current"	55
-3566	"Female"	0	31	"Current"	55
-3569	"Female"	1	39	"Current"	54
-3571	"Male"	1	43	"Ex"	51
-3573	"Female"	0	42	"Never"	53
-3574	"Male"	0	53	"Current"	53
-3575	"Female"	0	47	"Never"	51
-3578	"Female"	0	46	"Never"	51
-3583	"Female"	1	45	"Current"	54
-3585	"Female"	1	41	"Never"	51
-3587	"Male"	0	31	"Current"	53
-3589	"Female"	0	47	"Current"	54
-359	"Male"	0	32	"Current"	53
-3595	"Female"	0	42	"Ex"	53
-3597	"Male"	0	32	"Never"	51
-36	"Male"	1	53	"Never"	53
-360	"Female"	1	36	"Current"	53
-3601	"Female"	0	34	"Current"	51
-3602	"Male"	0	43	"Never"	53
-3603	"Male"	0	40	"Current"	50
-3604	"Female"	0	30	"Never"	54
-3605	"Male"	0	32	"Current"	53
-3607	"Male"	1	42	"Current"	51
-3608	"Male"	0	47	"Ex"	55
-3609	"Female"	0	38	"Ex"	50
-3610	"Female"	0	43	"Ex"	54
-3613	"Male"	1	50	"Never"	51
-3616	"Male"	0	43	"Current"	54
-3618	"Female"	1	38	"Ex"	51
-362	"Male"	0	30	"Ex"	50
-3622	"Male"	0	55	"Ex"	50
-3623	"Male"	0	46	"Current"	53
-3625	"Male"	0	49	"Never"	55
-3627	"Female"	0	47	"Current"	55
-363	"Male"	1	44	"Current"	51
-3631	"Female"	1	55	"Never"	50
-3634	"Female"	0	40	"Never"	54
-3635	"Male"	0	45	"Never"	53
-3637	"Female"	0	53	"Never"	54
-3638	"Female"	1	54	"Current"	54
-364	"Female"	NA	35	"Ex"	51
-3640	"Female"	0	37	"Ex"	51
-3641	"Male"	0	47	"Never"	53
-3642	"Female"	0	52	"Ex"	54
-3644	"Male"	0	42	"Current"	53
-3645	"Female"	0	30	"Current"	53
-3646	"Male"	1	46	"Current"	53
-3648	"Female"	0	43	"Current"	53
-3649	"Male"	0	41	"Ex"	51
-3650	"Female"	0	51	"Current"	55
-3651	"Female"	0	45	"Never"	53
-3652	"Male"	0	43	"Current"	54
-3653	"Male"	0	42	"Ex"	51
-3655	"Female"	0	47	"Ex"	54
-3658	"Male"	1	47	"Current"	50
-366	"Male"	0	43	"Ex"	55
-3663	"Male"	0	41	"Ex"	53
-3664	"Male"	0	51	"Current"	55
-3665	"Male"	1	39	"Never"	53
-3668	"Female"	1	46	"Current"	53
-3669	"Female"	0	32	"Never"	51
-367	"Female"	NA	50	"Never"	53
-3671	"Male"	1	53	"Never"	53
-3673	"Female"	0	39	"Never"	50
-3677	"Female"	1	47	"Current"	55
-3678	"Male"	0	33	"Never"	54
-3680	"Male"	0	34	"Never"	53
-3682	"Male"	0	47	"Current"	51
-3683	"Male"	0	55	"Ex"	50
-3685	"Female"	1	42	"Never"	53
-3686	"Male"	0	31	"Current"	55
-3687	"Male"	0	53	"Never"	51
-3689	"Male"	NA	31	"Never"	51
-369	"Female"	0	39	"Current"	50
-3691	"Male"	0	36	"Never"	53
-3692	"Female"	1	43	"Ex"	51
-3696	"Female"	1	49	"Ex"	51
-3697	"Male"	0	44	"Current"	55
-3702	"Female"	1	49	"Ex"	51
-3703	"Female"	0	52	"Current"	50
-3705	"Female"	1	47	"Ex"	51
-3708	"Female"	1	42	"Current"	51
-371	"Female"	0	30	"Current"	53
-3711	"Male"	0	39	"Current"	50
-3719	"Female"	1	47	"Current"	50
-372	"Male"	0	44	"Current"	54
-3724	"Female"	0	36	"Ex"	51
-3729	"Female"	1	53	"Ex"	54
-373	"Male"	0	42	"Ex"	51
-3731	"Female"	0	32	"Never"	55
-3732	"Male"	0	50	"Current"	53
-3733	"Male"	0	49	"Current"	54
-3735	"Male"	NA	40	"Never"	51
-3743	"Female"	0	43	"Never"	51
-3744	"Female"	0	49	"Never"	55
-3748	"Female"	0	35	"Never"	53
-3749	"Female"	0	52	"Never"	51
-375	"Female"	0	38	"Current"	50
-3751	"Female"	0	42	"Current"	50
-3755	"Male"	0	43	"Never"	50
-3757	"Female"	0	42	"Current"	55
-3759	"Female"	0	32	"Never"	50
-3760	"Male"	0	36	"Current"	53
-3761	"Female"	0	50	"Current"	53
-3763	"Female"	0	34	"Ex"	50
-3764	"Male"	1	42	"Ex"	53
-3765	"Male"	1	48	"Ex"	51
-3770	"Male"	0	39	"Ex"	54
-3771	"Male"	0	48	"Current"	53
-3778	"Male"	0	45	"Current"	53
-3779	"Female"	0	44	"Never"	53
-3780	"Male"	0	39	"Current"	51
-3781	"Female"	0	51	"Never"	53
-3782	"Female"	0	43	"Never"	51
-3784	"Female"	1	37	"Current"	51
-3786	"Male"	1	39	"Never"	51
-3787	"Female"	0	32	"Ex"	53
-3790	"Female"	1	39	"Ex"	51
-3792	"Female"	0	37	"Never"	51
-3793	"Male"	0	40	"Current"	55
-3796	"Male"	0	45	"Never"	51
-3797	"Female"	0	52	"Never"	51
-3798	"Female"	0	45	"Current"	53
-3799	"Male"	0	41	"Ex"	53
-38	"Female"	0	55	"Never"	50
-3804	"Female"	1	54	"Current"	51
-3805	"Female"	0	47	"Never"	51
-3807	"Male"	1	36	"Current"	53
-3809	"Male"	0	36	"Current"	51
-3810	"Male"	0	30	"Current"	53
-3812	"Male"	0	46	"Current"	54
-3814	"Male"	0	34	"Current"	55
-3815	"Male"	NA	39	"Never"	51
-3817	"Female"	0	36	"Current"	54
-3819	"Male"	0	37	"Current"	53
-382	"Male"	0	49	"Never"	54
-3823	"Male"	0	31	"Current"	54
-3826	"Female"	0	38	"Ex"	51
-3829	"Female"	1	49	"Ex"	51
-384	"Female"	1	52	"Current"	53
-3840	"Female"	0	46	"Never"	51
-3841	"Male"	0	41	"Ex"	50
-3842	"Male"	0	36	"Current"	50
-3843	"Male"	0	36	"Ex"	53
-3845	"Female"	1	52	"Never"	54
-3846	"Male"	0	39	"Current"	50
-3848	"Female"	0	35	"Current"	50
-3849	"Female"	0	29	"Current"	53
-385	"Female"	1	51	"Current"	55
-3851	"Female"	NA	37	"Current"	51
-3854	"Female"	0	36	"Current"	54
-3855	"Male"	1	50	"Never"	51
-3856	"Male"	0	39	"Current"	50
-3857	"Male"	NA	52	"Never"	51
-3858	"Female"	0	53	"Never"	54
-386	"Male"	0	54	"Never"	51
-3863	"Female"	NA	31	"Never"	51
-3864	"Male"	0	44	"Current"	51
-3867	"Male"	0	34	"Never"	54
-387	"Female"	0	51	"Ex"	54
-3870	"Male"	1	55	"Never"	54
-3872	"Female"	0	34	"Ex"	50
-3874	"Female"	0	30	"Never"	54
-3876	"Female"	1	49	"Ex"	51
-3879	"Male"	1	54	"Current"	51
-3880	"Male"	0	42	"Current"	53
-3881	"Female"	1	38	"Ex"	51
-3883	"Male"	0	31	"Current"	54
-3884	"Female"	0	42	"Ex"	50
-3885	"Female"	0	45	"Current"	53
-3886	"Female"	0	36	"Current"	53
-3893	"Female"	0	49	"Ex"	50
-3896	"Female"	0	40	"Never"	54
-3897	"Female"	1	40	"Ex"	53
-39	"Female"	0	44	"Current"	51
-390	"Female"	0	44	"Current"	53
-3900	"Male"	0	43	"Current"	54
-3901	"Male"	1	52	"Never"	53
-3902	"Female"	0	53	"Never"	54
-3903	"Male"	0	54	"Never"	51
-3905	"Female"	1	37	"Current"	53
-3907	"Male"	0	47	"Never"	50
-3908	"Female"	0	31	"Current"	55
-3909	"Male"	0	36	"Current"	53
-3911	"Female"	0	48	"Never"	53
-3916	"Female"	0	48	"Never"	51
-3920	"Female"	0	47	"Current"	51
-3922	"Female"	0	36	"Never"	50
-3924	"Male"	NA	34	"Current"	51
-3925	"Male"	0	48	"Never"	53
-3927	"Female"	0	46	"Current"	54
-3929	"Male"	0	53	"Current"	53
-393	"Female"	1	30	"Never"	54
-3931	"Female"	0	48	"Never"	50
-3932	"Male"	0	48	"Ex"	54
-3940	"Female"	0	45	"Ex"	51
-3941	"Male"	0	44	"Current"	53
-3942	"Female"	0	39	"Never"	51
-3947	"Male"	0	53	"Ex"	51
-3950	"Male"	0	33	"Never"	53
-3951	"Female"	0	30	"Current"	50
-3953	"Male"	1	48	"Current"	53
-3954	"Female"	0	49	"Never"	51
-3957	"Female"	0	43	"Current"	51
-3958	"Male"	1	31	"Never"	50
-3960	"Female"	NA	39	"Current"	50
-3961	"Male"	0	43	"Current"	51
-3963	"Female"	0	34	"Never"	53
-3967	"Female"	0	44	"Current"	53
-3968	"Female"	1	50	"Ex"	54
-3970	"Male"	0	36	"Current"	53
-3972	"Male"	1	50	"Ex"	54
-3973	"Male"	0	34	"Never"	55
-3975	"Male"	0	38	"Current"	51
-3977	"Female"	0	45	"Never"	53
-398	"Female"	0	49	"Never"	55
-3981	"Female"	0	45	"Current"	53
-3983	"Female"	0	46	"Current"	54
-3984	"Male"	0	34	"Current"	55
-3988	"Male"	1	50	"Never"	51
-3989	"Female"	NA	49	"Never"	53
-3990	"Female"	0	45	"Current"	53
-3991	"Female"	0	42	"Current"	51
-3992	"Female"	0	38	"Ex"	50
-3993	"Male"	0	32	"Never"	50
-3994	"Male"	0	33	"Current"	55
-3995	"Female"	0	53	"Current"	53
-3996	"Male"	1	41	"Ex"	55
-3997	"Female"	1	54	"Current"	50
-3999	"Male"	1	42	"Current"	54
-40	"Male"	0	31	"Current"	51
-4001	"Female"	1	47	"Current"	50
-4004	"Female"	1	48	"Current"	53
-4007	"Female"	0	40	"Current"	51
-4011	"Female"	0	35	"Ex"	50
-4014	"Male"	1	51	"Current"	55
-4015	"Female"	0	46	"Never"	51
-4016	"Male"	1	41	"Current"	50
-4018	"Male"	0	45	"Never"	53
-4027	"Male"	0	44	"Current"	50
-4032	"Male"	1	40	"Never"	50
-4033	"Female"	1	42	"Current"	51
-4034	"Female"	0	36	"Ex"	51
-4035	"Male"	0	42	"Never"	51
-4036	"Female"	0	45	"Current"	54
-4037	"Female"	0	53	"Never"	54
-4039	"Male"	0	43	"Never"	51
-4041	"Female"	0	42	"Current"	50
-4042	"Male"	0	32	"Current"	53
-4043	"Male"	0	54	"Never"	51
-4044	"Female"	0	45	"Current"	53
-4046	"Female"	0	49	"Never"	55
-4049	"Male"	0	42	"Ex"	55
-405	"Male"	1	52	"Never"	54
-4051	"Female"	1	45	"Current"	51
-4054	"Male"	0	36	"Ex"	51
-4055	"Female"	1	53	"Never"	53
-4056	"Male"	0	50	"Never"	51
-4058	"Male"	0	36	"Ex"	51
-4064	"Female"	0	44	"Current"	53
-4065	"Male"	0	49	"Ex"	53
-4066	"Female"	0	52	"Ex"	54
-4067	"Male"	0	43	"Current"	54
-4069	"Male"	0	47	"Never"	51
-4072	"Female"	0	36	"Never"	53
-4073	"Female"	1	55	"Never"	54
-4080	"Male"	0	37	"Current"	54
-4082	"Male"	0	34	"Never"	50
-4086	"Male"	0	39	"Current"	50
-4087	"Male"	1	50	"Ex"	53
-4089	"Female"	0	48	"Never"	55
-4090	"Female"	0	34	"Current"	55
-4096	"Male"	0	39	"Current"	53
-4097	"Female"	0	37	"Never"	51
-4099	"Female"	0	53	"Ex"	50
-410	"Female"	0	50	"Never"	51
-4102	"Male"	0	39	"Current"	51
-4105	"Female"	0	48	"Never"	53
-4107	"Female"	0	45	"Current"	53
-4109	"Male"	1	42	"Current"	51
-411	"Male"	0	33	"Never"	51
-4110	"Female"	0	36	"Ex"	51
-4111	"Male"	1	48	"Current"	53
-4112	"Male"	0	45	"Never"	53
-4113	"Female"	0	39	"Ex"	54
-4114	"Male"	1	51	"Never"	53
-4115	"Male"	0	32	"Never"	51
-4119	"Male"	1	32	"Ex"	51
-412	"Male"	0	41	"Current"	53
-4124	"Male"	0	50	"Current"	50
-4127	"Female"	0	47	"Ex"	54
-4131	"Female"	0	29	"Never"	53
-4132	"Female"	0	39	"Never"	51
-4133	"Female"	1	55	"Never"	50
-4134	"Female"	0	48	"Current"	51
-4137	"Male"	0	38	"Current"	51
-4138	"Female"	NA	53	"Never"	51
-414	"Female"	NA	35	"Ex"	51
-4140	"Male"	0	41	"Ex"	50
-4142	"Male"	NA	53	"Never"	51
-4144	"Female"	0	30	"Never"	54
-4152	"Male"	0	42	"Never"	53
-4153	"Male"	0	39	"Ex"	54
-4156	"Female"	0	31	"Current"	55
-4159	"Female"	1	50	"Never"	51
-4161	"Female"	0	36	"Never"	54
-4171	"Male"	0	47	"Current"	54
-4173	"Male"	0	42	"Ex"	55
-4174	"Male"	0	38	"Current"	55
-4176	"Male"	0	39	"Current"	50
-4177	"Female"	0	52	"Current"	54
-4179	"Female"	1	45	"Current"	54
-4180	"Male"	1	41	"Current"	50
-4183	"Female"	0	35	"Ex"	50
-4185	"Female"	0	37	"Current"	53
-4186	"Male"	0	42	"Current"	51
-4187	"Female"	0	54	"Never"	51
-4188	"Male"	0	54	"Never"	51
-4189	"Male"	0	55	"Ex"	50
-419	"Female"	0	33	"Never"	51
-4190	"Female"	0	35	"Never"	54
-4191	"Male"	0	43	"Current"	51
-4193	"Female"	0	49	"Ex"	53
-4194	"Male"	0	39	"Current"	53
-4198	"Female"	0	36	"Ex"	51
-4199	"Female"	0	36	"Current"	54
-4200	"Female"	0	50	"Never"	53
-4201	"Female"	1	40	"Ex"	53
-4202	"Female"	0	44	"Current"	53
-4203	"Female"	0	44	"Current"	53
-4204	"Female"	0	53	"Never"	54
-4205	"Male"	0	30	"Ex"	53
-4207	"Male"	1	41	"Never"	51
-4209	"Female"	0	52	"Never"	51
-4210	"Female"	1	52	"Never"	53
-4211	"Male"	0	51	"Never"	54
-4213	"Female"	0	44	"Ex"	51
-4217	"Male"	0	30	"Never"	51
-4219	"Male"	1	52	"Never"	53
-422	"Female"	0	51	"Never"	54
-4221	"Female"	0	44	"Current"	54
-4224	"Male"	0	37	"Current"	53
-4226	"Female"	0	33	"Current"	51
-4228	"Female"	0	46	"Current"	51
-423	"Male"	0	38	"Current"	53
-4231	"Male"	0	42	"Current"	53
-4232	"Male"	0	51	"Never"	51
-4233	"Male"	0	41	"Current"	51
-4237	"Male"	0	37	"Current"	53
-4238	"Female"	1	32	"Current"	53
-424	"Female"	0	43	"Current"	55
-4241	"Male"	0	48	"Ex"	54
-4246	"Female"	0	36	"Current"	50
-4247	"Male"	0	30	"Ex"	50
-4249	"Male"	0	33	"Current"	51
-425	"Female"	1	51	"Current"	50
-4252	"Female"	1	47	"Current"	50
-4253	"Male"	NA	35	"Never"	51
-4258	"Female"	0	53	"Ex"	50
-426	"Female"	1	32	"Ex"	51
-4261	"Female"	0	33	"Current"	51
-4264	"Female"	0	34	"Current"	55
-4267	"Female"	0	53	"Never"	54
-4268	"Male"	0	43	"Current"	54
-427	"Female"	0	30	"Current"	51
-4270	"Female"	0	31	"Current"	50
-4272	"Female"	1	48	"Ex"	51
-4277	"Female"	NA	52	"Never"	51
-4278	"Female"	1	35	"Never"	51
-4279	"Male"	0	35	"Current"	53
-428	"Male"	0	53	"Current"	55
-4282	"Male"	0	41	"Never"	51
-4286	"Female"	0	35	"Current"	53
-4287	"Male"	0	32	"Ex"	51
-429	"Male"	0	44	"Never"	50
-4292	"Male"	1	50	"Ex"	53
-4294	"Female"	0	33	"Never"	51
-4295	"Male"	0	50	"Never"	51
-4296	"Female"	0	36	"Never"	53
-4297	"Female"	0	33	"Never"	54
-4299	"Male"	0	50	"Ex"	53
-43	"Female"	0	32	NA	51
-4303	"Female"	0	48	"Ex"	51
-4304	"Female"	0	34	"Never"	55
-4312	"Female"	0	49	"Current"	54
-4313	"Female"	0	42	"Current"	50
-4314	"Male"	0	38	"Current"	51
-4317	"Male"	0	45	"Current"	53
-4318	"Female"	1	53	"Never"	54
-4319	"Male"	0	40	"Never"	50
-432	"Female"	0	49	"Current"	54
-4321	"Female"	0	44	"Never"	53
-4326	"Male"	NA	38	"Current"	51
-433	"Female"	0	42	"Never"	51
-4331	"Female"	0	47	"Current"	53
-4332	"Male"	0	32	"Ex"	51
-4334	"Male"	0	44	"Current"	51
-4338	"Female"	0	42	"Never"	51
-4339	"Female"	1	38	"Ex"	51
-4345	"Male"	NA	31	"Never"	51
-4346	"Female"	0	35	"Current"	50
-4348	"Female"	1	48	"Current"	53
-4349	"Female"	0	43	"Current"	53
-435	"Male"	1	50	"Ex"	53
-4350	"Male"	0	36	"Never"	50
-4351	"Female"	0	45	"Current"	54
-4353	"Male"	0	33	"Current"	55
-4355	"Female"	1	52	"Never"	53
-4356	"Male"	0	53	"Never"	54
-4357	"Female"	0	52	"Current"	50
-4360	"Female"	0	42	"Never"	53
-4361	"Female"	0	36	"Never"	50
-4362	"Male"	0	33	"Never"	51
-4363	"Female"	0	43	"Ex"	53
-4364	"Female"	0	39	"Never"	51
-4366	"Female"	0	32	"Ex"	51
-4371	"Female"	0	44	"Current"	50
-4373	"Male"	0	38	"Current"	51
-4374	"Male"	0	44	"Ex"	54
-4376	"Male"	0	45	"Ex"	51
-438	"Male"	0	42	"Ex"	50
-4381	"Male"	0	36	"Ex"	51
-4382	"Male"	0	32	"Current"	53
-4383	"Female"	0	43	"Current"	53
-4385	"Female"	NA	34	"Current"	51
-4386	"Male"	0	49	"Current"	54
-4388	"Male"	0	50	"Current"	51
-4389	"Male"	1	30	"Never"	54
-439	"Female"	0	39	"Ex"	50
-4390	"Female"	0	45	"Never"	53
-4391	"Female"	0	48	"Current"	51
-4392	"Female"	0	48	"Current"	51
-4393	"Female"	0	50	"Current"	50
-4395	"Female"	NA	39	"Never"	51
-4396	"Male"	0	50	"Current"	53
-4399	"Female"	0	42	"Never"	53
-4400	"Male"	0	43	"Never"	50
-4401	"Female"	0	51	"Never"	54
-4402	"Female"	NA	50	"Never"	53
-4403	"Female"	0	34	"Never"	55
-4407	"Male"	0	39	"Never"	53
-4408	"Male"	1	55	"Never"	54
-4409	"Female"	0	36	"Ex"	53
-4410	"Male"	0	53	"Current"	53
-4413	"Male"	0	40	"Current"	53
-4416	"Female"	NA	39	"Never"	51
-4417	"Male"	0	33	"Never"	55
-4418	"Male"	0	45	"Never"	51
-4423	"Male"	0	37	"Current"	55
-4425	"Male"	1	47	"Current"	55
-4431	"Female"	0	46	"Current"	55
-4438	"Female"	0	40	"Current"	55
-444	"Male"	0	40	"Never"	50
-4440	"Female"	0	38	"Current"	50
-4441	"Male"	0	43	"Current"	54
-4449	"Female"	0	45	"Current"	54
-445	"Male"	0	49	"Ex"	50
-4452	"Female"	0	47	"Current"	53
-4453	"Female"	1	36	"Ex"	51
-4454	"Male"	0	49	"Never"	54
-4458	"Male"	0	36	"Current"	55
-4461	"Male"	0	39	"Never"	51
-4464	"Female"	0	31	"Current"	55
-4466	"Female"	0	39	"Never"	53
-4470	"Female"	0	38	"Ex"	51
-4471	"Female"	0	34	"Never"	55
-4473	"Male"	0	39	"Ex"	54
-4475	"Female"	1	47	"Current"	50
-4477	"Male"	0	38	"Current"	51
-4478	"Male"	0	38	"Current"	51
-448	"Female"	1	42	"Never"	53
-4481	"Male"	0	32	"Current"	55
-4484	"Male"	0	53	"Current"	55
-4488	"Female"	0	50	"Current"	50
-4493	"Female"	0	41	"Never"	51
-4494	"Female"	0	34	"Never"	53
-4498	"Female"	1	44	"Current"	51
-4508	"Female"	0	53	"Never"	54
-4509	"Male"	0	42	"Ex"	55
-451	"Female"	0	45	"Current"	53
-4514	"Male"	0	52	"Current"	55
-4515	"Female"	0	44	"Current"	53
-4516	"Female"	0	31	"Never"	53
-4517	"Female"	1	33	"Never"	53
-4519	"Male"	0	37	"Current"	53
-4520	"Male"	0	44	"Ex"	54
-4521	"Female"	0	51	"Never"	51
-4528	"Male"	0	37	"Never"	53
-453	"Male"	0	46	"Never"	51
-4530	"Female"	0	33	"Current"	51
-4532	"Male"	0	53	"Never"	54
-4533	"Female"	1	55	"Never"	54
-4534	"Male"	0	42	"Current"	54
-4537	"Female"	0	44	"Ex"	55
-4538	"Male"	0	31	"Never"	51
-454	"Female"	NA	35	"Ex"	51
-4540	"Female"	0	32	"Never"	55
-4543	"Female"	0	43	"Current"	53
-4545	"Male"	1	32	"Ex"	51
-4556	"Female"	0	30	"Current"	51
-4558	"Male"	0	43	"Ex"	54
-4563	"Female"	1	53	"Never"	54
-4566	"Male"	0	32	"Current"	53
-4567	"Male"	0	36	"Current"	55
-4571	"Female"	NA	53	"Never"	51
-4573	"Female"	0	45	"Never"	50
-4575	"Male"	0	48	"Never"	53
-4577	"Female"	0	41	"Never"	54
-4579	"Female"	0	39	"Current"	51
-4584	"Male"	0	43	"Current"	51
-4585	"Female"	0	36	"Ex"	51
-4586	"Male"	0	51	"Never"	53
-4587	"Female"	1	49	"Current"	53
-4588	"Male"	0	35	"Current"	50
-4590	"Female"	0	29	"Current"	53
-4594	"Female"	0	43	"Current"	51
-4595	"Male"	0	50	"Ex"	53
-46	"Male"	0	42	"Ex"	51
-4601	"Female"	0	47	"Ex"	54
-4602	"Female"	NA	31	"Current"	51
-4603	"Male"	0	44	"Current"	51
-4604	"Female"	0	55	"Never"	51
-4605	"Female"	0	36	"Never"	50
-4606	"Female"	0	38	"Current"	50
-4607	"Male"	0	38	"Never"	55
-4608	"Male"	1	39	"Never"	53
-461	"Female"	0	34	"Never"	55
-4610	"Male"	0	46	"Never"	51
-4612	"Male"	0	38	"Ex"	51
-4616	"Female"	1	53	"Ex"	54
-4618	"Male"	0	52	"Ex"	54
-4622	"Female"	1	39	"Never"	51
-4623	"Male"	0	43	"Current"	54
-4624	"Female"	0	43	"Current"	53
-4627	"Female"	0	36	"Current"	50
-4628	"Female"	NA	38	"Current"	51
-4630	"Male"	0	37	"Never"	53
-4632	"Female"	1	32	"Current"	53
-4633	"Male"	0	36	"Never"	50
-4634	"Female"	NA	37	"Current"	51
-4638	"Male"	0	48	"Ex"	54
-4639	"Male"	1	54	"Current"	54
-4641	"Male"	0	52	"Current"	55
-4642	"Female"	0	44	"Never"	53
-4644	"Male"	0	41	"Current"	53
-4645	"Male"	0	32	"Current"	53
-4646	"Male"	0	42	"Current"	53
-4651	"Male"	0	34	"Never"	53
-4652	"Male"	1	41	"Ex"	50
-4653	"Male"	0	31	"Current"	53
-4655	"Male"	0	53	"Never"	54
-4656	"Female"	0	50	"Current"	53
-466	"Female"	0	50	"Current"	53
-4664	"Male"	0	35	"Current"	53
-4665	"Male"	NA	35	"Ex"	51
-4666	"Female"	0	31	"Current"	51
-4667	"Male"	0	39	"Current"	51
-4668	"Male"	0	44	"Current"	54
-467	"Male"	0	38	"Current"	53
-4672	"Female"	0	33	"Current"	51
-4673	"Female"	0	44	"Current"	51
-4676	"Male"	0	44	"Never"	53
-4677	"Female"	1	32	"Never"	54
-4678	"Male"	0	42	"Current"	50
-4679	"Male"	0	42	"Never"	53
-468	"Female"	0	44	"Current"	51
-469	"Female"	0	44	"Never"	53
-4690	"Female"	1	45	"Ex"	51
-4691	"Female"	0	51	"Never"	54
-4693	"Male"	1	52	"Never"	54
-4694	"Female"	0	48	"Current"	51
-4696	"Male"	NA	38	"Current"	51
-4697	"Female"	0	39	"Current"	50
-4699	"Female"	0	42	"Never"	51
-47	"Male"	0	39	"Never"	50
-4700	"Female"	1	32	"Never"	54
-4703	"Female"	0	39	"Current"	51
-4706	"Female"	0	43	"Current"	53
-4707	"Female"	0	30	"Ex"	50
-4708	"Male"	0	39	"Current"	51
-4711	"Female"	0	34	"Ex"	53
-4712	"Female"	0	36	"Current"	53
-4713	"Female"	1	39	"Current"	54
-4714	"Male"	0	46	"Current"	50
-4719	"Male"	0	44	"Current"	50
-4721	"Male"	NA	37	"Current"	51
-4722	"Male"	0	52	"Ex"	50
-4724	"Male"	0	48	"Never"	53
-4725	"Female"	0	53	"Ex"	51
-4726	"Female"	0	30	"Current"	53
-4728	"Female"	0	42	"Current"	51
-4729	"Female"	0	30	"Never"	51
-4730	"Male"	0	44	"Current"	53
-4731	"Female"	0	31	"Current"	50
-4732	"Female"	0	45	"Current"	53
-4737	"Male"	0	47	"Never"	51
-474	"Male"	0	39	"Current"	51
-4740	"Male"	1	50	"Never"	51
-4741	"Female"	0	32	"Current"	53
-4742	"Female"	NA	39	"Current"	50
-4745	"Female"	0	43	"Current"	51
-4749	"Female"	0	51	"Current"	55
-475	"Female"	0	53	"Never"	54
-4751	"Female"	0	44	"Current"	54
-4752	"Male"	1	44	"Current"	51
-4753	"Male"	0	39	"Current"	51
-4759	"Male"	0	51	"Ex"	54
-476	"Female"	0	52	"Never"	53
-4760	"Male"	0	38	"Never"	55
-4762	"Male"	1	30	"Never"	54
-4764	"Male"	0	41	"Current"	51
-4768	"Male"	0	33	"Never"	54
-4769	"Female"	0	36	"Never"	50
-4771	"Male"	1	44	"Current"	51
-4773	"Male"	1	50	"Never"	51
-4774	"Female"	0	34	"Current"	51
-4777	"Male"	1	49	"Never"	54
-4778	"Female"	0	51	"Never"	54
-478	"Female"	0	33	"Never"	51
-4780	"Female"	0	31	"Current"	50
-4785	"Male"	0	38	"Current"	51
-479	"Male"	0	49	"Never"	51
-4791	"Female"	0	41	"Never"	51
-4792	"Male"	NA	35	"Never"	51
-4794	"Female"	0	37	"Current"	53
-4795	"Female"	0	39	"Ex"	54
-4796	"Male"	0	33	"Never"	53
-4797	"Female"	0	42	"Ex"	55
-4798	"Female"	0	43	"Current"	50
-48	"Male"	0	47	"Current"	54
-480	"Male"	1	47	"Ex"	51
-4800	"Female"	0	47	"Ex"	51
-4802	"Female"	0	39	"Never"	51
-4803	"Male"	0	46	"Current"	54
-4805	"Male"	0	32	NA	51
-4809	"Female"	0	42	"Ex"	51
-4813	"Female"	0	49	"Never"	51
-4814	"Male"	0	45	"Never"	50
-4815	"Male"	0	42	"Ex"	51
-4822	"Female"	1	51	"Current"	55
-4823	"Male"	1	42	"Ex"	54
-4824	"Female"	0	48	"Never"	55
-4827	"Female"	0	37	"Never"	51
-4828	"Male"	1	49	"Ex"	51
-4829	"Female"	1	37	"Current"	53
-483	"Male"	NA	37	"Current"	51
-4831	"Female"	0	44	"Current"	51
-4833	"Female"	1	42	"Ex"	54
-4835	"Female"	0	45	"Never"	51
-4836	"Male"	0	45	"Current"	54
-4838	"Male"	0	39	"Never"	55
-484	"Female"	0	36	"Never"	53
-4842	"Female"	0	42	"Never"	51
-4846	"Female"	1	31	"Never"	50
-4848	"Female"	0	47	"Current"	50
-4850	"Female"	0	36	"Ex"	51
-4851	"Male"	NA	35	"Never"	51
-4852	"Male"	0	34	"Ex"	50
-4854	"Male"	0	31	"Never"	55
-4860	"Male"	0	47	"Never"	50
-4864	"Male"	0	32	NA	51
-4868	"Male"	1	52	"Never"	53
-487	"Female"	0	44	"Current"	54
-4871	"Female"	1	38	"Ex"	51
-4872	"Male"	0	55	"Current"	54
-4874	"Male"	0	41	"Ex"	51
-4875	"Male"	0	35	"Current"	53
-4879	"Female"	0	53	"Never"	51
-488	"Male"	1	39	"Ex"	51
-4880	"Female"	NA	35	"Ex"	51
-4882	"Male"	1	40	"Ex"	53
-4883	"Female"	0	39	"Current"	53
-4887	"Female"	0	32	"Never"	51
-4888	"Male"	0	39	"Current"	50
-4889	"Female"	0	42	"Current"	51
-4890	"Female"	1	52	"Current"	53
-4898	"Female"	0	31	"Never"	51
-49	"Female"	0	47	"Current"	50
-490	"Female"	0	51	"Ex"	54
-4900	"Female"	0	35	"Never"	53
-4904	"Male"	1	39	"Current"	54
-4907	"Female"	0	47	"Ex"	55
-4909	"Female"	0	50	"Ex"	50
-491	"Male"	0	39	"Current"	53
-4910	"Female"	0	49	"Current"	51
-4914	"Male"	1	37	"Current"	51
-4919	"Female"	0	44	"Current"	53
-492	"Male"	0	44	"Ex"	54
-4923	"Female"	0	45	"Never"	53
-4924	"Male"	1	31	"Never"	50
-4925	"Female"	1	49	"Never"	55
-4929	"Female"	0	40	"Current"	51
-4938	"Male"	0	44	"Current"	53
-4939	"Female"	NA	31	"Current"	51
-494	"Female"	0	44	"Never"	54
-4940	"Male"	0	48	"Current"	54
-4942	"Male"	0	51	"Never"	54
-4945	"Female"	0	36	"Current"	55
-4949	"Female"	1	38	"Ex"	51
-495	"Male"	0	42	"Never"	53
-4950	"Male"	0	45	"Ex"	51
-4952	"Female"	0	43	"Ex"	55
-4954	"Female"	0	42	"Never"	51
-4958	"Female"	1	39	"Never"	53
-4959	"Male"	0	43	"Never"	51
-4960	"Female"	0	36	"Never"	55
-4961	"Male"	0	32	"Current"	53
-4963	"Male"	0	34	"Ex"	53
-4964	"Female"	0	30	"Current"	53
-4966	"Male"	1	53	"Never"	50
-4969	"Female"	0	44	"Current"	55
-497	"Female"	0	39	"Current"	53
-4974	"Female"	0	53	"Never"	51
-498	"Female"	0	44	"Current"	50
-4980	"Female"	0	31	"Never"	51
-4981	"Male"	0	42	"Current"	54
-4983	"Male"	0	29	"Current"	53
-4984	"Female"	0	44	"Ex"	55
-4985	"Male"	NA	40	"Never"	51
-4987	"Male"	0	43	"Never"	50
-4988	"Female"	0	41	"Never"	54
-4989	"Male"	0	29	"Never"	53
-499	"Female"	NA	37	"Current"	51
-4991	"Male"	0	49	"Ex"	53
-4997	"Male"	1	37	"Current"	53
-500	"Male"	0	49	"Current"	54
-5000	"Female"	0	45	"Never"	51
-5001	"Male"	0	52	"Current"	50
-5003	"Male"	0	33	"Never"	54
-504	"Male"	0	47	"Never"	54
-505	"Male"	0	51	"Never"	51
-506	"Female"	0	35	"Never"	53
-51	"Female"	0	45	"Ex"	50
-510	"Male"	0	42	"Ex"	51
-514	"Female"	0	36	"Never"	50
-515	"Male"	0	37	"Never"	53
-516	"Male"	0	32	"Current"	53
-520	"Male"	0	49	"Current"	51
-522	"Male"	NA	39	"Never"	51
-525	"Male"	1	49	"Current"	53
-526	"Female"	0	32	"Current"	54
-529	"Female"	0	39	"Never"	55
-532	"Female"	0	44	"Never"	54
-534	"Male"	0	37	"Current"	54
-537	"Female"	0	45	"Never"	53
-538	"Male"	0	53	"Current"	53
-540	"Male"	1	49	"Ex"	51
-541	"Female"	0	37	"Ex"	51
-542	"Male"	0	31	"Never"	55
-544	"Male"	0	45	"Never"	51
-548	"Male"	0	45	"Ex"	51
-549	"Male"	0	45	"Never"	51
-550	"Female"	0	31	"Never"	53
-551	"Female"	0	32	"Current"	53
-555	"Male"	0	31	"Current"	50
-556	"Female"	0	47	"Current"	55
-557	"Male"	0	34	"Never"	54
-558	"Male"	0	49	"Current"	50
-559	"Male"	NA	38	"Current"	51
-56	"Male"	0	44	"Ex"	50
-561	"Male"	0	49	"Current"	50
-563	"Female"	0	48	"Ex"	51
-565	"Male"	0	42	"Ex"	51
-57	"Male"	0	47	"Current"	50
-572	"Male"	0	42	"Ex"	50
-573	"Male"	NA	31	"Never"	51
-577	"Female"	0	44	"Current"	51
-58	"Female"	0	44	"Ex"	50
-580	"Male"	0	52	"Current"	55
-581	"Female"	0	33	"Never"	51
-583	"Female"	0	34	"Never"	50
-585	"Female"	0	53	"Current"	53
-589	"Female"	0	48	"Current"	53
-590	"Male"	0	36	"Current"	54
-592	"Male"	0	42	"Never"	53
-594	"Female"	0	49	"Never"	51
-596	"Female"	0	34	"Current"	55
-599	"Male"	0	43	"Current"	51
-6	"Female"	0	55	"Never"	50
-60	"Female"	0	45	"Current"	53
-604	"Male"	0	41	"Never"	51
-608	"Female"	0	50	"Ex"	50
-609	"Female"	0	48	"Current"	54
-61	"Female"	0	50	"Current"	50
-615	"Female"	0	44	"Current"	53
-616	"Female"	1	41	"Never"	54
-62	"Male"	1	41	"Ex"	55
-620	"Female"	0	53	"Never"	53
-622	"Male"	0	52	"Current"	55
-624	"Female"	0	36	"Never"	54
-626	"Female"	0	47	"Current"	50
-627	"Female"	0	31	"Current"	51
-628	"Female"	0	47	"Never"	53
-629	"Female"	0	42	"Current"	53
-631	"Female"	0	33	"Never"	54
-634	"Female"	0	47	"Current"	55
-642	"Female"	0	48	"Current"	54
-643	"Female"	0	31	"Never"	55
-647	"Female"	0	50	"Never"	53
-65	"Male"	0	52	"Current"	54
-650	"Female"	0	36	"Never"	54
-652	"Female"	NA	37	"Current"	51
-655	"Female"	0	39	"Current"	51
-657	"Male"	0	39	"Ex"	50
-660	"Female"	0	43	"Never"	53
-661	"Male"	1	39	"Ex"	51
-662	"Male"	0	44	"Ex"	55
-663	"Female"	0	37	"Current"	53
-664	"Female"	1	40	"Never"	50
-665	"Female"	0	38	"Current"	51
-669	"Male"	0	32	"Never"	50
-672	"Male"	1	53	"Ex"	54
-673	"Female"	1	43	"Ex"	51
-677	"Female"	0	47	"Ex"	51
-678	"Male"	1	39	"Ex"	51
-683	"Female"	0	44	"Current"	54
-684	"Female"	0	53	"Never"	54
-691	"Female"	1	55	"Never"	50
-693	"Male"	1	47	"Ex"	51
-696	"Male"	1	54	"Current"	54
-697	"Female"	0	46	"Current"	55
-699	"Male"	0	49	"Never"	51
-701	"Male"	0	52	"Never"	53
-707	"Female"	0	33	"Never"	53
-708	"Female"	0	46	"Current"	55
-71	"Male"	0	35	"Ex"	51
-710	"Female"	0	50	"Current"	51
-712	"Female"	0	49	"Ex"	53
-713	"Male"	0	43	"Current"	55
-716	"Female"	0	50	"Ex"	50
-717	"Male"	0	38	"Current"	51
-719	"Male"	0	46	"Current"	55
-721	"Male"	1	47	"Current"	55
-724	"Female"	0	29	"Current"	53
-725	"Female"	0	50	"Current"	50
-729	"Female"	0	43	"Current"	51
-73	"Male"	0	47	"Current"	55
-730	"Male"	0	39	"Current"	50
-734	"Female"	0	33	"Current"	51
-738	"Male"	0	41	"Current"	51
-739	"Female"	0	36	"Current"	50
-74	"Male"	0	30	"Current"	51
-743	"Male"	0	34	"Current"	51
-744	"Female"	0	29	"Never"	53
-745	"Female"	0	42	"Never"	53
-747	"Male"	1	42	"Ex"	54
-748	"Female"	1	31	"Current"	53
-753	"Female"	0	48	"Never"	53
-755	"Male"	1	51	"Never"	53
-756	"Female"	0	32	"Never"	50
-757	"Female"	1	42	"Current"	54
-759	"Male"	1	45	"Current"	51
-762	"Male"	0	37	"Never"	53
-764	"Female"	0	33	"Never"	54
-765	"Female"	0	50	"Current"	51
-767	"Female"	1	47	"Ex"	51
-768	"Female"	0	47	"Current"	51
-771	"Male"	0	41	"Ex"	50
-772	"Female"	0	34	"Current"	51
-773	"Female"	0	36	"Current"	51
-776	"Female"	0	48	"Never"	55
-777	"Female"	0	36	"Never"	53
-778	"Male"	0	39	"Current"	50
-779	"Female"	1	41	"Never"	51
-780	"Female"	0	53	"Current"	53
-787	"Female"	0	41	"Current"	51
-788	"Male"	0	36	"Never"	54
-789	"Male"	0	38	"Current"	51
-79	"Male"	0	38	"Current"	50
-792	"Female"	0	30	"Current"	51
-795	"Female"	1	41	"Current"	54
-798	"Male"	0	47	"Never"	50
-80	"Male"	0	34	"Current"	51
-802	"Female"	1	49	"Ex"	51
-807	"Male"	NA	38	"Current"	51
-808	"Male"	0	30	"Current"	51
-811	"Female"	0	42	"Current"	55
-815	"Female"	0	37	"Current"	55
-821	"Male"	1	48	"Current"	53
-823	"Female"	0	33	"Current"	51
-825	"Male"	0	38	"Current"	51
-826	"Male"	0	42	"Current"	54
-830	"Male"	1	41	"Never"	51
-833	"Female"	0	42	"Ex"	54
-834	"Female"	0	33	"Never"	54
-837	"Female"	0	55	"Current"	54
-839	"Male"	0	52	"Never"	53
-84	"Male"	0	50	"Current"	53
-841	"Female"	0	32	"Current"	54
-843	"Male"	0	49	"Current"	50
-854	"Female"	0	44	"Never"	50
-855	"Female"	0	53	"Never"	53
-856	"Female"	0	33	"Never"	51
-857	"Male"	0	54	"Never"	51
-858	"Male"	0	36	"Current"	53
-86	"Female"	0	43	"Current"	51
-862	"Female"	0	38	"Current"	51
-863	"Male"	0	39	"Never"	55
-867	"Male"	0	48	"Current"	51
-868	"Female"	0	38	"Current"	55
-870	"Female"	0	36	"Ex"	51
-872	"Male"	0	42	"Ex"	54
-874	"Female"	1	41	"Current"	54
-875	"Female"	0	31	"Current"	54
-876	"Male"	0	46	"Never"	51
-878	"Male"	1	53	"Ex"	54
-879	"Male"	0	45	"Never"	53
-880	"Male"	0	38	"Ex"	50
-883	"Female"	0	36	"Current"	53
-885	"Female"	0	36	"Never"	54
-886	"Male"	NA	53	"Never"	51
-89	"Male"	0	32	"Current"	53
-890	"Male"	NA	40	"Never"	51
-891	"Female"	0	30	"Current"	53
-895	"Female"	1	36	"Ex"	51
-896	"Male"	0	39	"Never"	50
-898	"Female"	0	48	"Current"	51
-90	"Male"	0	49	"Current"	50
-903	"Female"	NA	37	"Current"	51
-905	"Female"	0	40	"Ex"	50
-907	"Female"	0	36	"Ex"	53
-908	"Male"	0	53	"Current"	55
-911	"Male"	0	37	"Current"	55
-915	"Male"	0	36	"Current"	51
-919	"Male"	0	49	"Current"	50
-920	"Male"	1	54	"Current"	50
-923	"Female"	0	50	"Never"	53
-927	"Female"	1	31	"Current"	53
-928	"Female"	1	43	"Ex"	51
-930	"Male"	0	44	"Ex"	50
-931	"Female"	0	38	"Current"	51
-932	"Female"	0	36	"Current"	51
-936	"Female"	0	32	"Current"	53
-937	"Female"	0	33	"Never"	53
-94	"Female"	0	44	"Current"	51
-940	"Male"	0	33	"Current"	51
-942	"Male"	0	38	"Current"	51
-944	"Female"	0	32	NA	51
-947	"Female"	0	44	"Current"	54
-95	"Male"	1	43	"Ex"	51
-951	"Male"	0	47	"Never"	51
-952	"Female"	0	37	"Ex"	51
-953	"Female"	0	34	"Current"	51
-955	"Female"	0	52	"Never"	51
-957	"Male"	0	42	"Ex"	55
-960	"Female"	0	32	"Current"	54
-961	"Female"	0	49	"Current"	54
-964	"Female"	1	54	"Current"	50
-975	"Male"	0	32	"Never"	50
-977	"Male"	1	32	"Never"	54
-981	"Female"	0	53	"Never"	54
-985	"Female"	1	52	"Current"	53
-989	"Female"	0	52	"Ex"	54
-990	"Male"	0	36	"Current"	50
-991	"Male"	0	44	"Current"	55
-996	"Female"	0	48	"Current"	53
-997	"Female"	0	52	"Current"	54
-998	"Female"	0	46	"Current"	51
+"scanID"	"gender"	"obese"	"age"	"smoke"	"country"	"asthma"
+100	"Male"	0	48	"Never"	53	1
+1001	"Male"	1	49	"Never"	54	1
+1004	"Female"	0	38	"Ex"	51	2
+1005	"Male"	0	39	"Never"	53	2
+1006	"Female"	0	43	"Ex"	53	1
+1008	"Male"	1	49	"Never"	55	1
+1013	"Male"	1	37	"Current"	51	2
+1018	"Female"	0	47	"Current"	51	1
+1020	"Male"	0	30	"Current"	51	2
+1023	"Male"	1	41	"Ex"	50	1
+1029	"Female"	1	52	"Current"	53	1
+1030	"Male"	0	47	"Current"	51	2
+1031	"Male"	0	29	"Current"	53	1
+1033	"Female"	0	36	"Ex"	53	2
+1038	"Male"	0	50	"Current"	53	1
+104	"Female"	1	39	"Ex"	51	2
+1042	"Male"	0	53	"Never"	53	1
+1045	"Male"	0	36	"Current"	54	1
+1046	"Male"	0	51	"Ex"	54	1
+1047	"Female"	0	42	"Current"	55	2
+1049	"Female"	0	42	"Ex"	54	2
+105	"Female"	0	38	"Current"	54	1
+1052	"Female"	0	47	"Current"	51	1
+1053	"Female"	0	40	"Current"	55	1
+1058	"Male"	0	52	"Never"	51	1
+1059	"Male"	1	33	"Never"	53	1
+1060	"Male"	1	54	"Current"	54	1
+1062	"Female"	0	36	"Current"	54	2
+1063	"Male"	0	30	"Never"	54	2
+1066	"Male"	1	49	"Ex"	51	2
+1067	"Male"	0	40	"Current"	55	1
+1070	"Male"	0	47	"Never"	54	1
+1071	"Male"	NA	37	"Current"	51	1
+1072	"Male"	0	35	"Current"	50	1
+1073	"Male"	0	47	"Ex"	54	1
+1074	"Female"	0	45	"Ex"	51	1
+1075	"Female"	0	49	"Current"	54	1
+1077	"Female"	0	36	"Ex"	51	1
+1080	"Female"	0	34	"Current"	51	2
+1082	"Female"	0	35	"Current"	53	2
+1083	"Female"	0	46	"Current"	51	1
+1085	"Female"	1	39	"Current"	54	2
+1087	"Female"	0	30	"Current"	51	1
+1088	"Female"	0	34	"Never"	50	1
+1089	"Female"	0	45	"Current"	53	1
+1095	"Male"	0	49	"Never"	54	1
+1098	"Male"	0	49	"Ex"	53	1
+1099	"Male"	1	31	"Current"	53	1
+1101	"Male"	0	43	"Ex"	53	2
+1104	"Male"	0	50	"Ex"	50	1
+1106	"Female"	1	31	"Never"	50	1
+1107	"Male"	0	40	"Current"	51	1
+1109	"Male"	0	39	"Current"	53	1
+1110	"Male"	0	36	"Ex"	53	1
+1112	"Male"	0	41	"Ex"	51	1
+1113	"Male"	0	32	"Current"	55	1
+1119	"Male"	0	38	"Never"	53	1
+1126	"Female"	0	29	"Never"	53	1
+1127	"Female"	1	32	"Ex"	51	2
+1129	"Male"	1	52	"Current"	53	2
+1131	"Female"	0	34	"Never"	53	2
+1132	"Male"	0	52	"Ex"	50	1
+1133	"Female"	0	48	"Ex"	54	1
+1134	"Male"	0	30	"Current"	51	1
+1136	"Female"	0	45	"Current"	54	2
+1137	"Male"	0	34	"Never"	50	1
+1138	"Female"	0	30	"Current"	53	1
+1140	"Female"	0	36	"Current"	53	1
+1141	"Female"	0	45	"Never"	50	1
+1146	"Male"	0	45	"Never"	51	1
+1147	"Male"	0	48	"Never"	51	1
+115	"Female"	1	51	"Current"	50	2
+1151	"Male"	0	41	"Never"	54	1
+1152	"Female"	0	32	"Never"	51	1
+1153	"Female"	0	36	"Current"	55	1
+1154	"Male"	0	43	"Never"	51	2
+1156	"Male"	NA	40	"Never"	51	1
+1157	"Male"	0	53	"Current"	55	1
+1158	"Female"	1	52	"Never"	50	1
+1160	"Male"	0	43	"Ex"	53	1
+1161	"Female"	0	52	"Never"	53	1
+1163	"Male"	1	53	"Never"	50	2
+1164	"Male"	0	38	"Current"	51	2
+1166	"Female"	0	44	"Current"	53	1
+1171	"Male"	0	36	"Current"	53	1
+1172	"Female"	0	30	"Current"	53	2
+1174	"Female"	0	42	"Never"	51	2
+1175	"Male"	0	46	"Never"	51	2
+1178	"Male"	0	34	"Current"	54	1
+1179	"Female"	0	35	"Current"	53	1
+118	"Male"	0	47	"Ex"	55	1
+1183	"Male"	0	50	"Current"	53	1
+1184	"Female"	0	50	"Never"	53	2
+1186	"Female"	1	46	"Current"	55	2
+1188	"Male"	0	44	"Current"	53	2
+1192	"Female"	1	53	"Never"	53	2
+1194	"Male"	0	49	"Never"	54	1
+1195	"Male"	0	55	"Ex"	50	1
+1197	"Female"	0	39	"Current"	50	2
+1199	"Female"	1	46	"Current"	53	1
+12	"Female"	0	42	"Ex"	53	1
+120	"Female"	0	39	"Current"	51	1
+1200	"Male"	0	41	"Current"	51	1
+1202	"Male"	0	43	"Never"	51	1
+1203	"Female"	1	46	"Current"	55	1
+1207	"Female"	1	45	"Current"	51	2
+1209	"Male"	1	47	"Ex"	51	1
+121	"Female"	0	33	"Current"	55	1
+1211	"Female"	0	31	"Never"	55	1
+1213	"Female"	0	44	"Current"	53	1
+1214	"Female"	0	43	"Never"	51	2
+1215	"Male"	0	46	"Never"	51	1
+1217	"Female"	1	45	"Current"	51	1
+1219	"Female"	0	53	"Never"	54	1
+1220	"Female"	0	44	"Never"	53	1
+1222	"Female"	0	41	"Ex"	50	1
+1226	"Female"	1	50	"Ex"	53	2
+1229	"Female"	0	33	"Never"	51	2
+1230	"Female"	1	49	"Ex"	51	2
+1232	"Male"	0	47	"Never"	53	1
+1233	"Male"	NA	52	"Never"	51	2
+1234	"Male"	0	39	"Never"	51	1
+1235	"Male"	0	50	"Current"	53	1
+1236	"Male"	0	32	NA	51	2
+1237	"Male"	1	35	"Never"	51	2
+1238	"Male"	1	50	"Never"	51	1
+1242	"Female"	0	42	"Never"	51	2
+1247	"Female"	1	42	"Never"	53	1
+125	"Male"	0	48	"Never"	50	1
+1251	"Male"	0	45	"Current"	53	1
+1252	"Male"	0	39	"Never"	53	1
+1253	"Female"	0	46	"Current"	51	2
+1256	"Female"	0	41	"Current"	53	1
+1258	"Female"	1	53	"Never"	53	2
+1259	"Female"	0	48	"Ex"	51	1
+1261	"Female"	0	42	"Current"	53	2
+1262	"Female"	1	41	"Ex"	55	1
+1271	"Female"	0	35	"Current"	50	1
+1272	"Female"	0	48	"Never"	53	1
+1275	"Male"	0	54	"Never"	51	2
+1276	"Female"	0	36	"Ex"	51	1
+1277	"Male"	NA	35	"Never"	51	1
+1278	"Male"	0	41	"Current"	51	2
+128	"Male"	0	40	"Current"	51	1
+1281	"Female"	0	39	"Current"	51	1
+1283	"Male"	0	46	"Current"	53	2
+1285	"Female"	0	54	"Never"	51	1
+1286	"Male"	0	38	"Current"	53	1
+1288	"Female"	0	34	"Never"	54	1
+129	"Female"	0	41	"Ex"	50	2
+1290	"Male"	0	35	"Current"	50	1
+1292	"Female"	0	38	"Current"	51	1
+1294	"Male"	1	39	"Ex"	51	2
+1295	"Male"	1	36	"Current"	53	1
+1296	"Female"	0	32	"Current"	53	1
+1297	"Female"	0	41	"Current"	51	1
+1299	"Female"	0	48	"Never"	53	2
+1300	"Female"	0	39	"Ex"	50	2
+1301	"Male"	0	38	"Ex"	51	2
+1302	"Male"	1	45	"Ex"	51	2
+1303	"Male"	0	43	"Current"	54	1
+1304	"Female"	0	50	"Current"	53	1
+1309	"Male"	0	31	"Current"	53	2
+131	"Female"	0	41	"Never"	54	1
+1310	"Male"	1	42	"Never"	53	1
+1316	"Female"	0	38	"Current"	51	1
+1317	"Male"	0	50	"Current"	51	1
+1318	"Male"	0	42	"Ex"	50	1
+1320	"Female"	0	50	"Ex"	53	1
+1326	"Female"	0	38	"Current"	51	1
+1327	"Female"	1	32	"Current"	53	1
+1330	"Male"	NA	31	"Never"	51	1
+1331	"Male"	0	29	"Never"	53	1
+1332	"Male"	0	43	"Current"	55	1
+1334	"Male"	NA	39	"Current"	50	1
+1335	"Female"	0	32	"Current"	51	2
+134	"Male"	0	36	"Ex"	51	1
+1340	"Male"	NA	40	"Never"	51	1
+1341	"Female"	0	34	"Never"	53	1
+1343	"Male"	0	42	"Current"	53	1
+1346	"Male"	0	39	"Current"	51	1
+1347	"Female"	0	41	"Ex"	53	1
+1351	"Male"	1	53	"Never"	54	1
+1355	"Female"	0	33	"Current"	55	1
+1356	"Female"	0	48	"Current"	51	2
+1358	"Female"	NA	39	"Never"	51	1
+1359	"Male"	0	42	"Ex"	54	2
+1363	"Female"	0	44	"Ex"	55	2
+1365	"Male"	0	36	"Current"	53	2
+1366	"Male"	0	45	"Ex"	50	1
+1368	"Male"	1	45	"Current"	54	2
+1369	"Female"	1	50	"Ex"	53	2
+1371	"Male"	0	54	"Never"	51	1
+1373	"Female"	0	34	"Current"	55	1
+1374	"Female"	0	39	"Current"	53	1
+1375	"Female"	0	35	"Never"	54	1
+1376	"Female"	0	32	"Current"	53	1
+1378	"Female"	0	44	"Current"	50	1
+1381	"Female"	0	46	"Current"	50	1
+1383	"Female"	0	46	"Current"	55	2
+1384	"Male"	0	45	"Current"	53	1
+1387	"Female"	0	37	"Never"	51	2
+139	"Female"	0	52	"Never"	53	2
+1391	"Female"	0	53	"Never"	54	1
+1392	"Female"	0	49	"Ex"	53	1
+1393	"Male"	0	35	"Current"	50	2
+1398	"Male"	0	43	"Ex"	54	1
+1399	"Female"	0	36	"Never"	53	1
+14	"Male"	0	37	"Ex"	51	2
+1401	"Female"	NA	35	"Never"	51	2
+1405	"Male"	0	52	"Current"	54	2
+1406	"Male"	1	36	"Ex"	51	1
+1408	"Male"	0	42	"Ex"	53	1
+1409	"Male"	NA	53	"Never"	51	1
+1412	"Male"	1	35	"Never"	51	1
+1414	"Male"	1	37	"Current"	51	1
+1415	"Male"	1	51	"Never"	53	1
+1417	"Male"	0	42	"Current"	55	1
+1418	"Female"	0	31	"Never"	51	2
+1419	"Male"	0	54	"Never"	51	1
+142	"Female"	0	46	"Never"	51	2
+1421	"Male"	0	43	"Current"	51	1
+1422	"Female"	0	38	"Never"	53	1
+1425	"Female"	1	52	"Never"	54	1
+1426	"Female"	0	35	"Current"	53	2
+1427	"Female"	0	44	"Ex"	51	1
+1428	"Female"	0	40	"Current"	55	1
+143	"Female"	0	37	"Never"	51	1
+1430	"Female"	1	31	"Current"	53	1
+1431	"Male"	1	49	"Never"	55	1
+1434	"Female"	1	55	"Never"	54	1
+1435	"Female"	0	31	"Never"	51	1
+1436	"Male"	0	53	"Ex"	51	2
+1437	"Female"	1	39	"Ex"	51	1
+1438	"Male"	0	50	"Current"	53	1
+1439	"Female"	1	41	"Current"	54	1
+144	"Female"	0	36	"Current"	53	1
+1440	"Female"	0	40	"Never"	54	1
+1442	"Male"	0	34	"Never"	55	2
+1443	"Female"	1	40	"Ex"	53	1
+1444	"Female"	0	37	"Current"	53	2
+145	"Male"	0	52	"Never"	51	2
+1451	"Female"	0	33	"Never"	51	2
+1453	"Male"	0	34	"Current"	55	2
+1454	"Female"	0	38	"Never"	55	2
+1455	"Male"	0	40	"Never"	50	1
+1457	"Male"	NA	38	"Current"	51	1
+1458	"Male"	0	44	"Current"	53	1
+1459	"Male"	NA	40	"Never"	51	1
+146	"Female"	0	50	"Current"	50	1
+1462	"Female"	0	42	"Current"	53	1
+1463	"Male"	0	41	"Never"	54	1
+1466	"Female"	0	35	"Current"	50	1
+1468	"Male"	1	54	"Current"	51	2
+1471	"Female"	0	42	"Never"	53	1
+1472	"Male"	0	54	"Never"	51	2
+1474	"Female"	0	36	"Current"	53	2
+1476	"Male"	0	45	"Ex"	51	1
+1477	"Female"	NA	34	"Current"	51	2
+1478	"Male"	0	33	"Never"	55	2
+1479	"Male"	0	41	"Ex"	50	2
+1480	"Female"	0	53	"Ex"	50	1
+1481	"Male"	0	33	"Never"	51	1
+1483	"Female"	0	44	"Current"	50	1
+1486	"Male"	NA	34	"Current"	51	2
+1487	"Female"	0	44	"Never"	50	2
+1490	"Female"	0	52	"Ex"	54	2
+1491	"Female"	0	47	"Current"	51	1
+1493	"Male"	0	42	"Ex"	51	1
+1494	"Female"	0	32	"Current"	51	2
+1496	"Female"	0	42	"Current"	55	1
+1497	"Female"	0	53	"Ex"	51	1
+1499	"Male"	0	48	"Never"	53	2
+1502	"Male"	0	39	"Current"	51	2
+1503	"Male"	0	33	"Never"	54	1
+1506	"Female"	0	36	"Current"	51	2
+1509	"Female"	0	49	"Current"	54	1
+1510	"Male"	0	50	"Never"	53	1
+1512	"Female"	0	32	"Current"	53	1
+1513	"Male"	0	35	"Current"	53	1
+1516	"Female"	0	40	"Current"	50	2
+1519	"Female"	0	35	"Ex"	50	1
+1525	"Female"	0	32	"Ex"	51	2
+1529	"Male"	0	48	"Ex"	54	1
+153	"Male"	0	52	"Ex"	54	1
+1530	"Male"	1	40	"Never"	50	1
+1531	"Female"	1	47	"Current"	55	1
+1532	"Male"	0	30	"Current"	53	2
+1535	"Male"	0	39	"Never"	51	1
+1536	"Male"	NA	40	"Never"	51	1
+1538	"Male"	0	48	"Never"	55	1
+1539	"Female"	0	44	"Never"	54	1
+154	"Male"	NA	34	"Current"	51	1
+1542	"Female"	0	32	"Current"	55	2
+1545	"Female"	0	31	"Current"	50	1
+1546	"Female"	0	53	"Ex"	51	2
+155	"Male"	0	30	"Never"	51	2
+1550	"Female"	0	39	"Current"	51	1
+1551	"Female"	0	43	"Ex"	53	2
+1553	"Female"	1	39	"Never"	53	1
+1557	"Male"	0	49	"Never"	54	2
+1559	"Male"	0	48	"Never"	55	1
+156	"Male"	0	36	"Current"	53	1
+1562	"Female"	1	49	"Ex"	51	1
+1563	"Female"	0	43	"Ex"	55	1
+1568	"Female"	1	42	"Ex"	54	1
+1570	"Female"	0	48	"Current"	53	2
+1571	"Male"	0	51	"Never"	51	1
+1572	"Male"	0	47	"Current"	55	2
+1573	"Male"	0	34	"Current"	54	2
+1574	"Male"	0	33	"Current"	51	1
+1575	"Female"	1	39	"Never"	53	2
+1576	"Male"	1	50	"Ex"	53	1
+1578	"Male"	0	36	"Current"	53	2
+1579	"Female"	1	49	"Never"	54	1
+158	"Female"	0	31	"Never"	51	1
+1583	"Male"	0	40	"Ex"	50	1
+1584	"Female"	0	34	"Never"	53	2
+1585	"Male"	0	46	"Current"	53	2
+1586	"Male"	0	40	"Never"	54	1
+1589	"Male"	0	44	"Ex"	55	1
+159	"Male"	NA	40	"Never"	51	1
+1591	"Female"	1	49	"Never"	55	2
+1592	"Female"	0	48	"Never"	50	1
+1593	"Female"	NA	49	"Never"	53	1
+1594	"Female"	0	35	"Ex"	51	1
+1595	"Male"	0	55	"Never"	51	1
+1596	"Male"	0	42	"Current"	53	1
+1599	"Male"	0	45	"Never"	53	1
+16	"Female"	0	38	"Current"	51	1
+1601	"Female"	NA	49	"Never"	53	1
+1603	"Female"	0	48	"Never"	53	1
+1605	"Female"	1	52	"Ex"	50	2
+1607	"Female"	0	47	"Current"	51	1
+1612	"Male"	0	39	"Current"	51	1
+1618	"Male"	0	36	"Current"	55	1
+1619	"Male"	0	36	"Ex"	51	1
+1621	"Male"	0	43	"Never"	53	1
+1622	"Male"	0	37	"Current"	54	1
+1623	"Male"	0	36	"Current"	53	2
+1625	"Female"	0	31	"Current"	54	2
+1627	"Female"	0	41	"Current"	53	2
+1628	"Female"	0	34	"Current"	51	1
+1629	"Male"	0	40	"Ex"	50	2
+163	"Male"	0	33	"Never"	54	1
+1630	"Female"	0	42	"Ex"	54	2
+1631	"Female"	0	32	"Current"	51	2
+1632	"Male"	0	31	"Current"	54	2
+1633	"Female"	0	29	"Current"	53	2
+1636	"Female"	0	43	"Ex"	53	1
+1641	"Female"	0	40	"Current"	55	1
+1642	"Male"	1	42	"Current"	51	1
+1644	"Female"	1	53	"Never"	50	1
+1645	"Male"	1	49	"Current"	53	2
+1649	"Female"	0	39	"Current"	51	1
+1650	"Female"	0	44	"Never"	50	2
+1651	"Male"	0	45	"Never"	53	1
+1652	"Female"	1	46	"Current"	53	1
+1654	"Male"	0	42	"Never"	53	1
+1659	"Male"	0	50	"Never"	51	2
+1660	"Female"	0	34	"Never"	54	1
+1663	"Male"	0	49	"Current"	51	1
+1665	"Male"	0	33	"Never"	55	1
+1667	"Female"	0	35	"Never"	53	1
+1668	"Female"	0	36	"Current"	53	1
+1669	"Male"	0	36	"Never"	50	1
+167	"Male"	0	46	"Never"	51	1
+1670	"Male"	0	48	"Never"	53	1
+1671	"Male"	0	38	"Never"	55	2
+1674	"Male"	0	40	"Current"	55	2
+1676	"Male"	0	39	"Current"	53	2
+168	"Female"	NA	50	"Never"	53	1
+1680	"Female"	0	52	"Current"	54	1
+1681	"Female"	0	36	"Current"	54	2
+1682	"Female"	0	49	"Current"	54	2
+1684	"Male"	0	32	"Current"	53	1
+1686	"Male"	1	39	"Never"	51	1
+1688	"Male"	0	47	"Never"	51	2
+169	"Female"	0	44	"Current"	54	1
+1690	"Female"	0	55	"Ex"	50	1
+170	"Female"	0	46	"Current"	55	1
+1700	"Male"	0	34	"Ex"	50	1
+1704	"Male"	0	44	"Current"	53	1
+1705	"Male"	0	40	"Never"	50	1
+1708	"Female"	0	39	"Never"	53	1
+1709	"Male"	0	31	"Current"	53	1
+1714	"Male"	0	46	"Current"	53	2
+1715	"Male"	0	55	"Ex"	50	1
+1716	"Female"	1	53	"Never"	54	1
+1720	"Female"	0	34	"Current"	55	2
+1723	"Male"	0	43	"Current"	51	1
+1724	"Male"	0	38	"Current"	54	1
+1728	"Female"	0	32	"Current"	51	1
+1729	"Male"	0	47	"Current"	54	1
+1730	"Male"	0	32	"Current"	53	2
+1732	"Female"	1	52	"Never"	54	1
+1733	"Female"	0	44	"Current"	53	2
+1734	"Female"	0	52	"Never"	51	1
+1735	"Female"	0	43	"Never"	50	1
+1737	"Male"	0	43	"Current"	54	2
+1738	"Male"	NA	53	"Never"	51	1
+174	"Female"	0	43	"Never"	51	1
+1741	"Female"	0	44	"Current"	54	1
+1742	"Female"	0	42	"Never"	51	1
+1745	"Female"	0	49	"Never"	51	1
+1746	"Male"	0	30	"Current"	51	1
+1747	"Female"	1	55	"Never"	50	1
+1751	"Male"	0	45	"Current"	54	1
+1753	"Female"	NA	34	"Current"	51	1
+1754	"Female"	0	41	"Current"	53	2
+1755	"Female"	0	54	"Never"	51	1
+1759	"Female"	NA	52	"Never"	51	1
+1760	"Male"	0	42	"Never"	51	2
+1761	"Male"	0	32	"Never"	55	1
+1762	"Female"	0	52	"Ex"	50	1
+1763	"Male"	0	46	"Current"	53	1
+1768	"Female"	0	30	"Never"	54	1
+1769	"Male"	0	53	"Never"	54	2
+1773	"Female"	1	42	"Ex"	53	2
+1775	"Female"	0	52	"Current"	50	2
+1777	"Female"	0	35	"Current"	53	1
+1778	"Female"	0	36	"Never"	55	1
+1782	"Female"	0	42	"Current"	53	1
+1783	"Male"	0	31	"Current"	51	1
+1784	"Female"	0	48	"Current"	51	2
+1785	"Female"	0	37	"Never"	51	2
+1787	"Male"	0	34	"Never"	54	1
+1788	"Male"	0	36	"Current"	50	1
+1797	"Female"	0	38	"Current"	50	1
+180	"Female"	0	51	"Never"	53	1
+1801	"Male"	0	42	"Ex"	53	1
+1804	"Male"	0	32	"Never"	51	1
+1805	"Female"	0	43	"Current"	51	2
+1807	"Female"	0	32	"Current"	55	2
+1814	"Male"	0	32	"Current"	51	1
+1816	"Male"	0	39	"Current"	50	1
+1818	"Female"	1	41	"Never"	54	2
+182	"Male"	0	33	"Never"	55	1
+1820	"Male"	0	53	"Never"	54	1
+1822	"Female"	0	40	"Never"	50	2
+1823	"Female"	0	40	"Current"	50	1
+1824	"Male"	1	41	"Never"	54	1
+1826	"Male"	NA	39	"Current"	50	1
+1827	"Male"	0	32	"Never"	51	1
+1828	"Male"	1	51	"Current"	50	2
+1829	"Male"	1	45	"Current"	54	1
+1831	"Male"	0	32	"Ex"	51	1
+1834	"Male"	0	35	"Never"	54	2
+1835	"Female"	0	44	"Current"	53	1
+1836	"Male"	0	55	"Current"	54	2
+1837	"Female"	0	44	"Never"	54	1
+184	"Male"	1	32	"Ex"	51	2
+1842	"Male"	0	36	"Never"	54	1
+1844	"Female"	1	52	"Ex"	50	1
+1845	"Male"	0	42	"Current"	51	2
+1847	"Female"	0	42	"Never"	53	1
+1848	"Female"	1	35	"Never"	51	2
+1849	"Female"	0	32	"Never"	51	2
+1850	"Female"	0	43	"Never"	50	1
+1854	"Female"	1	32	"Never"	54	2
+1855	"Male"	0	43	"Never"	51	1
+1856	"Male"	0	31	"Current"	53	2
+1858	"Female"	1	38	"Ex"	51	2
+1861	"Female"	0	38	"Ex"	50	1
+1862	"Female"	0	48	"Current"	51	1
+1863	"Male"	0	42	"Ex"	51	1
+1865	"Male"	0	39	"Never"	51	2
+1868	"Female"	0	34	"Current"	55	1
+187	"Female"	1	51	"Never"	53	2
+1874	"Male"	NA	37	"Current"	51	2
+1875	"Female"	0	37	"Never"	53	1
+1876	"Female"	0	31	"Current"	50	1
+1877	"Male"	0	49	"Current"	54	2
+1879	"Male"	0	53	"Current"	53	1
+188	"Male"	0	39	"Current"	53	2
+1881	"Female"	1	38	"Ex"	51	1
+1886	"Male"	0	36	"Current"	53	1
+1889	"Female"	1	37	"Current"	53	1
+189	"Female"	NA	50	"Never"	53	2
+1891	"Male"	0	41	"Never"	51	1
+1892	"Female"	0	50	"Current"	50	2
+1893	"Male"	0	38	"Ex"	50	1
+1895	"Female"	0	42	"Current"	53	1
+1897	"Female"	0	51	"Never"	51	1
+1899	"Male"	0	39	"Never"	51	1
+190	"Male"	0	36	"Current"	53	1
+1910	"Female"	0	30	"Current"	51	1
+1913	"Male"	1	41	"Current"	50	1
+1914	"Male"	0	30	"Current"	51	2
+1915	"Male"	NA	34	"Current"	51	2
+1918	"Female"	0	36	"Current"	54	1
+192	"Female"	0	34	"Never"	53	1
+1923	"Male"	0	38	"Current"	53	1
+1925	"Male"	0	36	"Current"	53	1
+1926	"Female"	0	44	"Current"	55	1
+1929	"Female"	NA	37	"Current"	51	1
+1930	"Female"	0	49	"Never"	51	1
+1931	"Female"	0	43	"Current"	51	2
+1933	"Male"	0	33	"Never"	51	1
+1934	"Male"	1	45	"Current"	54	2
+1935	"Female"	0	29	"Never"	53	2
+1937	"Male"	0	40	"Current"	50	1
+194	"Male"	0	49	"Current"	54	1
+1941	"Male"	0	39	"Current"	51	2
+1943	"Female"	0	31	"Never"	53	1
+1945	"Female"	0	44	"Ex"	55	2
+1946	"Female"	0	41	"Current"	53	1
+1949	"Male"	0	50	"Never"	53	2
+195	"Male"	0	42	"Ex"	51	1
+1950	"Female"	0	44	"Current"	53	1
+1952	"Male"	1	42	"Current"	54	2
+1953	"Male"	1	39	"Never"	53	1
+1955	"Female"	0	41	"Current"	53	2
+1957	"Male"	0	47	"Never"	51	2
+1958	"Female"	0	46	"Never"	51	1
+1962	"Female"	0	52	"Ex"	54	1
+1963	"Male"	0	42	"Ex"	55	2
+1964	"Female"	0	44	"Current"	53	1
+1965	"Female"	0	33	"Never"	54	2
+1968	"Male"	0	30	"Current"	50	1
+1969	"Male"	0	43	"Ex"	53	1
+197	"Female"	0	41	"Ex"	53	2
+1975	"Female"	0	46	"Never"	51	1
+1977	"Male"	0	38	"Current"	54	2
+1978	"Male"	0	41	"Current"	53	1
+1979	"Male"	1	52	"Current"	53	1
+198	"Female"	0	47	"Current"	54	1
+1982	"Male"	0	42	"Ex"	53	1
+1983	"Female"	0	45	"Current"	54	2
+1984	"Male"	0	32	"Ex"	53	1
+1986	"Female"	0	49	"Current"	51	2
+1987	"Female"	0	42	"Never"	51	2
+1988	"Female"	0	40	"Current"	55	2
+1989	"Female"	0	50	"Ex"	50	1
+1990	"Female"	0	34	"Never"	53	1
+1991	"Female"	0	50	"Current"	53	1
+1993	"Male"	1	39	"Never"	53	2
+1994	"Female"	1	45	"Ex"	51	1
+1997	"Female"	0	30	"Current"	51	2
+1999	"Male"	0	30	"Current"	53	1
+20	"Male"	0	32	"Current"	53	1
+200	"Female"	0	31	"Current"	53	2
+2000	"Female"	0	42	"Ex"	53	2
+2001	"Female"	1	52	"Never"	50	1
+2003	"Male"	0	37	"Never"	53	1
+2005	"Female"	0	38	"Current"	54	1
+2012	"Male"	0	43	"Current"	50	1
+2015	"Female"	NA	38	"Current"	51	1
+2016	"Female"	0	38	"Current"	51	2
+2020	"Male"	0	44	"Current"	53	1
+2021	"Male"	1	36	"Current"	53	1
+2022	"Female"	0	35	"Ex"	51	2
+2025	"Male"	0	33	"Never"	54	1
+2026	"Female"	0	30	"Ex"	50	1
+2027	"Male"	0	43	"Ex"	55	1
+2028	"Female"	0	53	"Never"	51	1
+203	"Male"	0	47	"Current"	51	1
+2032	"Male"	0	40	"Current"	55	2
+2033	"Male"	0	32	"Current"	53	1
+2034	"Male"	0	42	"Never"	53	1
+2035	"Female"	0	51	"Never"	54	1
+2039	"Male"	0	31	"Current"	50	1
+204	"Female"	0	33	"Never"	51	2
+2040	"Female"	0	39	"Never"	51	1
+2046	"Male"	0	39	"Ex"	50	1
+2047	"Male"	1	55	"Never"	54	1
+2048	"Male"	0	44	"Ex"	55	1
+2049	"Male"	0	47	"Never"	54	1
+205	"Female"	0	51	"Current"	55	2
+2051	"Male"	0	54	"Never"	51	1
+2052	"Male"	0	41	"Ex"	51	1
+2055	"Male"	0	33	"Never"	51	1
+2057	"Female"	0	46	"Current"	50	1
+2059	"Female"	0	30	"Ex"	53	2
+2061	"Male"	0	49	"Ex"	53	1
+2063	"Female"	1	41	"Never"	54	1
+2064	"Male"	0	31	"Current"	55	1
+2066	"Female"	1	50	"Ex"	53	1
+2068	"Female"	0	32	"Current"	54	1
+2070	"Male"	0	32	"Ex"	53	1
+2071	"Female"	0	51	"Never"	53	2
+2072	"Female"	0	37	"Ex"	51	2
+2075	"Female"	0	33	"Never"	51	1
+2079	"Female"	0	35	"Ex"	51	2
+208	"Male"	0	49	"Ex"	53	2
+2080	"Female"	0	44	"Ex"	55	1
+2082	"Male"	0	42	"Current"	53	1
+2086	"Female"	0	47	"Current"	51	1
+2087	"Male"	0	30	"Current"	51	1
+2088	"Male"	0	36	"Current"	53	1
+2089	"Male"	0	48	"Current"	51	1
+2092	"Female"	0	36	"Current"	53	1
+2094	"Male"	0	51	"Never"	51	2
+2099	"Male"	0	33	"Never"	51	2
+21	"Female"	1	48	"Current"	51	2
+210	"Female"	0	41	"Ex"	51	1
+2100	"Female"	1	33	"Never"	53	1
+2102	"Female"	0	49	"Ex"	53	2
+2104	"Female"	1	42	"Ex"	53	1
+2106	"Male"	0	47	"Current"	50	1
+2108	"Female"	0	43	"Ex"	53	2
+211	"Female"	0	48	"Never"	53	2
+2111	"Male"	0	38	"Never"	53	2
+2112	"Male"	0	34	"Current"	54	2
+2113	"Male"	0	52	"Current"	54	2
+2114	"Male"	0	32	"Never"	51	1
+2115	"Female"	0	48	"Never"	55	2
+2118	"Male"	0	39	"Current"	51	1
+2119	"Female"	0	39	"Current"	51	2
+2120	"Female"	1	50	"Never"	51	2
+2124	"Male"	0	42	"Current"	54	1
+2125	"Female"	0	46	"Current"	50	2
+2130	"Male"	1	51	"Never"	53	1
+2132	"Female"	1	40	"Never"	50	1
+2134	"Female"	1	51	"Current"	50	1
+2135	"Male"	0	42	"Never"	53	1
+2136	"Male"	0	33	"Never"	53	1
+2137	"Male"	0	42	"Current"	55	1
+2138	"Male"	0	47	"Never"	51	2
+2142	"Female"	0	36	"Current"	54	2
+2144	"Male"	1	38	"Ex"	51	1
+2145	"Male"	0	39	"Current"	53	2
+2147	"Female"	0	50	"Current"	50	2
+2149	"Female"	0	42	"Never"	51	1
+2152	"Female"	0	51	"Never"	54	1
+2153	"Male"	0	37	"Current"	55	1
+2159	"Female"	0	36	"Current"	51	1
+2162	"Male"	0	51	"Never"	51	1
+2163	"Female"	1	39	"Never"	53	2
+2171	"Female"	1	39	"Never"	53	2
+2174	"Female"	1	42	"Current"	54	1
+2175	"Female"	0	42	"Current"	53	1
+2176	"Female"	0	36	"Ex"	51	1
+2177	"Male"	0	41	"Current"	51	1
+2178	"Female"	0	42	"Ex"	51	1
+2180	"Male"	0	48	"Never"	53	1
+2184	"Female"	1	52	"Current"	53	1
+2186	"Female"	0	43	"Current"	54	1
+2189	"Female"	0	31	"Current"	51	1
+219	"Male"	NA	52	"Never"	51	1
+2191	"Female"	0	31	"Current"	55	1
+2192	"Female"	0	50	"Never"	51	2
+2196	"Female"	0	46	"Current"	53	2
+2197	"Male"	0	40	"Current"	53	1
+22	"Female"	0	31	"Never"	55	1
+220	"Male"	0	50	"Never"	51	1
+2201	"Female"	1	48	"Ex"	51	1
+2202	"Female"	0	31	"Current"	50	1
+2203	"Female"	0	36	"Ex"	51	1
+2206	"Male"	NA	40	"Never"	51	1
+2207	"Male"	0	49	"Current"	54	1
+2209	"Male"	0	43	"Never"	51	2
+2210	"Male"	0	52	"Ex"	54	2
+2211	"Female"	0	34	"Never"	53	1
+2212	"Female"	0	42	"Never"	51	1
+2215	"Female"	0	32	"Current"	55	1
+2216	"Female"	0	51	"Never"	54	1
+2217	"Male"	0	49	"Current"	54	1
+2219	"Female"	0	44	"Never"	50	1
+2223	"Male"	0	49	"Current"	51	2
+2225	"Female"	0	43	"Current"	53	1
+2228	"Female"	1	41	"Current"	50	1
+2229	"Male"	1	40	"Ex"	53	1
+2231	"Female"	0	44	"Ex"	51	2
+2232	"Male"	0	44	"Never"	50	1
+2237	"Female"	0	45	"Never"	50	1
+2244	"Male"	0	45	"Ex"	51	1
+2249	"Female"	0	43	"Current"	51	2
+225	"Female"	NA	39	"Current"	50	1
+2251	"Female"	1	33	"Never"	53	1
+2254	"Male"	0	48	"Never"	53	1
+2255	"Male"	0	44	"Current"	54	1
+2259	"Female"	0	49	"Current"	54	1
+2260	"Male"	0	37	"Never"	53	1
+2261	"Female"	0	50	"Current"	51	1
+2265	"Female"	0	42	"Ex"	51	1
+2266	"Male"	0	47	"Never"	51	1
+2267	"Male"	0	49	"Never"	55	2
+2269	"Male"	0	34	"Current"	51	2
+227	"Male"	0	42	"Never"	53	1
+2271	"Male"	1	40	"Never"	50	2
+2273	"Female"	0	44	"Ex"	50	1
+2275	"Female"	0	50	"Never"	53	1
+2276	"Male"	0	31	"Current"	51	1
+2279	"Male"	0	50	"Current"	50	1
+228	"Male"	0	39	"Ex"	54	1
+2280	"Female"	1	42	"Current"	54	1
+2282	"Female"	0	42	"Ex"	51	1
+2283	"Male"	0	52	"Never"	51	2
+2285	"Female"	1	31	"Current"	53	1
+2290	"Male"	0	37	"Never"	53	2
+2291	"Female"	0	33	"Current"	51	1
+2292	"Male"	0	30	"Never"	51	1
+2294	"Male"	1	42	"Ex"	53	2
+2295	"Male"	0	45	"Ex"	51	1
+2298	"Male"	0	31	"Never"	51	1
+2303	"Male"	0	51	"Never"	54	1
+2305	"Female"	1	52	"Never"	53	1
+2308	"Male"	NA	31	"Never"	51	2
+2312	"Female"	0	33	"Never"	55	1
+2313	"Female"	0	38	"Current"	51	2
+2314	"Male"	1	53	"Never"	50	1
+2317	"Female"	0	29	"Never"	53	1
+232	"Male"	0	49	"Ex"	50	1
+2322	"Female"	0	32	"Current"	53	2
+2325	"Male"	0	45	"Never"	51	1
+2328	"Female"	0	35	"Never"	54	1
+2334	"Male"	0	49	"Never"	51	1
+2335	"Female"	1	48	"Current"	51	1
+2336	"Male"	1	37	"Current"	51	1
+2337	"Male"	0	32	"Never"	55	1
+2339	"Female"	0	29	"Current"	53	2
+234	"Female"	0	41	"Ex"	50	1
+2340	"Male"	0	30	"Current"	51	1
+2342	"Male"	0	33	"Current"	55	1
+2343	"Female"	1	50	"Ex"	53	2
+2344	"Female"	0	36	"Ex"	53	2
+2345	"Female"	0	38	"Never"	55	1
+2346	"Female"	0	50	"Current"	53	1
+235	"Male"	0	38	"Current"	51	1
+2350	"Male"	0	42	"Never"	51	1
+2354	"Female"	0	30	"Current"	53	1
+2356	"Male"	0	43	"Ex"	53	1
+2358	"Female"	0	47	"Never"	50	1
+236	"Male"	1	50	"Ex"	53	1
+2360	"Female"	0	50	"Ex"	50	1
+2361	"Male"	0	36	"Current"	54	1
+2363	"Male"	0	48	"Never"	55	1
+2366	"Male"	0	36	"Current"	53	2
+2372	"Female"	0	39	"Never"	55	1
+2373	"Male"	0	43	"Current"	53	1
+2376	"Male"	0	43	"Ex"	55	1
+2377	"Female"	0	36	"Current"	55	1
+2379	"Male"	0	34	"Never"	53	1
+238	"Female"	0	48	"Never"	55	1
+2381	"Female"	1	41	"Ex"	50	1
+2382	"Male"	0	48	"Current"	54	1
+2385	"Male"	0	42	"Ex"	50	1
+2389	"Male"	0	32	"Current"	53	1
+2390	"Female"	0	40	"Current"	53	2
+2391	"Female"	0	35	"Ex"	50	1
+2394	"Male"	0	32	"Current"	54	1
+2395	"Male"	0	49	"Current"	50	2
+2396	"Female"	0	52	"Never"	51	1
+2397	"Male"	0	36	"Ex"	51	1
+2399	"Male"	0	34	"Never"	55	1
+2400	"Male"	0	41	"Never"	54	1
+2403	"Female"	0	45	"Never"	51	1
+2404	"Female"	0	48	"Ex"	54	2
+2405	"Male"	1	46	"Current"	55	1
+2406	"Female"	0	36	"Never"	50	1
+2407	"Female"	0	40	"Ex"	50	1
+2408	"Male"	1	53	"Never"	50	2
+241	"Male"	1	46	"Current"	55	1
+2411	"Female"	1	45	"Ex"	51	2
+2415	"Male"	0	48	"Never"	51	1
+2416	"Male"	0	43	"Current"	54	1
+2419	"Male"	1	49	"Never"	54	1
+242	"Female"	0	30	"Current"	51	2
+2420	"Male"	0	33	"Never"	51	1
+2422	"Male"	1	32	"Never"	54	1
+2423	"Female"	1	48	"Current"	51	2
+2425	"Male"	0	44	"Current"	55	1
+2426	"Female"	0	40	"Ex"	50	2
+2428	"Female"	0	32	"Ex"	51	2
+2430	"Female"	0	33	"Never"	51	1
+2431	"Male"	1	52	"Current"	53	1
+2433	"Female"	1	41	"Ex"	55	1
+2434	"Female"	0	34	"Ex"	53	1
+2438	"Female"	0	32	"Ex"	53	1
+2442	"Female"	0	38	"Current"	51	1
+2446	"Female"	0	37	"Current"	54	1
+2449	"Female"	0	33	"Never"	54	2
+2451	"Male"	0	44	"Ex"	55	1
+2452	"Female"	0	48	"Never"	50	1
+2455	"Male"	0	48	"Current"	54	1
+2456	"Male"	0	47	"Never"	53	1
+2458	"Male"	0	34	"Current"	51	1
+246	"Female"	0	48	"Current"	51	1
+2460	"Female"	1	50	"Ex"	54	2
+2461	"Female"	1	53	"Never"	50	2
+2462	"Male"	1	47	"Current"	55	1
+2463	"Female"	0	47	"Never"	50	2
+2465	"Female"	0	55	"Never"	50	1
+2466	"Male"	0	36	"Never"	54	1
+2468	"Female"	0	52	"Never"	51	2
+2469	"Male"	0	41	"Ex"	53	2
+247	"Female"	0	39	"Current"	51	1
+2470	"Female"	0	30	"Current"	53	1
+2473	"Male"	1	39	"Ex"	51	1
+2474	"Female"	0	43	"Current"	50	2
+2475	"Female"	0	55	"Never"	51	2
+2477	"Male"	1	48	"Current"	51	2
+2478	"Male"	0	45	"Ex"	50	1
+248	"Female"	0	45	"Never"	53	1
+2481	"Male"	0	42	"Ex"	51	1
+2484	"Female"	0	36	"Current"	53	2
+2485	"Female"	0	47	"Ex"	55	1
+2486	"Female"	0	31	"Current"	51	1
+2488	"Female"	0	32	"Ex"	51	1
+2493	"Male"	0	51	"Never"	51	2
+2494	"Male"	0	39	"Current"	53	1
+2495	"Female"	0	38	"Current"	55	2
+2499	"Female"	0	32	"Ex"	53	1
+25	"Male"	0	32	"Current"	51	1
+250	"Female"	0	52	"Current"	55	2
+2501	"Female"	1	50	"Never"	51	1
+2504	"Male"	0	52	"Ex"	54	1
+2505	"Male"	0	48	"Never"	51	1
+2508	"Male"	NA	35	"Never"	51	1
+2509	"Female"	0	30	"Current"	50	1
+2512	"Female"	0	29	"Never"	53	1
+2514	"Female"	0	50	"Current"	53	2
+2516	"Male"	1	36	"Current"	53	2
+2517	"Male"	0	43	"Current"	54	1
+2520	"Female"	0	48	"Never"	55	1
+2521	"Male"	0	30	"Current"	51	1
+2522	"Female"	1	30	"Never"	54	1
+2523	"Male"	0	32	"Current"	53	2
+2525	"Female"	0	48	"Never"	51	1
+2526	"Male"	0	31	"Never"	51	1
+2527	"Female"	0	36	"Never"	53	2
+2529	"Female"	0	43	"Current"	55	1
+2530	"Male"	0	45	"Ex"	51	1
+2534	"Male"	0	47	"Never"	53	2
+2535	"Female"	0	31	"Current"	50	1
+2536	"Female"	NA	38	"Current"	51	2
+2537	"Male"	0	30	"Ex"	53	1
+2539	"Male"	0	42	"Current"	54	1
+254	"Female"	1	44	"Current"	51	1
+2542	"Male"	0	46	"Current"	50	2
+2543	"Female"	0	47	"Current"	51	2
+2545	"Male"	0	55	"Never"	50	1
+2549	"Female"	1	41	"Never"	54	1
+255	"Male"	0	37	"Current"	53	1
+2551	"Male"	0	30	"Never"	54	1
+2552	"Male"	0	44	"Current"	55	1
+2553	"Male"	0	43	"Current"	55	1
+2556	"Female"	NA	40	"Never"	51	1
+2557	"Female"	0	43	"Never"	51	2
+2559	"Female"	0	44	"Current"	51	1
+2562	"Male"	NA	31	"Never"	51	2
+2564	"Female"	1	47	"Current"	50	2
+2568	"Male"	1	32	"Current"	53	1
+2569	"Male"	0	32	"Current"	53	1
+257	"Female"	0	36	"Current"	54	1
+2570	"Male"	0	40	"Current"	53	1
+2573	"Female"	0	43	"Current"	50	1
+2577	"Male"	0	43	"Never"	50	1
+2578	"Female"	0	44	"Never"	54	2
+2580	"Female"	0	39	"Ex"	54	2
+2581	"Female"	0	39	"Ex"	54	1
+2585	"Female"	0	32	"Current"	53	1
+2586	"Female"	0	31	"Current"	51	2
+2589	"Female"	0	45	"Ex"	50	2
+2590	"Male"	0	44	"Current"	54	1
+26	"Female"	0	47	"Current"	55	1
+260	"Male"	0	47	"Current"	54	1
+2600	"Female"	0	32	"Current"	53	1
+2602	"Female"	0	41	"Current"	51	1
+2603	"Female"	0	43	"Current"	53	1
+2608	"Male"	0	33	"Never"	54	1
+2611	"Male"	0	44	"Current"	53	1
+2612	"Female"	0	32	"Ex"	51	1
+2613	"Male"	0	52	"Current"	55	1
+2614	"Male"	0	49	"Never"	51	2
+2616	"Male"	0	42	"Ex"	51	1
+2618	"Male"	0	44	"Current"	53	1
+2619	"Female"	0	31	"Never"	51	2
+2620	"Male"	0	45	"Current"	53	1
+2622	"Male"	0	43	"Current"	55	1
+2625	"Male"	0	43	"Current"	53	1
+2627	"Male"	NA	50	"Never"	53	1
+2629	"Female"	0	54	"Never"	51	1
+2630	"Male"	0	33	"Never"	54	1
+2631	"Male"	0	45	"Current"	53	1
+2632	"Male"	0	35	"Current"	53	1
+2637	"Male"	0	37	"Never"	53	1
+2638	"Male"	0	47	"Never"	51	1
+2647	"Female"	0	55	"Current"	54	1
+2648	"Female"	1	48	"Current"	51	1
+2649	"Female"	0	42	"Ex"	53	1
+265	"Male"	NA	38	"Current"	51	2
+2650	"Female"	0	53	"Never"	54	1
+2652	"Female"	1	54	"Current"	50	2
+2655	"Female"	0	43	"Ex"	54	1
+2656	"Female"	1	54	"Current"	50	1
+2658	"Female"	0	54	"Never"	51	2
+2659	"Female"	1	42	"Ex"	53	1
+266	"Female"	1	49	"Never"	54	1
+2662	"Female"	0	45	"Current"	54	2
+2663	"Male"	1	45	"Ex"	51	1
+2664	"Female"	0	44	"Current"	53	1
+2668	"Female"	0	44	"Current"	55	1
+267	"Female"	1	39	"Current"	54	1
+2670	"Female"	0	55	"Current"	54	1
+2671	"Female"	0	36	"Never"	50	1
+2674	"Male"	0	44	"Never"	54	2
+268	"Male"	0	35	"Current"	50	2
+2680	"Female"	0	45	"Current"	54	1
+2681	"Male"	0	39	"Current"	51	2
+2683	"Female"	0	43	"Current"	53	1
+2687	"Male"	0	44	"Current"	51	1
+2692	"Male"	0	48	"Never"	51	2
+2694	"Male"	1	41	"Ex"	50	2
+2695	"Male"	1	50	"Never"	51	1
+2696	"Female"	0	47	"Never"	50	1
+2697	"Female"	0	44	"Current"	54	2
+2698	"Female"	0	44	"Ex"	55	1
+2699	"Male"	0	48	"Never"	53	2
+27	"Male"	1	55	"Never"	50	1
+2701	"Female"	0	42	"Never"	53	1
+2702	"Female"	0	44	"Current"	53	1
+2704	"Female"	0	40	"Current"	53	2
+2705	"Female"	1	33	"Never"	53	1
+2710	"Male"	0	31	"Current"	55	1
+2711	"Female"	0	49	"Never"	51	1
+2712	"Female"	0	42	"Never"	51	2
+2713	"Male"	0	53	"Never"	51	2
+2714	"Female"	0	50	"Current"	53	2
+2717	"Male"	0	53	"Never"	53	1
+2720	"Female"	0	29	"Never"	53	1
+2721	"Female"	0	53	"Ex"	50	1
+2724	"Male"	0	41	"Current"	51	1
+2725	"Female"	0	43	"Current"	51	1
+2727	"Female"	1	52	"Ex"	50	1
+2728	"Male"	0	30	"Current"	53	1
+2729	"Male"	NA	31	"Never"	51	2
+273	"Female"	0	44	"Current"	53	2
+2730	"Female"	0	36	"Current"	53	1
+2731	"Female"	NA	52	"Never"	51	2
+2732	"Female"	0	53	"Never"	54	1
+2733	"Female"	0	48	"Never"	55	1
+2734	"Female"	0	48	"Ex"	51	2
+2735	"Male"	1	50	"Ex"	54	2
+2738	"Male"	0	45	"Current"	54	1
+274	"Female"	0	35	"Ex"	51	1
+2741	"Female"	1	54	"Current"	54	2
+2743	"Female"	1	39	"Ex"	51	2
+2745	"Female"	0	54	"Never"	51	2
+2746	"Male"	NA	34	"Current"	51	1
+2747	"Male"	1	35	"Never"	51	1
+2749	"Female"	0	29	"Current"	53	2
+2753	"Female"	0	47	"Ex"	51	1
+2755	"Female"	NA	37	"Current"	51	2
+2757	"Male"	0	42	"Ex"	53	1
+2758	"Male"	1	41	"Current"	50	1
+2762	"Male"	0	30	"Current"	51	2
+2765	"Male"	1	41	"Ex"	55	1
+2768	"Female"	0	48	"Current"	53	1
+2769	"Male"	0	42	"Ex"	54	1
+277	"Female"	0	32	"Current"	53	1
+2771	"Female"	1	53	"Ex"	54	2
+2772	"Female"	0	50	"Never"	51	1
+2777	"Female"	NA	38	"Current"	51	2
+2778	"Female"	0	36	"Current"	54	1
+2779	"Female"	0	50	"Ex"	53	2
+278	"Male"	0	50	"Never"	53	1
+2780	"Male"	1	41	"Ex"	50	1
+2781	"Male"	1	48	"Current"	53	2
+2784	"Female"	0	55	"Current"	54	1
+2787	"Female"	0	42	"Never"	51	2
+2788	"Female"	0	42	"Current"	50	1
+279	"Female"	0	32	"Never"	51	2
+2790	"Male"	0	35	"Current"	50	2
+2792	"Female"	1	42	"Current"	51	1
+2794	"Female"	0	44	"Current"	53	2
+2795	"Female"	0	43	"Never"	53	1
+2796	"Female"	0	43	"Current"	54	1
+28	"Male"	0	29	"Current"	53	1
+2800	"Male"	0	41	"Current"	53	1
+2801	"Male"	0	35	"Never"	53	2
+2802	"Female"	0	36	"Current"	53	2
+2805	"Male"	1	49	"Ex"	51	1
+2806	"Female"	0	36	"Never"	50	2
+2811	"Female"	0	42	"Current"	53	2
+2817	"Male"	1	38	"Ex"	51	1
+2821	"Male"	0	51	"Never"	51	1
+2822	"Female"	0	48	"Never"	51	1
+2826	"Female"	0	36	"Never"	53	1
+2830	"Female"	0	38	"Current"	51	2
+2832	"Male"	1	38	"Ex"	51	2
+2835	"Male"	0	47	"Current"	53	2
+2842	"Female"	0	45	"Ex"	51	1
+2844	"Female"	0	33	"Never"	53	2
+2845	"Male"	0	45	"Current"	53	1
+2847	"Female"	0	29	"Never"	53	1
+2849	"Female"	0	31	"Current"	55	1
+2850	"Male"	0	38	"Ex"	51	1
+2851	"Male"	0	44	"Current"	54	1
+2852	"Male"	0	35	"Never"	54	1
+2853	"Male"	0	51	"Never"	51	2
+2855	"Male"	1	41	"Never"	51	1
+2862	"Female"	0	51	"Ex"	54	2
+2864	"Male"	1	50	"Ex"	53	1
+2865	"Female"	0	49	"Current"	54	1
+2866	"Female"	0	38	"Current"	54	2
+2870	"Male"	0	45	"Ex"	50	1
+2872	"Female"	1	46	"Current"	53	1
+2873	"Female"	1	30	"Never"	54	1
+2875	"Male"	0	45	"Never"	53	1
+2880	"Male"	0	49	"Ex"	53	2
+2883	"Male"	0	32	"Ex"	51	1
+2885	"Male"	0	50	"Ex"	53	1
+2888	"Male"	0	45	"Current"	53	1
+2889	"Female"	0	50	"Current"	53	2
+2890	"Female"	0	44	"Current"	54	2
+2891	"Female"	0	35	"Ex"	50	2
+2895	"Female"	0	43	"Current"	54	2
+2898	"Male"	1	33	"Never"	53	1
+2899	"Male"	0	53	"Current"	55	1
+29	"Male"	0	36	"Never"	55	1
+290	"Male"	0	31	"Current"	50	1
+2900	"Female"	0	29	"Current"	53	1
+2901	"Male"	0	48	"Current"	51	2
+2902	"Male"	0	44	"Never"	53	1
+2905	"Female"	1	48	"Ex"	51	1
+2906	"Male"	0	34	"Never"	53	2
+2907	"Male"	0	47	"Ex"	51	1
+2909	"Female"	0	31	"Never"	53	1
+2910	"Male"	0	36	"Never"	53	1
+2913	"Female"	0	41	"Current"	53	1
+2915	"Female"	1	44	"Current"	51	1
+2917	"Male"	0	49	"Current"	54	1
+2918	"Female"	0	48	"Current"	51	1
+2922	"Male"	1	48	"Ex"	51	2
+2923	"Female"	0	30	"Current"	53	1
+2925	"Male"	0	45	"Never"	50	2
+2927	"Female"	0	33	"Never"	54	2
+2928	"Male"	0	49	"Ex"	50	2
+293	"Female"	0	39	"Never"	50	2
+2931	"Female"	0	45	"Ex"	51	2
+2932	"Female"	0	30	"Current"	50	1
+2933	"Female"	1	42	"Ex"	53	2
+2935	"Male"	1	42	"Never"	53	1
+2939	"Male"	0	47	"Never"	50	1
+2940	"Female"	1	39	"Never"	53	1
+2943	"Male"	0	37	"Current"	53	2
+2944	"Male"	1	49	"Never"	55	2
+2946	"Male"	1	41	"Never"	51	1
+2948	"Male"	0	45	"Ex"	51	1
+2949	"Male"	0	39	"Current"	50	1
+2951	"Male"	0	44	"Never"	53	2
+2957	"Male"	1	51	"Current"	55	1
+296	"Male"	0	33	"Current"	55	1
+2962	"Female"	1	51	"Current"	50	2
+2965	"Male"	0	43	"Ex"	55	1
+2966	"Male"	0	32	"Never"	55	2
+2967	"Female"	0	39	"Current"	51	1
+297	"Female"	0	42	"Current"	53	2
+2971	"Female"	1	30	"Never"	54	1
+2973	"Female"	0	34	"Never"	55	2
+2975	"Male"	0	31	"Never"	53	1
+2977	"Male"	NA	49	"Never"	53	1
+2978	"Male"	0	53	"Current"	53	2
+2979	"Female"	0	46	"Current"	51	2
+2980	"Male"	0	29	"Never"	53	1
+2981	"Male"	0	47	"Ex"	54	1
+2982	"Female"	0	32	"Current"	53	2
+2983	"Male"	0	49	"Ex"	53	2
+2984	"Female"	0	36	"Ex"	51	1
+2986	"Male"	0	43	"Ex"	53	2
+2987	"Male"	0	44	"Current"	51	1
+2989	"Male"	0	41	"Ex"	50	1
+2991	"Female"	0	43	"Ex"	53	2
+2993	"Female"	1	36	"Ex"	51	1
+2994	"Male"	0	50	"Never"	51	1
+2998	"Female"	0	45	"Never"	51	1
+2999	"Female"	0	50	"Never"	51	2
+3	"Female"	0	55	"Never"	51	1
+30	"Male"	0	44	"Current"	53	1
+3003	"Female"	0	38	"Current"	51	1
+3006	"Female"	0	39	"Current"	53	1
+3009	"Female"	0	38	"Current"	51	1
+3010	"Male"	NA	34	"Current"	51	1
+3015	"Male"	0	34	"Never"	53	2
+3016	"Female"	0	49	"Ex"	53	2
+3018	"Male"	1	52	"Ex"	50	2
+3022	"Female"	0	48	"Current"	51	1
+3023	"Male"	0	36	"Ex"	51	1
+3024	"Female"	0	44	"Current"	53	2
+3028	"Female"	0	48	"Ex"	51	2
+3033	"Male"	1	50	"Never"	51	2
+3036	"Male"	0	48	"Never"	51	1
+3037	"Female"	1	32	"Current"	53	1
+3039	"Female"	0	50	"Never"	53	1
+3045	"Female"	1	46	"Current"	53	2
+3047	"Female"	1	36	"Ex"	51	1
+3048	"Male"	0	50	"Never"	53	2
+3049	"Female"	0	44	"Never"	50	1
+3051	"Male"	0	47	"Current"	50	2
+3052	"Male"	0	45	"Current"	53	1
+3056	"Female"	0	42	"Ex"	51	1
+3058	"Female"	0	45	"Current"	54	1
+3064	"Female"	0	44	"Ex"	51	1
+3065	"Female"	1	48	"Current"	51	2
+3066	"Female"	0	38	"Ex"	50	1
+3068	"Male"	0	41	"Ex"	53	1
+307	"Female"	0	53	"Current"	53	2
+3072	"Male"	0	32	"Current"	53	1
+3074	"Female"	1	49	"Current"	53	1
+3076	"Male"	0	44	"Current"	54	1
+3078	"Female"	0	30	"Ex"	50	1
+308	"Female"	1	45	"Current"	51	1
+3090	"Male"	0	36	"Never"	54	2
+3091	"Male"	0	47	"Never"	50	2
+3092	"Male"	1	39	"Ex"	51	2
+3094	"Female"	0	34	"Never"	53	2
+3097	"Male"	1	32	"Current"	53	1
+31	"Female"	0	34	"Ex"	50	2
+3102	"Female"	0	29	"Current"	53	1
+3103	"Female"	NA	31	"Never"	51	1
+3105	"Female"	0	39	"Ex"	54	1
+3106	"Male"	0	43	"Never"	53	1
+3111	"Male"	1	37	"Current"	53	2
+3113	"Male"	0	34	"Never"	55	1
+3115	"Female"	0	40	"Current"	55	1
+3116	"Female"	0	42	"Current"	54	1
+3119	"Male"	0	44	"Current"	54	1
+3120	"Female"	0	46	"Never"	51	2
+3125	"Male"	0	48	"Never"	51	2
+3128	"Male"	0	34	"Current"	55	1
+3129	"Female"	0	30	"Ex"	53	2
+313	"Female"	0	44	"Current"	55	2
+3131	"Male"	0	44	"Never"	53	2
+3132	"Male"	0	39	"Never"	53	2
+3135	"Male"	0	32	"Never"	51	1
+3137	"Male"	0	36	"Ex"	51	1
+3138	"Female"	0	55	"Never"	51	1
+3139	"Male"	NA	50	"Never"	53	1
+3140	"Female"	0	34	"Never"	53	2
+3142	"Female"	1	31	"Never"	50	2
+3143	"Male"	NA	31	"Current"	51	1
+3144	"Female"	0	48	"Current"	51	1
+3146	"Male"	1	37	"Current"	53	1
+315	"Male"	0	47	"Never"	54	1
+3150	"Male"	0	52	"Current"	50	1
+3151	"Female"	1	52	"Never"	50	1
+3154	"Male"	0	31	"Never"	51	1
+3156	"Female"	0	51	"Never"	54	2
+3157	"Male"	0	39	"Current"	53	1
+3162	"Male"	0	34	"Ex"	53	2
+3163	"Male"	0	44	"Ex"	54	1
+3164	"Female"	0	32	"Ex"	51	1
+3167	"Male"	0	30	"Current"	53	1
+3168	"Male"	0	47	"Never"	50	2
+3171	"Male"	0	43	"Current"	51	1
+3172	"Male"	0	32	"Current"	53	1
+3173	"Female"	0	41	"Ex"	50	2
+3176	"Female"	0	37	"Current"	54	1
+318	"Female"	0	42	"Ex"	51	2
+3185	"Female"	0	32	"Never"	55	2
+3187	"Female"	0	49	"Current"	54	2
+3190	"Female"	1	51	"Never"	53	2
+3191	"Male"	0	45	"Current"	53	1
+3192	"Female"	1	54	"Current"	50	2
+3193	"Female"	0	36	"Never"	55	1
+3196	"Female"	0	49	"Current"	54	1
+3197	"Male"	0	37	"Current"	55	2
+3201	"Female"	0	43	"Current"	50	2
+3202	"Male"	0	30	"Ex"	50	1
+3204	"Female"	0	51	"Current"	55	2
+3208	"Male"	0	33	"Never"	51	1
+3209	"Female"	0	49	"Current"	51	1
+321	"Male"	0	55	"Never"	50	1
+3210	"Female"	1	41	"Ex"	55	1
+3212	"Male"	NA	31	"Current"	51	2
+3215	"Female"	0	29	"Never"	53	2
+3216	"Female"	0	33	"Current"	51	1
+3219	"Female"	0	44	"Ex"	51	1
+3223	"Male"	0	46	"Never"	51	2
+3227	"Male"	0	44	"Never"	50	2
+3228	"Male"	NA	49	"Never"	53	2
+323	"Female"	0	43	"Current"	53	1
+3230	"Female"	0	40	"Never"	50	1
+3232	"Female"	0	52	"Ex"	50	1
+3233	"Male"	0	39	"Ex"	50	1
+3234	"Male"	1	35	"Never"	51	1
+3235	"Female"	0	34	"Never"	53	2
+3236	"Male"	1	42	"Ex"	54	1
+3238	"Female"	0	53	"Ex"	51	2
+324	"Female"	0	32	"Ex"	51	2
+3242	"Male"	0	40	"Current"	50	1
+3245	"Female"	1	38	"Ex"	51	1
+3246	"Female"	0	39	"Current"	50	2
+3249	"Male"	1	39	"Never"	51	2
+325	"Female"	0	34	"Current"	55	1
+3251	"Male"	0	48	"Ex"	51	2
+3254	"Female"	0	39	"Never"	55	2
+3255	"Male"	1	52	"Current"	53	1
+3257	"Female"	1	53	"Never"	54	1
+3265	"Female"	0	40	"Current"	51	1
+3267	"Female"	0	42	"Ex"	53	1
+3268	"Female"	1	54	"Current"	51	1
+3269	"Male"	0	44	"Never"	53	2
+3271	"Female"	0	31	"Current"	55	1
+3275	"Male"	0	49	"Current"	54	2
+3276	"Male"	0	45	"Current"	53	1
+3279	"Male"	0	34	"Current"	54	1
+3280	"Female"	0	30	"Never"	51	2
+3282	"Male"	0	45	"Current"	53	1
+3283	"Male"	NA	39	"Current"	50	1
+3284	"Female"	1	52	"Ex"	50	1
+3286	"Female"	0	37	"Never"	53	1
+3289	"Male"	1	52	"Never"	50	1
+3292	"Male"	0	48	"Never"	50	1
+3293	"Female"	0	36	"Ex"	51	1
+3298	"Male"	1	36	"Ex"	51	1
+330	"Male"	1	43	"Ex"	51	1
+3300	"Male"	0	44	"Ex"	50	1
+3301	"Male"	NA	39	"Never"	51	1
+3302	"Female"	0	31	"Current"	51	1
+3306	"Male"	0	44	"Current"	53	2
+3309	"Male"	0	30	"Ex"	53	2
+3314	"Male"	0	48	"Never"	51	2
+3316	"Male"	0	40	"Never"	54	1
+3317	"Female"	0	44	"Ex"	51	1
+332	"Female"	0	45	"Never"	53	2
+3324	"Male"	0	53	"Current"	53	1
+3325	"Male"	0	45	"Never"	53	1
+3327	"Male"	0	34	"Never"	53	2
+3328	"Female"	0	44	"Never"	50	1
+3329	"Male"	0	42	"Ex"	53	2
+3333	"Male"	0	34	"Never"	55	1
+3334	"Male"	0	47	"Ex"	51	1
+3335	"Female"	0	52	"Ex"	54	1
+3336	"Male"	0	55	"Never"	50	1
+3338	"Female"	0	42	"Never"	51	1
+3339	"Male"	1	39	"Ex"	51	1
+3340	"Male"	0	34	"Ex"	53	2
+3344	"Male"	0	55	"Never"	51	1
+3345	"Male"	1	41	"Current"	50	1
+3346	"Female"	0	34	"Never"	50	1
+3347	"Female"	0	40	"Ex"	50	1
+3351	"Female"	0	38	"Never"	53	2
+3354	"Female"	0	33	"Never"	51	1
+3356	"Male"	0	36	"Current"	53	2
+3358	"Male"	0	34	"Never"	53	2
+3359	"Female"	0	31	"Current"	51	1
+336	"Male"	0	34	"Ex"	53	1
+3360	"Male"	0	49	"Ex"	50	1
+3361	"Female"	0	39	"Ex"	50	1
+3362	"Female"	0	33	"Never"	54	1
+3363	"Male"	0	48	"Current"	54	1
+3364	"Female"	NA	35	"Ex"	51	1
+3366	"Female"	0	44	"Current"	53	1
+3370	"Male"	0	36	"Never"	55	2
+3371	"Female"	0	41	"Ex"	50	2
+3372	"Female"	NA	49	"Never"	53	2
+3373	"Male"	0	46	"Current"	51	1
+3374	"Female"	0	49	"Current"	54	1
+3375	"Male"	0	34	"Current"	54	1
+3376	"Female"	0	33	"Never"	51	1
+3377	"Female"	0	49	"Never"	51	1
+3378	"Female"	0	36	"Never"	54	1
+3379	"Female"	0	34	"Never"	53	1
+338	"Female"	0	53	"Never"	54	2
+3380	"Male"	0	50	"Never"	51	1
+3383	"Female"	0	43	"Ex"	54	1
+3384	"Male"	0	47	"Never"	54	1
+3385	"Female"	0	39	"Ex"	54	1
+3386	"Female"	0	44	"Ex"	55	1
+3391	"Female"	1	52	"Current"	53	1
+3392	"Female"	0	38	"Current"	53	1
+3394	"Female"	0	45	"Never"	53	1
+3395	"Female"	0	44	"Never"	50	1
+3397	"Female"	0	48	"Current"	51	1
+340	"Male"	NA	31	"Current"	51	1
+3402	"Male"	0	44	"Ex"	54	2
+3405	"Female"	0	49	"Ex"	50	1
+3406	"Male"	1	45	"Ex"	51	1
+3407	"Female"	0	51	"Never"	53	1
+3410	"Male"	0	37	"Ex"	51	1
+3413	"Female"	0	46	"Never"	51	1
+3414	"Female"	NA	31	"Never"	51	1
+3416	"Male"	0	33	"Never"	51	1
+3417	"Female"	0	47	"Ex"	55	1
+3418	"Female"	0	54	"Never"	51	1
+3419	"Male"	NA	34	"Current"	51	2
+342	"Male"	1	31	"Never"	50	1
+3420	"Male"	0	47	"Current"	53	1
+3421	"Male"	0	35	"Current"	50	2
+3423	"Female"	0	38	"Current"	55	2
+3424	"Male"	NA	31	"Current"	51	2
+3425	"Female"	0	44	"Never"	50	2
+3428	"Female"	0	48	"Never"	55	1
+3429	"Male"	0	45	"Never"	51	1
+3430	"Female"	0	32	"Current"	54	1
+3438	"Male"	0	50	"Current"	50	1
+3446	"Female"	0	39	"Current"	53	1
+3447	"Female"	0	32	"Never"	50	2
+3450	"Female"	0	39	"Never"	51	1
+3451	"Male"	0	45	"Current"	54	1
+3453	"Male"	0	44	"Current"	53	1
+3455	"Male"	1	51	"Current"	55	1
+3457	"Female"	0	34	"Never"	53	1
+346	"Male"	0	39	"Current"	50	1
+3461	"Male"	1	46	"Current"	55	1
+3462	"Female"	0	41	"Current"	51	2
+3464	"Female"	0	30	"Current"	50	1
+3465	"Female"	0	36	"Never"	53	1
+3466	"Male"	1	52	"Never"	50	1
+3467	"Male"	0	35	"Current"	53	1
+3471	"Female"	0	39	"Current"	53	1
+3473	"Female"	0	54	"Never"	51	2
+3474	"Female"	0	53	"Current"	53	2
+3476	"Female"	0	44	"Current"	55	1
+3477	"Male"	1	39	"Never"	51	1
+3479	"Female"	0	36	"Never"	54	2
+348	"Male"	0	38	"Current"	55	2
+3482	"Female"	0	42	"Ex"	53	1
+3483	"Female"	1	49	"Current"	53	2
+3485	"Female"	0	46	"Current"	54	1
+3486	"Female"	1	41	"Current"	54	2
+349	"Male"	0	45	"Never"	50	2
+3492	"Male"	1	54	"Current"	51	1
+3496	"Male"	0	34	"Never"	53	1
+3497	"Male"	0	30	"Current"	51	2
+3498	"Male"	0	53	"Never"	53	1
+3499	"Female"	0	52	"Ex"	50	1
+350	"Female"	0	39	"Never"	50	1
+3501	"Male"	0	49	"Current"	54	1
+3503	"Female"	0	35	"Current"	50	2
+3507	"Female"	0	39	"Current"	50	1
+3508	"Female"	1	50	"Ex"	54	1
+3509	"Male"	0	53	"Never"	54	1
+3513	"Male"	1	50	"Ex"	53	1
+3515	"Male"	1	39	"Never"	53	1
+3516	"Male"	0	33	"Never"	54	1
+3517	"Male"	0	37	"Current"	53	1
+3519	"Male"	0	50	"Current"	53	2
+3525	"Female"	0	43	"Current"	54	2
+3527	"Female"	0	42	"Never"	53	1
+3528	"Female"	0	43	"Current"	51	1
+3529	"Male"	0	39	"Current"	53	1
+3531	"Male"	0	47	"Never"	50	1
+3533	"Male"	0	37	"Current"	53	1
+3534	"Female"	0	38	"Current"	51	2
+3537	"Male"	0	30	"Current"	50	1
+3538	"Female"	1	41	"Current"	54	1
+354	"Female"	0	34	"Never"	53	1
+3540	"Male"	0	53	"Ex"	50	1
+3541	"Male"	0	48	"Current"	53	1
+3543	"Female"	0	38	"Never"	53	1
+3545	"Male"	1	32	"Never"	54	1
+3546	"Female"	0	41	"Ex"	50	1
+3551	"Male"	0	40	"Current"	55	2
+3553	"Female"	NA	37	"Current"	51	1
+3554	"Female"	NA	40	"Never"	51	1
+3557	"Female"	0	50	"Ex"	53	1
+356	"Male"	0	47	"Current"	53	1
+3560	"Male"	0	39	"Never"	51	1
+3561	"Male"	NA	34	"Current"	51	1
+3564	"Female"	0	44	"Current"	55	2
+3565	"Female"	1	46	"Current"	55	1
+3566	"Female"	0	31	"Current"	55	2
+3569	"Female"	1	39	"Current"	54	1
+3571	"Male"	1	43	"Ex"	51	1
+3573	"Female"	0	42	"Never"	53	2
+3574	"Male"	0	53	"Current"	53	1
+3575	"Female"	0	47	"Never"	51	2
+3578	"Female"	0	46	"Never"	51	1
+3583	"Female"	1	45	"Current"	54	2
+3585	"Female"	1	41	"Never"	51	1
+3587	"Male"	0	31	"Current"	53	2
+3589	"Female"	0	47	"Current"	54	1
+359	"Male"	0	32	"Current"	53	1
+3595	"Female"	0	42	"Ex"	53	1
+3597	"Male"	0	32	"Never"	51	1
+36	"Male"	1	53	"Never"	53	1
+360	"Female"	1	36	"Current"	53	1
+3601	"Female"	0	34	"Current"	51	1
+3602	"Male"	0	43	"Never"	53	1
+3603	"Male"	0	40	"Current"	50	1
+3604	"Female"	0	30	"Never"	54	1
+3605	"Male"	0	32	"Current"	53	1
+3607	"Male"	1	42	"Current"	51	2
+3608	"Male"	0	47	"Ex"	55	2
+3609	"Female"	0	38	"Ex"	50	1
+3610	"Female"	0	43	"Ex"	54	2
+3613	"Male"	1	50	"Never"	51	1
+3616	"Male"	0	43	"Current"	54	1
+3618	"Female"	1	38	"Ex"	51	1
+362	"Male"	0	30	"Ex"	50	1
+3622	"Male"	0	55	"Ex"	50	2
+3623	"Male"	0	46	"Current"	53	1
+3625	"Male"	0	49	"Never"	55	1
+3627	"Female"	0	47	"Current"	55	2
+363	"Male"	1	44	"Current"	51	2
+3631	"Female"	1	55	"Never"	50	1
+3634	"Female"	0	40	"Never"	54	1
+3635	"Male"	0	45	"Never"	53	2
+3637	"Female"	0	53	"Never"	54	1
+3638	"Female"	1	54	"Current"	54	1
+364	"Female"	NA	35	"Ex"	51	2
+3640	"Female"	0	37	"Ex"	51	1
+3641	"Male"	0	47	"Never"	53	1
+3642	"Female"	0	52	"Ex"	54	1
+3644	"Male"	0	42	"Current"	53	2
+3645	"Female"	0	30	"Current"	53	1
+3646	"Male"	1	46	"Current"	53	1
+3648	"Female"	0	43	"Current"	53	2
+3649	"Male"	0	41	"Ex"	51	1
+3650	"Female"	0	51	"Current"	55	2
+3651	"Female"	0	45	"Never"	53	1
+3652	"Male"	0	43	"Current"	54	2
+3653	"Male"	0	42	"Ex"	51	2
+3655	"Female"	0	47	"Ex"	54	2
+3658	"Male"	1	47	"Current"	50	2
+366	"Male"	0	43	"Ex"	55	1
+3663	"Male"	0	41	"Ex"	53	1
+3664	"Male"	0	51	"Current"	55	2
+3665	"Male"	1	39	"Never"	53	2
+3668	"Female"	1	46	"Current"	53	1
+3669	"Female"	0	32	"Never"	51	1
+367	"Female"	NA	50	"Never"	53	1
+3671	"Male"	1	53	"Never"	53	2
+3673	"Female"	0	39	"Never"	50	2
+3677	"Female"	1	47	"Current"	55	2
+3678	"Male"	0	33	"Never"	54	2
+3680	"Male"	0	34	"Never"	53	1
+3682	"Male"	0	47	"Current"	51	2
+3683	"Male"	0	55	"Ex"	50	1
+3685	"Female"	1	42	"Never"	53	1
+3686	"Male"	0	31	"Current"	55	2
+3687	"Male"	0	53	"Never"	51	2
+3689	"Male"	NA	31	"Never"	51	1
+369	"Female"	0	39	"Current"	50	1
+3691	"Male"	0	36	"Never"	53	2
+3692	"Female"	1	43	"Ex"	51	1
+3696	"Female"	1	49	"Ex"	51	2
+3697	"Male"	0	44	"Current"	55	1
+3702	"Female"	1	49	"Ex"	51	2
+3703	"Female"	0	52	"Current"	50	2
+3705	"Female"	1	47	"Ex"	51	1
+3708	"Female"	1	42	"Current"	51	1
+371	"Female"	0	30	"Current"	53	2
+3711	"Male"	0	39	"Current"	50	1
+3719	"Female"	1	47	"Current"	50	1
+372	"Male"	0	44	"Current"	54	1
+3724	"Female"	0	36	"Ex"	51	2
+3729	"Female"	1	53	"Ex"	54	1
+373	"Male"	0	42	"Ex"	51	1
+3731	"Female"	0	32	"Never"	55	2
+3732	"Male"	0	50	"Current"	53	1
+3733	"Male"	0	49	"Current"	54	1
+3735	"Male"	NA	40	"Never"	51	1
+3743	"Female"	0	43	"Never"	51	2
+3744	"Female"	0	49	"Never"	55	1
+3748	"Female"	0	35	"Never"	53	2
+3749	"Female"	0	52	"Never"	51	1
+375	"Female"	0	38	"Current"	50	1
+3751	"Female"	0	42	"Current"	50	2
+3755	"Male"	0	43	"Never"	50	2
+3757	"Female"	0	42	"Current"	55	2
+3759	"Female"	0	32	"Never"	50	1
+3760	"Male"	0	36	"Current"	53	1
+3761	"Female"	0	50	"Current"	53	2
+3763	"Female"	0	34	"Ex"	50	2
+3764	"Male"	1	42	"Ex"	53	1
+3765	"Male"	1	48	"Ex"	51	1
+3770	"Male"	0	39	"Ex"	54	1
+3771	"Male"	0	48	"Current"	53	1
+3778	"Male"	0	45	"Current"	53	2
+3779	"Female"	0	44	"Never"	53	2
+3780	"Male"	0	39	"Current"	51	2
+3781	"Female"	0	51	"Never"	53	1
+3782	"Female"	0	43	"Never"	51	1
+3784	"Female"	1	37	"Current"	51	1
+3786	"Male"	1	39	"Never"	51	1
+3787	"Female"	0	32	"Ex"	53	1
+3790	"Female"	1	39	"Ex"	51	2
+3792	"Female"	0	37	"Never"	51	1
+3793	"Male"	0	40	"Current"	55	1
+3796	"Male"	0	45	"Never"	51	2
+3797	"Female"	0	52	"Never"	51	1
+3798	"Female"	0	45	"Current"	53	2
+3799	"Male"	0	41	"Ex"	53	1
+38	"Female"	0	55	"Never"	50	1
+3804	"Female"	1	54	"Current"	51	2
+3805	"Female"	0	47	"Never"	51	2
+3807	"Male"	1	36	"Current"	53	1
+3809	"Male"	0	36	"Current"	51	1
+3810	"Male"	0	30	"Current"	53	1
+3812	"Male"	0	46	"Current"	54	1
+3814	"Male"	0	34	"Current"	55	1
+3815	"Male"	NA	39	"Never"	51	1
+3817	"Female"	0	36	"Current"	54	1
+3819	"Male"	0	37	"Current"	53	1
+382	"Male"	0	49	"Never"	54	1
+3823	"Male"	0	31	"Current"	54	1
+3826	"Female"	0	38	"Ex"	51	1
+3829	"Female"	1	49	"Ex"	51	2
+384	"Female"	1	52	"Current"	53	1
+3840	"Female"	0	46	"Never"	51	1
+3841	"Male"	0	41	"Ex"	50	1
+3842	"Male"	0	36	"Current"	50	1
+3843	"Male"	0	36	"Ex"	53	1
+3845	"Female"	1	52	"Never"	54	1
+3846	"Male"	0	39	"Current"	50	2
+3848	"Female"	0	35	"Current"	50	2
+3849	"Female"	0	29	"Current"	53	1
+385	"Female"	1	51	"Current"	55	2
+3851	"Female"	NA	37	"Current"	51	1
+3854	"Female"	0	36	"Current"	54	1
+3855	"Male"	1	50	"Never"	51	1
+3856	"Male"	0	39	"Current"	50	1
+3857	"Male"	NA	52	"Never"	51	2
+3858	"Female"	0	53	"Never"	54	1
+386	"Male"	0	54	"Never"	51	2
+3863	"Female"	NA	31	"Never"	51	2
+3864	"Male"	0	44	"Current"	51	1
+3867	"Male"	0	34	"Never"	54	2
+387	"Female"	0	51	"Ex"	54	1
+3870	"Male"	1	55	"Never"	54	1
+3872	"Female"	0	34	"Ex"	50	2
+3874	"Female"	0	30	"Never"	54	1
+3876	"Female"	1	49	"Ex"	51	2
+3879	"Male"	1	54	"Current"	51	2
+3880	"Male"	0	42	"Current"	53	1
+3881	"Female"	1	38	"Ex"	51	2
+3883	"Male"	0	31	"Current"	54	2
+3884	"Female"	0	42	"Ex"	50	2
+3885	"Female"	0	45	"Current"	53	1
+3886	"Female"	0	36	"Current"	53	2
+3893	"Female"	0	49	"Ex"	50	2
+3896	"Female"	0	40	"Never"	54	1
+3897	"Female"	1	40	"Ex"	53	1
+39	"Female"	0	44	"Current"	51	2
+390	"Female"	0	44	"Current"	53	1
+3900	"Male"	0	43	"Current"	54	1
+3901	"Male"	1	52	"Never"	53	1
+3902	"Female"	0	53	"Never"	54	1
+3903	"Male"	0	54	"Never"	51	2
+3905	"Female"	1	37	"Current"	53	1
+3907	"Male"	0	47	"Never"	50	1
+3908	"Female"	0	31	"Current"	55	1
+3909	"Male"	0	36	"Current"	53	1
+3911	"Female"	0	48	"Never"	53	1
+3916	"Female"	0	48	"Never"	51	2
+3920	"Female"	0	47	"Current"	51	2
+3922	"Female"	0	36	"Never"	50	1
+3924	"Male"	NA	34	"Current"	51	2
+3925	"Male"	0	48	"Never"	53	2
+3927	"Female"	0	46	"Current"	54	1
+3929	"Male"	0	53	"Current"	53	1
+393	"Female"	1	30	"Never"	54	1
+3931	"Female"	0	48	"Never"	50	1
+3932	"Male"	0	48	"Ex"	54	2
+3940	"Female"	0	45	"Ex"	51	1
+3941	"Male"	0	44	"Current"	53	1
+3942	"Female"	0	39	"Never"	51	1
+3947	"Male"	0	53	"Ex"	51	1
+3950	"Male"	0	33	"Never"	53	1
+3951	"Female"	0	30	"Current"	50	2
+3953	"Male"	1	48	"Current"	53	1
+3954	"Female"	0	49	"Never"	51	1
+3957	"Female"	0	43	"Current"	51	1
+3958	"Male"	1	31	"Never"	50	2
+3960	"Female"	NA	39	"Current"	50	2
+3961	"Male"	0	43	"Current"	51	1
+3963	"Female"	0	34	"Never"	53	1
+3967	"Female"	0	44	"Current"	53	2
+3968	"Female"	1	50	"Ex"	54	2
+3970	"Male"	0	36	"Current"	53	1
+3972	"Male"	1	50	"Ex"	54	1
+3973	"Male"	0	34	"Never"	55	1
+3975	"Male"	0	38	"Current"	51	1
+3977	"Female"	0	45	"Never"	53	2
+398	"Female"	0	49	"Never"	55	1
+3981	"Female"	0	45	"Current"	53	1
+3983	"Female"	0	46	"Current"	54	2
+3984	"Male"	0	34	"Current"	55	1
+3988	"Male"	1	50	"Never"	51	2
+3989	"Female"	NA	49	"Never"	53	1
+3990	"Female"	0	45	"Current"	53	2
+3991	"Female"	0	42	"Current"	51	2
+3992	"Female"	0	38	"Ex"	50	1
+3993	"Male"	0	32	"Never"	50	1
+3994	"Male"	0	33	"Current"	55	1
+3995	"Female"	0	53	"Current"	53	1
+3996	"Male"	1	41	"Ex"	55	2
+3997	"Female"	1	54	"Current"	50	1
+3999	"Male"	1	42	"Current"	54	1
+40	"Male"	0	31	"Current"	51	1
+4001	"Female"	1	47	"Current"	50	1
+4004	"Female"	1	48	"Current"	53	1
+4007	"Female"	0	40	"Current"	51	1
+4011	"Female"	0	35	"Ex"	50	1
+4014	"Male"	1	51	"Current"	55	2
+4015	"Female"	0	46	"Never"	51	2
+4016	"Male"	1	41	"Current"	50	1
+4018	"Male"	0	45	"Never"	53	1
+4027	"Male"	0	44	"Current"	50	2
+4032	"Male"	1	40	"Never"	50	1
+4033	"Female"	1	42	"Current"	51	1
+4034	"Female"	0	36	"Ex"	51	1
+4035	"Male"	0	42	"Never"	51	1
+4036	"Female"	0	45	"Current"	54	1
+4037	"Female"	0	53	"Never"	54	1
+4039	"Male"	0	43	"Never"	51	1
+4041	"Female"	0	42	"Current"	50	1
+4042	"Male"	0	32	"Current"	53	2
+4043	"Male"	0	54	"Never"	51	1
+4044	"Female"	0	45	"Current"	53	2
+4046	"Female"	0	49	"Never"	55	1
+4049	"Male"	0	42	"Ex"	55	1
+405	"Male"	1	52	"Never"	54	1
+4051	"Female"	1	45	"Current"	51	1
+4054	"Male"	0	36	"Ex"	51	1
+4055	"Female"	1	53	"Never"	53	1
+4056	"Male"	0	50	"Never"	51	1
+4058	"Male"	0	36	"Ex"	51	1
+4064	"Female"	0	44	"Current"	53	1
+4065	"Male"	0	49	"Ex"	53	1
+4066	"Female"	0	52	"Ex"	54	1
+4067	"Male"	0	43	"Current"	54	1
+4069	"Male"	0	47	"Never"	51	1
+4072	"Female"	0	36	"Never"	53	1
+4073	"Female"	1	55	"Never"	54	1
+4080	"Male"	0	37	"Current"	54	1
+4082	"Male"	0	34	"Never"	50	1
+4086	"Male"	0	39	"Current"	50	2
+4087	"Male"	1	50	"Ex"	53	1
+4089	"Female"	0	48	"Never"	55	1
+4090	"Female"	0	34	"Current"	55	1
+4096	"Male"	0	39	"Current"	53	2
+4097	"Female"	0	37	"Never"	51	1
+4099	"Female"	0	53	"Ex"	50	1
+410	"Female"	0	50	"Never"	51	1
+4102	"Male"	0	39	"Current"	51	2
+4105	"Female"	0	48	"Never"	53	1
+4107	"Female"	0	45	"Current"	53	1
+4109	"Male"	1	42	"Current"	51	1
+411	"Male"	0	33	"Never"	51	1
+4110	"Female"	0	36	"Ex"	51	1
+4111	"Male"	1	48	"Current"	53	1
+4112	"Male"	0	45	"Never"	53	1
+4113	"Female"	0	39	"Ex"	54	1
+4114	"Male"	1	51	"Never"	53	2
+4115	"Male"	0	32	"Never"	51	1
+4119	"Male"	1	32	"Ex"	51	1
+412	"Male"	0	41	"Current"	53	1
+4124	"Male"	0	50	"Current"	50	2
+4127	"Female"	0	47	"Ex"	54	1
+4131	"Female"	0	29	"Never"	53	1
+4132	"Female"	0	39	"Never"	51	1
+4133	"Female"	1	55	"Never"	50	1
+4134	"Female"	0	48	"Current"	51	2
+4137	"Male"	0	38	"Current"	51	1
+4138	"Female"	NA	53	"Never"	51	1
+414	"Female"	NA	35	"Ex"	51	1
+4140	"Male"	0	41	"Ex"	50	1
+4142	"Male"	NA	53	"Never"	51	1
+4144	"Female"	0	30	"Never"	54	2
+4152	"Male"	0	42	"Never"	53	1
+4153	"Male"	0	39	"Ex"	54	1
+4156	"Female"	0	31	"Current"	55	1
+4159	"Female"	1	50	"Never"	51	1
+4161	"Female"	0	36	"Never"	54	2
+4171	"Male"	0	47	"Current"	54	2
+4173	"Male"	0	42	"Ex"	55	1
+4174	"Male"	0	38	"Current"	55	1
+4176	"Male"	0	39	"Current"	50	1
+4177	"Female"	0	52	"Current"	54	2
+4179	"Female"	1	45	"Current"	54	1
+4180	"Male"	1	41	"Current"	50	1
+4183	"Female"	0	35	"Ex"	50	1
+4185	"Female"	0	37	"Current"	53	1
+4186	"Male"	0	42	"Current"	51	1
+4187	"Female"	0	54	"Never"	51	1
+4188	"Male"	0	54	"Never"	51	2
+4189	"Male"	0	55	"Ex"	50	1
+419	"Female"	0	33	"Never"	51	1
+4190	"Female"	0	35	"Never"	54	1
+4191	"Male"	0	43	"Current"	51	1
+4193	"Female"	0	49	"Ex"	53	1
+4194	"Male"	0	39	"Current"	53	1
+4198	"Female"	0	36	"Ex"	51	2
+4199	"Female"	0	36	"Current"	54	1
+4200	"Female"	0	50	"Never"	53	1
+4201	"Female"	1	40	"Ex"	53	1
+4202	"Female"	0	44	"Current"	53	1
+4203	"Female"	0	44	"Current"	53	2
+4204	"Female"	0	53	"Never"	54	1
+4205	"Male"	0	30	"Ex"	53	1
+4207	"Male"	1	41	"Never"	51	1
+4209	"Female"	0	52	"Never"	51	1
+4210	"Female"	1	52	"Never"	53	1
+4211	"Male"	0	51	"Never"	54	1
+4213	"Female"	0	44	"Ex"	51	2
+4217	"Male"	0	30	"Never"	51	1
+4219	"Male"	1	52	"Never"	53	1
+422	"Female"	0	51	"Never"	54	1
+4221	"Female"	0	44	"Current"	54	1
+4224	"Male"	0	37	"Current"	53	1
+4226	"Female"	0	33	"Current"	51	1
+4228	"Female"	0	46	"Current"	51	1
+423	"Male"	0	38	"Current"	53	1
+4231	"Male"	0	42	"Current"	53	1
+4232	"Male"	0	51	"Never"	51	1
+4233	"Male"	0	41	"Current"	51	1
+4237	"Male"	0	37	"Current"	53	2
+4238	"Female"	1	32	"Current"	53	1
+424	"Female"	0	43	"Current"	55	1
+4241	"Male"	0	48	"Ex"	54	1
+4246	"Female"	0	36	"Current"	50	1
+4247	"Male"	0	30	"Ex"	50	1
+4249	"Male"	0	33	"Current"	51	1
+425	"Female"	1	51	"Current"	50	2
+4252	"Female"	1	47	"Current"	50	1
+4253	"Male"	NA	35	"Never"	51	2
+4258	"Female"	0	53	"Ex"	50	1
+426	"Female"	1	32	"Ex"	51	1
+4261	"Female"	0	33	"Current"	51	1
+4264	"Female"	0	34	"Current"	55	2
+4267	"Female"	0	53	"Never"	54	2
+4268	"Male"	0	43	"Current"	54	1
+427	"Female"	0	30	"Current"	51	1
+4270	"Female"	0	31	"Current"	50	2
+4272	"Female"	1	48	"Ex"	51	2
+4277	"Female"	NA	52	"Never"	51	1
+4278	"Female"	1	35	"Never"	51	2
+4279	"Male"	0	35	"Current"	53	2
+428	"Male"	0	53	"Current"	55	1
+4282	"Male"	0	41	"Never"	51	1
+4286	"Female"	0	35	"Current"	53	1
+4287	"Male"	0	32	"Ex"	51	1
+429	"Male"	0	44	"Never"	50	2
+4292	"Male"	1	50	"Ex"	53	1
+4294	"Female"	0	33	"Never"	51	1
+4295	"Male"	0	50	"Never"	51	1
+4296	"Female"	0	36	"Never"	53	1
+4297	"Female"	0	33	"Never"	54	1
+4299	"Male"	0	50	"Ex"	53	1
+43	"Female"	0	32	NA	51	1
+4303	"Female"	0	48	"Ex"	51	2
+4304	"Female"	0	34	"Never"	55	1
+4312	"Female"	0	49	"Current"	54	1
+4313	"Female"	0	42	"Current"	50	2
+4314	"Male"	0	38	"Current"	51	2
+4317	"Male"	0	45	"Current"	53	1
+4318	"Female"	1	53	"Never"	54	2
+4319	"Male"	0	40	"Never"	50	1
+432	"Female"	0	49	"Current"	54	1
+4321	"Female"	0	44	"Never"	53	1
+4326	"Male"	NA	38	"Current"	51	1
+433	"Female"	0	42	"Never"	51	2
+4331	"Female"	0	47	"Current"	53	2
+4332	"Male"	0	32	"Ex"	51	1
+4334	"Male"	0	44	"Current"	51	1
+4338	"Female"	0	42	"Never"	51	1
+4339	"Female"	1	38	"Ex"	51	1
+4345	"Male"	NA	31	"Never"	51	1
+4346	"Female"	0	35	"Current"	50	1
+4348	"Female"	1	48	"Current"	53	2
+4349	"Female"	0	43	"Current"	53	1
+435	"Male"	1	50	"Ex"	53	1
+4350	"Male"	0	36	"Never"	50	1
+4351	"Female"	0	45	"Current"	54	1
+4353	"Male"	0	33	"Current"	55	2
+4355	"Female"	1	52	"Never"	53	2
+4356	"Male"	0	53	"Never"	54	1
+4357	"Female"	0	52	"Current"	50	2
+4360	"Female"	0	42	"Never"	53	1
+4361	"Female"	0	36	"Never"	50	2
+4362	"Male"	0	33	"Never"	51	1
+4363	"Female"	0	43	"Ex"	53	2
+4364	"Female"	0	39	"Never"	51	2
+4366	"Female"	0	32	"Ex"	51	1
+4371	"Female"	0	44	"Current"	50	1
+4373	"Male"	0	38	"Current"	51	1
+4374	"Male"	0	44	"Ex"	54	1
+4376	"Male"	0	45	"Ex"	51	1
+438	"Male"	0	42	"Ex"	50	1
+4381	"Male"	0	36	"Ex"	51	1
+4382	"Male"	0	32	"Current"	53	1
+4383	"Female"	0	43	"Current"	53	2
+4385	"Female"	NA	34	"Current"	51	1
+4386	"Male"	0	49	"Current"	54	1
+4388	"Male"	0	50	"Current"	51	2
+4389	"Male"	1	30	"Never"	54	1
+439	"Female"	0	39	"Ex"	50	1
+4390	"Female"	0	45	"Never"	53	1
+4391	"Female"	0	48	"Current"	51	1
+4392	"Female"	0	48	"Current"	51	2
+4393	"Female"	0	50	"Current"	50	1
+4395	"Female"	NA	39	"Never"	51	1
+4396	"Male"	0	50	"Current"	53	1
+4399	"Female"	0	42	"Never"	53	2
+4400	"Male"	0	43	"Never"	50	2
+4401	"Female"	0	51	"Never"	54	1
+4402	"Female"	NA	50	"Never"	53	2
+4403	"Female"	0	34	"Never"	55	1
+4407	"Male"	0	39	"Never"	53	1
+4408	"Male"	1	55	"Never"	54	1
+4409	"Female"	0	36	"Ex"	53	1
+4410	"Male"	0	53	"Current"	53	2
+4413	"Male"	0	40	"Current"	53	1
+4416	"Female"	NA	39	"Never"	51	2
+4417	"Male"	0	33	"Never"	55	1
+4418	"Male"	0	45	"Never"	51	1
+4423	"Male"	0	37	"Current"	55	1
+4425	"Male"	1	47	"Current"	55	1
+4431	"Female"	0	46	"Current"	55	2
+4438	"Female"	0	40	"Current"	55	1
+444	"Male"	0	40	"Never"	50	1
+4440	"Female"	0	38	"Current"	50	1
+4441	"Male"	0	43	"Current"	54	1
+4449	"Female"	0	45	"Current"	54	1
+445	"Male"	0	49	"Ex"	50	1
+4452	"Female"	0	47	"Current"	53	1
+4453	"Female"	1	36	"Ex"	51	1
+4454	"Male"	0	49	"Never"	54	1
+4458	"Male"	0	36	"Current"	55	1
+4461	"Male"	0	39	"Never"	51	2
+4464	"Female"	0	31	"Current"	55	2
+4466	"Female"	0	39	"Never"	53	1
+4470	"Female"	0	38	"Ex"	51	1
+4471	"Female"	0	34	"Never"	55	1
+4473	"Male"	0	39	"Ex"	54	1
+4475	"Female"	1	47	"Current"	50	1
+4477	"Male"	0	38	"Current"	51	1
+4478	"Male"	0	38	"Current"	51	2
+448	"Female"	1	42	"Never"	53	2
+4481	"Male"	0	32	"Current"	55	1
+4484	"Male"	0	53	"Current"	55	1
+4488	"Female"	0	50	"Current"	50	1
+4493	"Female"	0	41	"Never"	51	2
+4494	"Female"	0	34	"Never"	53	2
+4498	"Female"	1	44	"Current"	51	1
+4508	"Female"	0	53	"Never"	54	2
+4509	"Male"	0	42	"Ex"	55	2
+451	"Female"	0	45	"Current"	53	2
+4514	"Male"	0	52	"Current"	55	1
+4515	"Female"	0	44	"Current"	53	1
+4516	"Female"	0	31	"Never"	53	2
+4517	"Female"	1	33	"Never"	53	1
+4519	"Male"	0	37	"Current"	53	1
+4520	"Male"	0	44	"Ex"	54	2
+4521	"Female"	0	51	"Never"	51	1
+4528	"Male"	0	37	"Never"	53	1
+453	"Male"	0	46	"Never"	51	1
+4530	"Female"	0	33	"Current"	51	1
+4532	"Male"	0	53	"Never"	54	1
+4533	"Female"	1	55	"Never"	54	2
+4534	"Male"	0	42	"Current"	54	1
+4537	"Female"	0	44	"Ex"	55	2
+4538	"Male"	0	31	"Never"	51	1
+454	"Female"	NA	35	"Ex"	51	2
+4540	"Female"	0	32	"Never"	55	2
+4543	"Female"	0	43	"Current"	53	1
+4545	"Male"	1	32	"Ex"	51	2
+4556	"Female"	0	30	"Current"	51	1
+4558	"Male"	0	43	"Ex"	54	2
+4563	"Female"	1	53	"Never"	54	1
+4566	"Male"	0	32	"Current"	53	1
+4567	"Male"	0	36	"Current"	55	1
+4571	"Female"	NA	53	"Never"	51	1
+4573	"Female"	0	45	"Never"	50	1
+4575	"Male"	0	48	"Never"	53	2
+4577	"Female"	0	41	"Never"	54	1
+4579	"Female"	0	39	"Current"	51	1
+4584	"Male"	0	43	"Current"	51	1
+4585	"Female"	0	36	"Ex"	51	2
+4586	"Male"	0	51	"Never"	53	2
+4587	"Female"	1	49	"Current"	53	1
+4588	"Male"	0	35	"Current"	50	2
+4590	"Female"	0	29	"Current"	53	1
+4594	"Female"	0	43	"Current"	51	1
+4595	"Male"	0	50	"Ex"	53	1
+46	"Male"	0	42	"Ex"	51	1
+4601	"Female"	0	47	"Ex"	54	2
+4602	"Female"	NA	31	"Current"	51	1
+4603	"Male"	0	44	"Current"	51	1
+4604	"Female"	0	55	"Never"	51	1
+4605	"Female"	0	36	"Never"	50	2
+4606	"Female"	0	38	"Current"	50	1
+4607	"Male"	0	38	"Never"	55	1
+4608	"Male"	1	39	"Never"	53	2
+461	"Female"	0	34	"Never"	55	1
+4610	"Male"	0	46	"Never"	51	2
+4612	"Male"	0	38	"Ex"	51	1
+4616	"Female"	1	53	"Ex"	54	1
+4618	"Male"	0	52	"Ex"	54	1
+4622	"Female"	1	39	"Never"	51	2
+4623	"Male"	0	43	"Current"	54	1
+4624	"Female"	0	43	"Current"	53	1
+4627	"Female"	0	36	"Current"	50	1
+4628	"Female"	NA	38	"Current"	51	1
+4630	"Male"	0	37	"Never"	53	1
+4632	"Female"	1	32	"Current"	53	1
+4633	"Male"	0	36	"Never"	50	1
+4634	"Female"	NA	37	"Current"	51	2
+4638	"Male"	0	48	"Ex"	54	2
+4639	"Male"	1	54	"Current"	54	2
+4641	"Male"	0	52	"Current"	55	2
+4642	"Female"	0	44	"Never"	53	2
+4644	"Male"	0	41	"Current"	53	1
+4645	"Male"	0	32	"Current"	53	1
+4646	"Male"	0	42	"Current"	53	1
+4651	"Male"	0	34	"Never"	53	2
+4652	"Male"	1	41	"Ex"	50	1
+4653	"Male"	0	31	"Current"	53	1
+4655	"Male"	0	53	"Never"	54	2
+4656	"Female"	0	50	"Current"	53	1
+466	"Female"	0	50	"Current"	53	1
+4664	"Male"	0	35	"Current"	53	1
+4665	"Male"	NA	35	"Ex"	51	1
+4666	"Female"	0	31	"Current"	51	1
+4667	"Male"	0	39	"Current"	51	1
+4668	"Male"	0	44	"Current"	54	2
+467	"Male"	0	38	"Current"	53	2
+4672	"Female"	0	33	"Current"	51	1
+4673	"Female"	0	44	"Current"	51	1
+4676	"Male"	0	44	"Never"	53	1
+4677	"Female"	1	32	"Never"	54	2
+4678	"Male"	0	42	"Current"	50	1
+4679	"Male"	0	42	"Never"	53	1
+468	"Female"	0	44	"Current"	51	1
+469	"Female"	0	44	"Never"	53	1
+4690	"Female"	1	45	"Ex"	51	1
+4691	"Female"	0	51	"Never"	54	1
+4693	"Male"	1	52	"Never"	54	1
+4694	"Female"	0	48	"Current"	51	1
+4696	"Male"	NA	38	"Current"	51	1
+4697	"Female"	0	39	"Current"	50	1
+4699	"Female"	0	42	"Never"	51	1
+47	"Male"	0	39	"Never"	50	2
+4700	"Female"	1	32	"Never"	54	2
+4703	"Female"	0	39	"Current"	51	1
+4706	"Female"	0	43	"Current"	53	1
+4707	"Female"	0	30	"Ex"	50	1
+4708	"Male"	0	39	"Current"	51	1
+4711	"Female"	0	34	"Ex"	53	1
+4712	"Female"	0	36	"Current"	53	1
+4713	"Female"	1	39	"Current"	54	2
+4714	"Male"	0	46	"Current"	50	1
+4719	"Male"	0	44	"Current"	50	1
+4721	"Male"	NA	37	"Current"	51	1
+4722	"Male"	0	52	"Ex"	50	1
+4724	"Male"	0	48	"Never"	53	1
+4725	"Female"	0	53	"Ex"	51	2
+4726	"Female"	0	30	"Current"	53	1
+4728	"Female"	0	42	"Current"	51	1
+4729	"Female"	0	30	"Never"	51	2
+4730	"Male"	0	44	"Current"	53	1
+4731	"Female"	0	31	"Current"	50	1
+4732	"Female"	0	45	"Current"	53	1
+4737	"Male"	0	47	"Never"	51	1
+474	"Male"	0	39	"Current"	51	2
+4740	"Male"	1	50	"Never"	51	1
+4741	"Female"	0	32	"Current"	53	1
+4742	"Female"	NA	39	"Current"	50	1
+4745	"Female"	0	43	"Current"	51	1
+4749	"Female"	0	51	"Current"	55	2
+475	"Female"	0	53	"Never"	54	2
+4751	"Female"	0	44	"Current"	54	1
+4752	"Male"	1	44	"Current"	51	1
+4753	"Male"	0	39	"Current"	51	2
+4759	"Male"	0	51	"Ex"	54	1
+476	"Female"	0	52	"Never"	53	2
+4760	"Male"	0	38	"Never"	55	2
+4762	"Male"	1	30	"Never"	54	1
+4764	"Male"	0	41	"Current"	51	1
+4768	"Male"	0	33	"Never"	54	1
+4769	"Female"	0	36	"Never"	50	2
+4771	"Male"	1	44	"Current"	51	2
+4773	"Male"	1	50	"Never"	51	1
+4774	"Female"	0	34	"Current"	51	1
+4777	"Male"	1	49	"Never"	54	1
+4778	"Female"	0	51	"Never"	54	1
+478	"Female"	0	33	"Never"	51	2
+4780	"Female"	0	31	"Current"	50	1
+4785	"Male"	0	38	"Current"	51	2
+479	"Male"	0	49	"Never"	51	1
+4791	"Female"	0	41	"Never"	51	1
+4792	"Male"	NA	35	"Never"	51	1
+4794	"Female"	0	37	"Current"	53	2
+4795	"Female"	0	39	"Ex"	54	1
+4796	"Male"	0	33	"Never"	53	2
+4797	"Female"	0	42	"Ex"	55	2
+4798	"Female"	0	43	"Current"	50	1
+48	"Male"	0	47	"Current"	54	2
+480	"Male"	1	47	"Ex"	51	1
+4800	"Female"	0	47	"Ex"	51	1
+4802	"Female"	0	39	"Never"	51	2
+4803	"Male"	0	46	"Current"	54	1
+4805	"Male"	0	32	NA	51	2
+4809	"Female"	0	42	"Ex"	51	1
+4813	"Female"	0	49	"Never"	51	1
+4814	"Male"	0	45	"Never"	50	2
+4815	"Male"	0	42	"Ex"	51	1
+4822	"Female"	1	51	"Current"	55	2
+4823	"Male"	1	42	"Ex"	54	2
+4824	"Female"	0	48	"Never"	55	1
+4827	"Female"	0	37	"Never"	51	1
+4828	"Male"	1	49	"Ex"	51	1
+4829	"Female"	1	37	"Current"	53	2
+483	"Male"	NA	37	"Current"	51	1
+4831	"Female"	0	44	"Current"	51	1
+4833	"Female"	1	42	"Ex"	54	1
+4835	"Female"	0	45	"Never"	51	1
+4836	"Male"	0	45	"Current"	54	2
+4838	"Male"	0	39	"Never"	55	1
+484	"Female"	0	36	"Never"	53	1
+4842	"Female"	0	42	"Never"	51	1
+4846	"Female"	1	31	"Never"	50	1
+4848	"Female"	0	47	"Current"	50	1
+4850	"Female"	0	36	"Ex"	51	1
+4851	"Male"	NA	35	"Never"	51	1
+4852	"Male"	0	34	"Ex"	50	1
+4854	"Male"	0	31	"Never"	55	1
+4860	"Male"	0	47	"Never"	50	1
+4864	"Male"	0	32	NA	51	1
+4868	"Male"	1	52	"Never"	53	1
+487	"Female"	0	44	"Current"	54	1
+4871	"Female"	1	38	"Ex"	51	2
+4872	"Male"	0	55	"Current"	54	1
+4874	"Male"	0	41	"Ex"	51	1
+4875	"Male"	0	35	"Current"	53	2
+4879	"Female"	0	53	"Never"	51	1
+488	"Male"	1	39	"Ex"	51	1
+4880	"Female"	NA	35	"Ex"	51	2
+4882	"Male"	1	40	"Ex"	53	1
+4883	"Female"	0	39	"Current"	53	1
+4887	"Female"	0	32	"Never"	51	2
+4888	"Male"	0	39	"Current"	50	1
+4889	"Female"	0	42	"Current"	51	2
+4890	"Female"	1	52	"Current"	53	1
+4898	"Female"	0	31	"Never"	51	1
+49	"Female"	0	47	"Current"	50	1
+490	"Female"	0	51	"Ex"	54	1
+4900	"Female"	0	35	"Never"	53	2
+4904	"Male"	1	39	"Current"	54	2
+4907	"Female"	0	47	"Ex"	55	1
+4909	"Female"	0	50	"Ex"	50	1
+491	"Male"	0	39	"Current"	53	1
+4910	"Female"	0	49	"Current"	51	2
+4914	"Male"	1	37	"Current"	51	2
+4919	"Female"	0	44	"Current"	53	1
+492	"Male"	0	44	"Ex"	54	1
+4923	"Female"	0	45	"Never"	53	1
+4924	"Male"	1	31	"Never"	50	1
+4925	"Female"	1	49	"Never"	55	2
+4929	"Female"	0	40	"Current"	51	2
+4938	"Male"	0	44	"Current"	53	1
+4939	"Female"	NA	31	"Current"	51	2
+494	"Female"	0	44	"Never"	54	1
+4940	"Male"	0	48	"Current"	54	1
+4942	"Male"	0	51	"Never"	54	1
+4945	"Female"	0	36	"Current"	55	1
+4949	"Female"	1	38	"Ex"	51	1
+495	"Male"	0	42	"Never"	53	1
+4950	"Male"	0	45	"Ex"	51	1
+4952	"Female"	0	43	"Ex"	55	1
+4954	"Female"	0	42	"Never"	51	2
+4958	"Female"	1	39	"Never"	53	2
+4959	"Male"	0	43	"Never"	51	1
+4960	"Female"	0	36	"Never"	55	1
+4961	"Male"	0	32	"Current"	53	1
+4963	"Male"	0	34	"Ex"	53	2
+4964	"Female"	0	30	"Current"	53	2
+4966	"Male"	1	53	"Never"	50	1
+4969	"Female"	0	44	"Current"	55	1
+497	"Female"	0	39	"Current"	53	2
+4974	"Female"	0	53	"Never"	51	2
+498	"Female"	0	44	"Current"	50	1
+4980	"Female"	0	31	"Never"	51	2
+4981	"Male"	0	42	"Current"	54	1
+4983	"Male"	0	29	"Current"	53	1
+4984	"Female"	0	44	"Ex"	55	1
+4985	"Male"	NA	40	"Never"	51	1
+4987	"Male"	0	43	"Never"	50	1
+4988	"Female"	0	41	"Never"	54	2
+4989	"Male"	0	29	"Never"	53	2
+499	"Female"	NA	37	"Current"	51	1
+4991	"Male"	0	49	"Ex"	53	1
+4997	"Male"	1	37	"Current"	53	1
+500	"Male"	0	49	"Current"	54	1
+5000	"Female"	0	45	"Never"	51	1
+5001	"Male"	0	52	"Current"	50	1
+5003	"Male"	0	33	"Never"	54	2
+504	"Male"	0	47	"Never"	54	2
+505	"Male"	0	51	"Never"	51	1
+506	"Female"	0	35	"Never"	53	1
+51	"Female"	0	45	"Ex"	50	1
+510	"Male"	0	42	"Ex"	51	1
+514	"Female"	0	36	"Never"	50	1
+515	"Male"	0	37	"Never"	53	2
+516	"Male"	0	32	"Current"	53	1
+520	"Male"	0	49	"Current"	51	1
+522	"Male"	NA	39	"Never"	51	1
+525	"Male"	1	49	"Current"	53	1
+526	"Female"	0	32	"Current"	54	2
+529	"Female"	0	39	"Never"	55	2
+532	"Female"	0	44	"Never"	54	1
+534	"Male"	0	37	"Current"	54	1
+537	"Female"	0	45	"Never"	53	1
+538	"Male"	0	53	"Current"	53	1
+540	"Male"	1	49	"Ex"	51	1
+541	"Female"	0	37	"Ex"	51	1
+542	"Male"	0	31	"Never"	55	1
+544	"Male"	0	45	"Never"	51	1
+548	"Male"	0	45	"Ex"	51	1
+549	"Male"	0	45	"Never"	51	1
+550	"Female"	0	31	"Never"	53	1
+551	"Female"	0	32	"Current"	53	2
+555	"Male"	0	31	"Current"	50	1
+556	"Female"	0	47	"Current"	55	1
+557	"Male"	0	34	"Never"	54	1
+558	"Male"	0	49	"Current"	50	2
+559	"Male"	NA	38	"Current"	51	2
+56	"Male"	0	44	"Ex"	50	1
+561	"Male"	0	49	"Current"	50	2
+563	"Female"	0	48	"Ex"	51	1
+565	"Male"	0	42	"Ex"	51	1
+57	"Male"	0	47	"Current"	50	2
+572	"Male"	0	42	"Ex"	50	1
+573	"Male"	NA	31	"Never"	51	1
+577	"Female"	0	44	"Current"	51	2
+58	"Female"	0	44	"Ex"	50	1
+580	"Male"	0	52	"Current"	55	1
+581	"Female"	0	33	"Never"	51	1
+583	"Female"	0	34	"Never"	50	2
+585	"Female"	0	53	"Current"	53	1
+589	"Female"	0	48	"Current"	53	1
+590	"Male"	0	36	"Current"	54	2
+592	"Male"	0	42	"Never"	53	1
+594	"Female"	0	49	"Never"	51	2
+596	"Female"	0	34	"Current"	55	1
+599	"Male"	0	43	"Current"	51	1
+6	"Female"	0	55	"Never"	50	1
+60	"Female"	0	45	"Current"	53	1
+604	"Male"	0	41	"Never"	51	1
+608	"Female"	0	50	"Ex"	50	2
+609	"Female"	0	48	"Current"	54	1
+61	"Female"	0	50	"Current"	50	1
+615	"Female"	0	44	"Current"	53	2
+616	"Female"	1	41	"Never"	54	1
+62	"Male"	1	41	"Ex"	55	1
+620	"Female"	0	53	"Never"	53	2
+622	"Male"	0	52	"Current"	55	2
+624	"Female"	0	36	"Never"	54	2
+626	"Female"	0	47	"Current"	50	1
+627	"Female"	0	31	"Current"	51	1
+628	"Female"	0	47	"Never"	53	1
+629	"Female"	0	42	"Current"	53	1
+631	"Female"	0	33	"Never"	54	1
+634	"Female"	0	47	"Current"	55	2
+642	"Female"	0	48	"Current"	54	1
+643	"Female"	0	31	"Never"	55	2
+647	"Female"	0	50	"Never"	53	2
+65	"Male"	0	52	"Current"	54	1
+650	"Female"	0	36	"Never"	54	2
+652	"Female"	NA	37	"Current"	51	1
+655	"Female"	0	39	"Current"	51	1
+657	"Male"	0	39	"Ex"	50	1
+660	"Female"	0	43	"Never"	53	1
+661	"Male"	1	39	"Ex"	51	1
+662	"Male"	0	44	"Ex"	55	2
+663	"Female"	0	37	"Current"	53	2
+664	"Female"	1	40	"Never"	50	1
+665	"Female"	0	38	"Current"	51	1
+669	"Male"	0	32	"Never"	50	1
+672	"Male"	1	53	"Ex"	54	1
+673	"Female"	1	43	"Ex"	51	2
+677	"Female"	0	47	"Ex"	51	2
+678	"Male"	1	39	"Ex"	51	1
+683	"Female"	0	44	"Current"	54	1
+684	"Female"	0	53	"Never"	54	2
+691	"Female"	1	55	"Never"	50	1
+693	"Male"	1	47	"Ex"	51	1
+696	"Male"	1	54	"Current"	54	1
+697	"Female"	0	46	"Current"	55	2
+699	"Male"	0	49	"Never"	51	1
+701	"Male"	0	52	"Never"	53	1
+707	"Female"	0	33	"Never"	53	1
+708	"Female"	0	46	"Current"	55	1
+71	"Male"	0	35	"Ex"	51	1
+710	"Female"	0	50	"Current"	51	2
+712	"Female"	0	49	"Ex"	53	2
+713	"Male"	0	43	"Current"	55	1
+716	"Female"	0	50	"Ex"	50	1
+717	"Male"	0	38	"Current"	51	2
+719	"Male"	0	46	"Current"	55	2
+721	"Male"	1	47	"Current"	55	1
+724	"Female"	0	29	"Current"	53	2
+725	"Female"	0	50	"Current"	50	2
+729	"Female"	0	43	"Current"	51	2
+73	"Male"	0	47	"Current"	55	1
+730	"Male"	0	39	"Current"	50	1
+734	"Female"	0	33	"Current"	51	1
+738	"Male"	0	41	"Current"	51	2
+739	"Female"	0	36	"Current"	50	2
+74	"Male"	0	30	"Current"	51	2
+743	"Male"	0	34	"Current"	51	1
+744	"Female"	0	29	"Never"	53	2
+745	"Female"	0	42	"Never"	53	2
+747	"Male"	1	42	"Ex"	54	1
+748	"Female"	1	31	"Current"	53	1
+753	"Female"	0	48	"Never"	53	1
+755	"Male"	1	51	"Never"	53	1
+756	"Female"	0	32	"Never"	50	1
+757	"Female"	1	42	"Current"	54	1
+759	"Male"	1	45	"Current"	51	2
+762	"Male"	0	37	"Never"	53	1
+764	"Female"	0	33	"Never"	54	2
+765	"Female"	0	50	"Current"	51	1
+767	"Female"	1	47	"Ex"	51	1
+768	"Female"	0	47	"Current"	51	2
+771	"Male"	0	41	"Ex"	50	2
+772	"Female"	0	34	"Current"	51	1
+773	"Female"	0	36	"Current"	51	2
+776	"Female"	0	48	"Never"	55	1
+777	"Female"	0	36	"Never"	53	1
+778	"Male"	0	39	"Current"	50	2
+779	"Female"	1	41	"Never"	51	2
+780	"Female"	0	53	"Current"	53	1
+787	"Female"	0	41	"Current"	51	1
+788	"Male"	0	36	"Never"	54	1
+789	"Male"	0	38	"Current"	51	1
+79	"Male"	0	38	"Current"	50	2
+792	"Female"	0	30	"Current"	51	2
+795	"Female"	1	41	"Current"	54	2
+798	"Male"	0	47	"Never"	50	2
+80	"Male"	0	34	"Current"	51	2
+802	"Female"	1	49	"Ex"	51	1
+807	"Male"	NA	38	"Current"	51	2
+808	"Male"	0	30	"Current"	51	1
+811	"Female"	0	42	"Current"	55	1
+815	"Female"	0	37	"Current"	55	1
+821	"Male"	1	48	"Current"	53	2
+823	"Female"	0	33	"Current"	51	1
+825	"Male"	0	38	"Current"	51	1
+826	"Male"	0	42	"Current"	54	1
+830	"Male"	1	41	"Never"	51	1
+833	"Female"	0	42	"Ex"	54	2
+834	"Female"	0	33	"Never"	54	1
+837	"Female"	0	55	"Current"	54	1
+839	"Male"	0	52	"Never"	53	2
+84	"Male"	0	50	"Current"	53	1
+841	"Female"	0	32	"Current"	54	2
+843	"Male"	0	49	"Current"	50	2
+854	"Female"	0	44	"Never"	50	1
+855	"Female"	0	53	"Never"	53	1
+856	"Female"	0	33	"Never"	51	1
+857	"Male"	0	54	"Never"	51	2
+858	"Male"	0	36	"Current"	53	2
+86	"Female"	0	43	"Current"	51	2
+862	"Female"	0	38	"Current"	51	1
+863	"Male"	0	39	"Never"	55	2
+867	"Male"	0	48	"Current"	51	2
+868	"Female"	0	38	"Current"	55	1
+870	"Female"	0	36	"Ex"	51	1
+872	"Male"	0	42	"Ex"	54	1
+874	"Female"	1	41	"Current"	54	1
+875	"Female"	0	31	"Current"	54	1
+876	"Male"	0	46	"Never"	51	2
+878	"Male"	1	53	"Ex"	54	1
+879	"Male"	0	45	"Never"	53	1
+880	"Male"	0	38	"Ex"	50	1
+883	"Female"	0	36	"Current"	53	1
+885	"Female"	0	36	"Never"	54	1
+886	"Male"	NA	53	"Never"	51	2
+89	"Male"	0	32	"Current"	53	1
+890	"Male"	NA	40	"Never"	51	1
+891	"Female"	0	30	"Current"	53	1
+895	"Female"	1	36	"Ex"	51	2
+896	"Male"	0	39	"Never"	50	2
+898	"Female"	0	48	"Current"	51	1
+90	"Male"	0	49	"Current"	50	1
+903	"Female"	NA	37	"Current"	51	1
+905	"Female"	0	40	"Ex"	50	1
+907	"Female"	0	36	"Ex"	53	1
+908	"Male"	0	53	"Current"	55	1
+911	"Male"	0	37	"Current"	55	2
+915	"Male"	0	36	"Current"	51	1
+919	"Male"	0	49	"Current"	50	1
+920	"Male"	1	54	"Current"	50	1
+923	"Female"	0	50	"Never"	53	2
+927	"Female"	1	31	"Current"	53	1
+928	"Female"	1	43	"Ex"	51	1
+930	"Male"	0	44	"Ex"	50	1
+931	"Female"	0	38	"Current"	51	1
+932	"Female"	0	36	"Current"	51	2
+936	"Female"	0	32	"Current"	53	1
+937	"Female"	0	33	"Never"	53	1
+94	"Female"	0	44	"Current"	51	1
+940	"Male"	0	33	"Current"	51	2
+942	"Male"	0	38	"Current"	51	1
+944	"Female"	0	32	NA	51	1
+947	"Female"	0	44	"Current"	54	2
+95	"Male"	1	43	"Ex"	51	1
+951	"Male"	0	47	"Never"	51	1
+952	"Female"	0	37	"Ex"	51	1
+953	"Female"	0	34	"Current"	51	2
+955	"Female"	0	52	"Never"	51	1
+957	"Male"	0	42	"Ex"	55	2
+960	"Female"	0	32	"Current"	54	1
+961	"Female"	0	49	"Current"	54	1
+964	"Female"	1	54	"Current"	50	1
+975	"Male"	0	32	"Never"	50	1
+977	"Male"	1	32	"Never"	54	1
+981	"Female"	0	53	"Never"	54	1
+985	"Female"	1	52	"Current"	53	1
+989	"Female"	0	52	"Ex"	54	1
+990	"Male"	0	36	"Current"	50	1
+991	"Male"	0	44	"Current"	55	1
+996	"Female"	0	48	"Current"	53	1
+997	"Female"	0	52	"Current"	54	2
+998	"Female"	0	46	"Current"	51	1
