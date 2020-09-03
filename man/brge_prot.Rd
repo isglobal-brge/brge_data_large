@@ -4,7 +4,9 @@
 \name{brge_prot}
 \alias{brge_prot}
 \title{\code{ExpressionSet} for testing purpouses}
-\format{An object of class \code{ExpressionSet} with 47 rows and 90 columns.}
+\format{
+An object of class \code{ExpressionSet} with 47 rows and 90 columns.
+}
 \usage{
 data("brge_prot")
 }

@@ -4,7 +4,9 @@
 \name{brge_methy}
 \alias{brge_methy}
 \title{\code{GenomicRatioSet} for testing purpouses}
-\format{An object of class \code{GenomicRatioSet} with 392277 rows and 20 columns.}
+\format{
+An object of class \code{GenomicRatioSet} with 392277 rows and 20 columns.
+}
 \usage{
 data("brge_methy")
 }

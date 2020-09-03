@@ -1,5 +1,5 @@
 ---
-title: "brgedata -- data R package with three omic data-set and exposome data-set from the same Spanish pupulation"
+title: "brgedata -- data R package with three omic data-set and exposome data-set from the same Spanish population"
 author:
 - name: Carles Hernandez-Ferrer
   affiliation: 

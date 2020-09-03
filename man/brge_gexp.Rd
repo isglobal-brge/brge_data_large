@@ -4,7 +4,9 @@
 \name{brge_gexp}
 \alias{brge_gexp}
 \title{\code{ExpressionSet} for testing purpouses}
-\format{An object of class \code{ExpressionSet} with 67528 rows and 100 columns.}
+\format{
+An object of class \code{ExpressionSet} with 67528 rows and 100 columns.
+}
 \usage{
 data("brge_gexp")
 }
