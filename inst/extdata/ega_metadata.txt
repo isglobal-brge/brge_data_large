@@ -1,1093 +1,1093 @@
-Sample Family.ID Population Population.Description Gender Relationship casco
-HG00096 HG00096 GBR British in England and Scotland male  1
-HG00097 HG00097 GBR British in England and Scotland female  1
-HG00099 HG00099 GBR British in England and Scotland female  1
-HG00100 HG00100 GBR British in England and Scotland female  0
-HG00101 HG00101 GBR British in England and Scotland male  1
-HG00102 HG00102 GBR British in England and Scotland female  0
-HG00103 HG00103 GBR British in England and Scotland male  0
-HG00104 HG00104 GBR British in England and Scotland female  1
-HG00106 HG00106 GBR British in England and Scotland female  1
-HG00108 HG00108 GBR British in England and Scotland male  1
-HG00109 HG00109 GBR British in England and Scotland male  1
-HG00110 HG00110 GBR British in England and Scotland female  0
-HG00111 HG00111 GBR British in England and Scotland female  0
-HG00112 HG00112 GBR British in England and Scotland male  1
-HG00113 HG00113 GBR British in England and Scotland male  0
-HG00114 HG00114 GBR British in England and Scotland male  1
-HG00116 HG00116 GBR British in England and Scotland male  0
-HG00117 HG00117 GBR British in England and Scotland male  0
-HG00118 HG00118 GBR British in England and Scotland female  0
-HG00119 HG00119 GBR British in England and Scotland male  0
-HG00120 HG00120 GBR British in England and Scotland female  1
-HG00121 HG00121 GBR British in England and Scotland female  1
-HG00122 HG00122 GBR British in England and Scotland female  1
-HG00123 HG00123 GBR British in England and Scotland female  1
-HG00124 HG00124 GBR British in England and Scotland female  1
-HG00125 HG00125 GBR British in England and Scotland female  0
-HG00126 HG00126 GBR British in England and Scotland male  0
-HG00127 HG00127 GBR British in England and Scotland female  1
-HG00128 HG00128 GBR British in England and Scotland female  1
-HG00129 HG00129 GBR British in England and Scotland male  0
-HG00130 HG00130 GBR British in England and Scotland female  1
-HG00131 HG00131 GBR British in England and Scotland male  1
-HG00133 HG00133 GBR British in England and Scotland female  1
-HG00134 HG00134 GBR British in England and Scotland female  0
-HG00135 HG00135 GBR British in England and Scotland female  0
-HG00136 HG00136 GBR British in England and Scotland male  1
-HG00137 HG00137 GBR British in England and Scotland female  0
-HG00138 HG00138 GBR British in England and Scotland male  0
-HG00139 HG00139 GBR British in England and Scotland male  1
-HG00140 HG00140 GBR British in England and Scotland male  1
-HG00141 HG00141 GBR British in England and Scotland male  1
-HG00142 HG00142 GBR British in England and Scotland male  0
-HG00143 HG00143 GBR British in England and Scotland male  0
-HG00146 GBR002 GBR British in England and Scotland female child 1
-HG00148 HG00148 GBR British in England and Scotland male  0
-HG00149 HG00149 GBR British in England and Scotland male  1
-HG00150 HG00150 GBR British in England and Scotland female  0
-HG00151 HG00151 GBR British in England and Scotland male  1
-HG00152 HG00152 GBR British in England and Scotland male  0
-HG00154 HG00154 GBR British in England and Scotland female  1
-HG00155 GBR001 GBR British in England and Scotland male Child 1
-HG00156 HG00156 GBR British in England and Scotland male  1
-HG00158 GBR003 GBR British in England and Scotland female mother 1
-HG00159 HG00159 GBR British in England and Scotland male  1
-HG00160 HG00160 GBR British in England and Scotland male  0
-HG00171 HG00171 FIN Finnish in Finland female  1
-HG00173 HG00173 FIN Finnish in Finland female  1
-HG00174 HG00174 FIN Finnish in Finland female  0
-HG00176 HG00176 FIN Finnish in Finland female  0
-HG00177 HG00177 FIN Finnish in Finland female  1
-HG00178 HG00178 FIN Finnish in Finland female  1
-HG00179 HG00179 FIN Finnish in Finland female  1
-HG00180 HG00180 FIN Finnish in Finland female  1
-HG00182 HG00182 FIN Finnish in Finland male  1
-HG00183 HG00183 FIN Finnish in Finland male  1
-HG00185 HG00185 FIN Finnish in Finland male  0
-HG00186 HG00186 FIN Finnish in Finland male  1
-HG00187 HG00187 FIN Finnish in Finland male  1
-HG00188 HG00188 FIN Finnish in Finland male  1
-HG00189 HG00189 FIN Finnish in Finland male  1
-HG00190 HG00190 FIN Finnish in Finland male  0
-HG00231 HG00231 GBR British in England and Scotland female  1
-HG00232 HG00232 GBR British in England and Scotland female  1
-HG00233 HG00233 GBR British in England and Scotland female  0
-HG00234 HG00234 GBR British in England and Scotland male  1
-HG00235 HG00235 GBR British in England and Scotland female  1
-HG00236 HG00236 GBR British in England and Scotland female  0
-HG00237 HG00237 GBR British in England and Scotland female  0
-HG00238 HG00238 GBR British in England and Scotland female  1
-HG00239 HG00239 GBR British in England and Scotland female  1
-HG00240 HG00240 GBR British in England and Scotland female  1
-HG00242 HG00242 GBR British in England and Scotland male  1
-HG00243 HG00243 GBR British in England and Scotland male  1
-HG00244 HG00244 GBR British in England and Scotland male  1
-HG00245 HG00245 GBR British in England and Scotland female  1
-HG00246 HG00246 GBR British in England and Scotland male  1
-HG00247 GBR004 GBR British in England and Scotland female mother 0
-HG00249 HG00249 GBR British in England and Scotland female  1
-HG00250 HG00250 GBR British in England and Scotland female  1
-HG00251 HG00251 GBR British in England and Scotland male  1
-HG00252 HG00252 GBR British in England and Scotland male  1
-HG00253 HG00253 GBR British in England and Scotland female  0
-HG00254 HG00254 GBR British in England and Scotland female  1
-HG00255 HG00255 GBR British in England and Scotland female  0
-HG00256 HG00256 GBR British in England and Scotland male  0
-HG00257 HG00257 GBR British in England and Scotland female  1
-HG00258 HG00258 GBR British in England and Scotland female  0
-HG00259 HG00259 GBR British in England and Scotland female  0
-HG00260 HG00260 GBR British in England and Scotland male  0
-HG00261 HG00261 GBR British in England and Scotland female  0
-HG00262 HG00262 GBR British in England and Scotland female  0
-HG00263 HG00263 GBR British in England and Scotland female  1
-HG00264 HG00264 GBR British in England and Scotland male  0
-HG00265 HG00265 GBR British in England and Scotland male  1
-HG00266 HG00266 FIN Finnish in Finland female  0
-HG00267 HG00267 FIN Finnish in Finland male  1
-HG00268 HG00268 FIN Finnish in Finland female  1
-HG00269 HG00269 FIN Finnish in Finland female  1
-HG00270 HG00270 FIN Finnish in Finland female  1
-HG00271 HG00271 FIN Finnish in Finland male  0
-HG00272 HG00272 FIN Finnish in Finland female  1
-HG00273 HG00273 FIN Finnish in Finland male  0
-HG00274 HG00274 FIN Finnish in Finland female  0
-HG00275 HG00275 FIN Finnish in Finland female  1
-HG00276 HG00276 FIN Finnish in Finland female  1
-HG00277 HG00277 FIN Finnish in Finland male  0
-HG00278 HG00278 FIN Finnish in Finland male  1
-HG00280 HG00280 FIN Finnish in Finland male  1
-HG00281 HG00281 FIN Finnish in Finland female  0
-HG00282 HG00282 FIN Finnish in Finland female  0
-HG00284 HG00284 FIN Finnish in Finland male  1
-HG00285 HG00285 FIN Finnish in Finland female  1
-HG00306 HG00306 FIN Finnish in Finland female  1
-HG00309 HG00309 FIN Finnish in Finland female  1
-HG00310 HG00310 FIN Finnish in Finland male  0
-HG00311 HG00311 FIN Finnish in Finland male  0
-HG00312 HG00312 FIN Finnish in Finland male  1
-HG00313 HG00313 FIN Finnish in Finland female  0
-HG00315 HG00315 FIN Finnish in Finland female  1
-HG00318 HG00318 FIN Finnish in Finland female  0
-HG00319 HG00319 FIN Finnish in Finland female  0
-HG00320 HG00320 FIN Finnish in Finland female  0
-HG00321 HG00321 FIN Finnish in Finland male  1
-HG00323 HG00323 FIN Finnish in Finland female  1
-HG00324 HG00324 FIN Finnish in Finland female  1
-HG00325 HG00325 FIN Finnish in Finland male  0
-HG00326 HG00326 FIN Finnish in Finland female  1
-HG00327 HG00327 FIN Finnish in Finland female  0
-HG00328 HG00328 FIN Finnish in Finland female  0
-HG00329 HG00329 FIN Finnish in Finland male  1
-HG00330 HG00330 FIN Finnish in Finland female  0
-HG00331 HG00331 FIN Finnish in Finland female  0
-HG00332 HG00332 FIN Finnish in Finland female  1
-HG00334 HG00334 FIN Finnish in Finland female  0
-HG00335 HG00335 FIN Finnish in Finland male  0
-HG00336 HG00336 FIN Finnish in Finland male  0
-HG00337 HG00337 FIN Finnish in Finland female  1
-HG00338 HG00338 FIN Finnish in Finland male  0
-HG00339 HG00339 FIN Finnish in Finland female  0
-HG00341 HG00341 FIN Finnish in Finland male  1
-HG00342 HG00342 FIN Finnish in Finland male  0
-HG00343 HG00343 FIN Finnish in Finland female  0
-HG00344 HG00344 FIN Finnish in Finland female  0
-HG00345 HG00345 FIN Finnish in Finland male  0
-HG00346 HG00346 FIN Finnish in Finland female  0
-HG00349 HG00349 FIN Finnish in Finland female  1
-HG00350 HG00350 FIN Finnish in Finland female  0
-HG00351 HG00351 FIN Finnish in Finland male  1
-HG00353 HG00353 FIN Finnish in Finland female  0
-HG00355 HG00355 FIN Finnish in Finland female  1
-HG00356 HG00356 FIN Finnish in Finland female  0
-HG00357 HG00357 FIN Finnish in Finland female  0
-HG00358 HG00358 FIN Finnish in Finland male  0
-HG00359 HG00359 FIN Finnish in Finland female  1
-HG00360 HG00360 FIN Finnish in Finland male  1
-HG00361 HG00361 FIN Finnish in Finland female  0
-HG00362 HG00362 FIN Finnish in Finland female  1
-HG00364 HG00364 FIN Finnish in Finland female  0
-HG00366 HG00366 FIN Finnish in Finland male  1
-HG00367 HG00367 FIN Finnish in Finland female  1
-HG00369 HG00369 FIN Finnish in Finland male  1
-HG00372 HG00372 FIN Finnish in Finland male  1
-HG00373 HG00373 FIN Finnish in Finland female  0
-HG00375 HG00375 FIN Finnish in Finland male  0
-HG00376 HG00376 FIN Finnish in Finland female  1
-HG00377 HG00377 FIN Finnish in Finland female  1
-HG00378 HG00378 FIN Finnish in Finland female  0
-HG00381 HG00381 FIN Finnish in Finland female  1
-HG00382 HG00382 FIN Finnish in Finland male  0
-HG00383 HG00383 FIN Finnish in Finland female  0
-HG00384 HG00384 FIN Finnish in Finland female  1
-HG00403 SH001 CHS Southern Han Chinese, China male father 1
-HG00404 SH001 CHS Southern Han Chinese, China female mother 0
-HG00406 SH002 CHS Southern Han Chinese, China male father 1
-HG00407 SH002 CHS Southern Han Chinese, China female mother 1
-HG00418 SH006 CHS Southern Han Chinese, China male father 0
-HG00419 SH006 CHS Southern Han Chinese, China female mother 0
-HG00421 SH007 CHS Southern Han Chinese, China male father 0
-HG00422 SH007 CHS Southern Han Chinese, China female mother 1
-HG00427 SH009 CHS Southern Han Chinese, China male father 0
-HG00428 SH009 CHS Southern Han Chinese, China female mother 1
-HG00436 SH012 CHS Southern Han Chinese, China male father 0
-HG00437 SH012 CHS Southern Han Chinese, China female mother 1
-HG00442 SH014 CHS Southern Han Chinese, China male father 1
-HG00443 SH014 CHS Southern Han Chinese, China female mother 1
-HG00445 SH015 CHS Southern Han Chinese, China male father 1
-HG00446 SH015 CHS Southern Han Chinese, China female mother 1
-HG00448 SH016 CHS Southern Han Chinese, China male father 1
-HG00449 SH016 CHS Southern Han Chinese, China female mother 1
-HG00451 SH017 CHS Southern Han Chinese, China male father 0
-HG00452 SH017 CHS Southern Han Chinese, China female mother 1
-HG00457 SH019 CHS Southern Han Chinese, China male father 0
-HG00458 SH019 CHS Southern Han Chinese, China female mother 0
-HG00463 SH021 CHS Southern Han Chinese, China male father 0
-HG00464 SH021 CHS Southern Han Chinese, China female mother 0
-HG00472 SH024 CHS Southern Han Chinese, China male father 0
-HG00473 SH024 CHS Southern Han Chinese, China female mother 0
-HG00475 SH025 CHS Southern Han Chinese, China male father 0
-HG00476 SH025 CHS Southern Han Chinese, China female mother 1
-HG00478 SH026 CHS Southern Han Chinese, China male father 0
-HG00479 SH026 CHS Southern Han Chinese, China female mother 1
-HG00500 SH028 CHS Southern Han Chinese, China male father 0
-HG00501 SH028 CHS Southern Han Chinese, China female mother 0
-HG00512 SH032 CHS Southern Han Chinese, China male father 1
-HG00513 SH032 CHS Southern Han Chinese, China female mother 0
-HG00524 SH036 CHS Southern Han Chinese, China male father 0
-HG00525 SH036 CHS Southern Han Chinese, China female mother 1
-HG00530 SH038 CHS Southern Han Chinese, China male father 1
-HG00531 SH038 CHS Southern Han Chinese, China female mother 1
-HG00533 SH039 CHS Southern Han Chinese, China male father 0
-HG00534 SH039 CHS Southern Han Chinese, China female mother 1
-HG00536 SH040 CHS Southern Han Chinese, China male father 1
-HG00537 SH040 CHS Southern Han Chinese, China female mother 0
-HG00542 SH042 CHS Southern Han Chinese, China male father 1
-HG00543 SH042 CHS Southern Han Chinese, China female mother 1
-HG00553 PR02 PUR Puerto Rican in Puerto Rico male father 0
-HG00554 PR02 PUR Puerto Rican in Puerto Rico female mother 0
-HG00556 SH045 CHS Southern Han Chinese, China male father 1
-HG00557 SH045 CHS Southern Han Chinese, China female mother 0
-HG00559 SH046 CHS Southern Han Chinese, China male father 0
-HG00560 SH046 CHS Southern Han Chinese, China female mother 0
-HG00565 SH048 CHS Southern Han Chinese, China male father 0
-HG00566 SH048 CHS Southern Han Chinese, China female mother 1
-HG00577 SH052 CHS Southern Han Chinese, China male father 1
-HG00578 SH052 CHS Southern Han Chinese, China female mother 0
-HG00580 SH053 CHS Southern Han Chinese, China male father 1
-HG00581 SH053 CHS Southern Han Chinese, China female mother 0
-HG00583 SH054 CHS Southern Han Chinese, China male father 0
-HG00584 SH054 CHS Southern Han Chinese, China female mother 1
-HG00589 SH056 CHS Southern Han Chinese, China male father 0
-HG00590 SH056 CHS Southern Han Chinese, China female mother 0
-HG00592 SH057 CHS Southern Han Chinese, China male father 0
-HG00593 SH057 CHS Southern Han Chinese, China female mother 1
-HG00595 SH058 CHS Southern Han Chinese, China male father 0
-HG00596 SH058 CHS Southern Han Chinese, China female mother 1
-HG00607 SH062 CHS Southern Han Chinese, China male father 0
-HG00608 SH062 CHS Southern Han Chinese, China female mother 0
-HG00610 SH063 CHS Southern Han Chinese, China male father 1
-HG00611 SH063 CHS Southern Han Chinese, China female mother 0
-HG00613 SH064 CHS Southern Han Chinese, China male father 1
-HG00614 SH064 CHS Southern Han Chinese, China female mother 1
-HG00619 SH066 CHS Southern Han Chinese, China male father 1
-HG00620 SH066 CHS Southern Han Chinese, China female mother 1
-HG00625 SH068 CHS Southern Han Chinese, China male father 1
-HG00626 SH068 CHS Southern Han Chinese, China female mother 1
-HG00628 SH069 CHS Southern Han Chinese, China male father 0
-HG00629 SH069 CHS Southern Han Chinese, China female mother 0
-HG00634 SH071 CHS Southern Han Chinese, China male father 1
-HG00635 SH071 CHS Southern Han Chinese, China female mother 0
-HG00637 PR03 PUR Puerto Rican in Puerto Rico male father 0
-HG00638 PR03 PUR Puerto Rican in Puerto Rico female mother 1
-HG00640 PR04 PUR Puerto Rican in Puerto Rico male father 1
-HG00641 PR04 PUR Puerto Rican in Puerto Rico female mother 1
-HG00650 SH072 CHS Southern Han Chinese, China male father 0
-HG00651 SH072 CHS Southern Han Chinese, China female mother 0
-HG00653 SH073 CHS Southern Han Chinese, China male father 0
-HG00654 SH073 CHS Southern Han Chinese, China female mother 1
-HG00656 SH074 CHS Southern Han Chinese, China male father 0
-HG00657 SH074 CHS Southern Han Chinese, China female mother 0
-HG00662 SH076 CHS Southern Han Chinese, China male father 0
-HG00663 SH076 CHS Southern Han Chinese, China female mother 1
-HG00671 SH079 CHS Southern Han Chinese, China male father 1
-HG00672 SH079 CHS Southern Han Chinese, China female mother 0
-HG00683 SH083 CHS Southern Han Chinese, China male father 0
-HG00684 SH083 CHS Southern Han Chinese, China female mother 1
-HG00689 SH085 CHS Southern Han Chinese, China male father 1
-HG00690 SH085 CHS Southern Han Chinese, China female mother 0
-HG00692 SH086 CHS Southern Han Chinese, China male father 0
-HG00693 SH086 CHS Southern Han Chinese, China female mother 1
-HG00698 SH088 CHS Southern Han Chinese, China male father 0
-HG00699 SH088 CHS Southern Han Chinese, China female mother 0
-HG00701 SH089 CHS Southern Han Chinese, China male father 0
-HG00702 SH089 CHS Southern Han Chinese, China female mother 0
-HG00704 SH090 CHS Southern Han Chinese, China male father 1
-HG00705 SH090 CHS Southern Han Chinese, China female mother 1
-HG00707 SH091 CHS Southern Han Chinese, China male father 0
-HG00708 SH091 CHS Southern Han Chinese, China female mother 0
-HG00731 PR05 PUR Puerto Rican in Puerto Rico male father 1
-HG00732 PR05 PUR Puerto Rican in Puerto Rico female mother 0
-HG00734 PR06 PUR Puerto Rican in Puerto Rico female mother 0
-HG00736 PR07 PUR Puerto Rican in Puerto Rico male father 0
-HG00737 PR07 PUR Puerto Rican in Puerto Rico female mother 1
-HG00740 PR09 PUR Puerto Rican in Puerto Rico female mother 1
-HG01047 PR06 PUR Puerto Rican in Puerto Rico male father 0
-HG01048 PR08 PUR Puerto Rican in Puerto Rico male father 0
-HG01051 PR11 PUR Puerto Rican in Puerto Rico male father 0
-HG01052 PR11 PUR Puerto Rican in Puerto Rico female mother 0
-HG01055 PR12 PUR Puerto Rican in Puerto Rico female mother 1
-HG01060 PR14 PUR Puerto Rican in Puerto Rico male father 0
-HG01061 PR14 PUR Puerto Rican in Puerto Rico female mother 1
-HG01066 PR16 PUR Puerto Rican in Puerto Rico male father 0
-HG01067 PR16 PUR Puerto Rican in Puerto Rico female mother 0
-HG01069 PR17 PUR Puerto Rican in Puerto Rico male father 1
-HG01070 PR17 PUR Puerto Rican in Puerto Rico female mother 1
-HG01072 PR18 PUR Puerto Rican in Puerto Rico male father 1
-HG01073 PR18 PUR Puerto Rican in Puerto Rico female mother 1
-HG01075 PR01 PUR Puerto Rican in Puerto Rico male father 0
-HG01079 PR21 PUR Puerto Rican in Puerto Rico male father 0
-HG01080 PR21 PUR Puerto Rican in Puerto Rico female mother 0
-HG01082 PR28 PUR Puerto Rican in Puerto Rico male father 1
-HG01083 PR28 PUR Puerto Rican in Puerto Rico female mother 1
-HG01085 PR26 PUR Puerto Rican in Puerto Rico male father 0
-HG01095 PR29 PUR Puerto Rican in Puerto Rico female mother 1
-HG01097 PR31 PUR Puerto Rican in Puerto Rico male father 1
-HG01098 PR31 PUR Puerto Rican in Puerto Rico female mother 1
-HG01101 PR19 PUR Puerto Rican in Puerto Rico male father 1
-HG01102 PR19 PUR Puerto Rican in Puerto Rico female mother 0
-HG01104 PR25 PUR Puerto Rican in Puerto Rico male father 0
-HG01105 PR25 PUR Puerto Rican in Puerto Rico female mother 1
-HG01107 PR33 PUR Puerto Rican in Puerto Rico male father 1
-HG01108 PR33 PUR Puerto Rican in Puerto Rico female mother 0
-HG01112 CLM03 CLM Colombian in Medellin, Colombia male father 1
-HG01113 CLM03 CLM Colombian in Medellin, Colombia female mother 0
-HG01124 CLM04 CLM Colombian in Medellin, Colombia male father 1
-HG01125 CLM04 CLM Colombian in Medellin, Colombia female mother 0
-HG01133 CLM07 CLM Colombian in Medellin, Colombia male father 0
-HG01134 CLM07 CLM Colombian in Medellin, Colombia female mother 0
-HG01136 CLM08 CLM Colombian in Medellin, Colombia male father 1
-HG01137 CLM08 CLM Colombian in Medellin, Colombia female mother 0
-HG01140 CLM09 CLM Colombian in Medellin, Colombia female mother 1
-HG01148 CLM12 CLM Colombian in Medellin, Colombia male father 1
-HG01149 CLM12 CLM Colombian in Medellin, Colombia female mother 1
-HG01167 PR39 PUR Puerto Rican in Puerto Rico male father 1
-HG01168 PR39 PUR Puerto Rican in Puerto Rico female mother 0
-HG01170 PR24 PUR Puerto Rican in Puerto Rico male father 0
-HG01171 PR24 PUR Puerto Rican in Puerto Rico female mother 0
-HG01173 PR36 PUR Puerto Rican in Puerto Rico male father 0
-HG01174 PR36 PUR Puerto Rican in Puerto Rico female mother 0
-HG01176 PR42 PUR Puerto Rican in Puerto Rico male father 1
-HG01183 PR44 PUR Puerto Rican in Puerto Rico female mother 1
-HG01187 PR38 PUR Puerto Rican in Puerto Rico male father 0
-HG01188 PR38 PUR Puerto Rican in Puerto Rico female mother 0
-HG01190 PR40 PUR Puerto Rican in Puerto Rico male father 1
-HG01191 PR40 PUR Puerto Rican in Puerto Rico female mother 1
-HG01197 PR46 PUR Puerto Rican in Puerto Rico male father 1
-HG01198 PR46 PUR Puerto Rican in Puerto Rico female mother 0
-HG01204 PR49 PUR Puerto Rican in Puerto Rico male father 1
-HG01250 CLM14 CLM Colombian in Medellin, Colombia male father 0
-HG01251 CLM14 CLM Colombian in Medellin, Colombia female mother 0
-HG01257 CLM16 CLM Colombian in Medellin, Colombia female mother 0
-HG01259 CLM17 CLM Colombian in Medellin, Colombia male father 1
-HG01271 CLM21 CLM Colombian in Medellin, Colombia male father 0
-HG01272 CLM21 CLM Colombian in Medellin, Colombia female mother 1
-HG01274 CLM22 CLM Colombian in Medellin, Colombia male father 1
-HG01275 CLM22 CLM Colombian in Medellin, Colombia female mother 0
-HG01277 CLM23 CLM Colombian in Medellin, Colombia male father 0
-HG01278 CLM23 CLM Colombian in Medellin, Colombia female mother 0
-HG01334 HG01334 GBR British in England and Scotland male  1
-HG01342 CLM26 CLM Colombian in Medellin, Colombia female mother 0
-HG01344 CLM27 CLM Colombian in Medellin, Colombia male father 0
-HG01345 CLM27 CLM Colombian in Medellin, Colombia female mother 0
-HG01350 CLM29 CLM Colombian in Medellin, Colombia male father 1
-HG01351 CLM29 CLM Colombian in Medellin, Colombia female mother 0
-HG01353 CLM30 CLM Colombian in Medellin, Colombia male father 0
-HG01354 CLM30 CLM Colombian in Medellin, Colombia female mother 1
-HG01356 CLM31 CLM Colombian in Medellin, Colombia male father 0
-HG01357 CLM31 CLM Colombian in Medellin, Colombia female mother 1
-HG01359 CLM32 CLM Colombian in Medellin, Colombia male father 1
-HG01360 CLM32 CLM Colombian in Medellin, Colombia female mother 0
-HG01365 CLM34 CLM Colombian in Medellin, Colombia male father 0
-HG01366 CLM34 CLM Colombian in Medellin, Colombia female mother 1
-HG01374 CLM37 CLM Colombian in Medellin, Colombia male father 1
-HG01375 CLM37 CLM Colombian in Medellin, Colombia female mother 1
-HG01377 CLM38 CLM Colombian in Medellin, Colombia male father 0
-HG01378 CLM38 CLM Colombian in Medellin, Colombia female mother 1
-HG01383 CLM40 CLM Colombian in Medellin, Colombia male father 0
-HG01384 CLM40 CLM Colombian in Medellin, Colombia female mother 0
-HG01389 CLM42 CLM Colombian in Medellin, Colombia male father 1
-HG01390 CLM42 CLM Colombian in Medellin, Colombia female mother 0
-HG01437 CLM45 CLM Colombian in Medellin, Colombia male father 0
-HG01440 CLM46a CLM Colombian in Medellin, Colombia male father 0
-HG01441 CLM46 CLM Colombian in Medellin, Colombia female mother 0
-HG01455 CLM51 CLM Colombian in Medellin, Colombia male father 0
-HG01456 CLM51 CLM Colombian in Medellin, Colombia female mother 1
-HG01461 CLM53 CLM Colombian in Medellin, Colombia male father 1
-HG01462 CLM53 CLM Colombian in Medellin, Colombia female mother 0
-HG01465 CLM54 CLM Colombian in Medellin, Colombia female mother 1
-HG01488 CLM62 CLM Colombian in Medellin, Colombia male father 0
-HG01489 CLM62 CLM Colombian in Medellin, Colombia female mother 0
-HG01491 CLM63 CLM Colombian in Medellin, Colombia male father 0
-HG01492 CLM63 CLM Colombian in Medellin, Colombia female mother 0
-HG01494 CLM64 CLM Colombian in Medellin, Colombia male father 0
-HG01495 CLM64 CLM Colombian in Medellin, Colombia female mother 1
-HG01497 CLM65 CLM Colombian in Medellin, Colombia male father 1
-HG01498 CLM65 CLM Colombian in Medellin, Colombia female mother 0
-HG01515 IBS006 IBS Iberian populations in Spain male father 0
-HG01516 IBS006 IBS Iberian populations in Spain female mother 0
-HG01518 IBS007 IBS Iberian populations in Spain male father 1
-HG01519 IBS007 IBS Iberian populations in Spain female mother 1
-HG01521 IBS008 IBS Iberian populations in Spain male father 0
-HG01522 IBS008 IBS Iberian populations in Spain female mother 0
-HG01550 CLM66 CLM Colombian in Medellin, Colombia male father 1
-HG01551 CLM66 CLM Colombian in Medellin, Colombia female mother 1
-HG01617 IBS019 IBS Iberian populations in Spain male father 1
-HG01618 IBS019 IBS Iberian populations in Spain female mother 0
-HG01619 IBS018 IBS Iberian populations in Spain male father 0
-HG01620 IBS018 IBS Iberian populations in Spain female mother 0
-HG01623 IBS017 IBS Iberian populations in Spain female mother 0
-HG01624 IBS017 IBS Iberian populations in Spain male father 0
-HG01625 IBS016 IBS Iberian populations in Spain male father 0
-HG01626 IBS016 IBS Iberian populations in Spain female mother 0
-NA06984 1328 CEU Utah residents with Northern and Western European ancestry male father 1
-NA06986 13291 CEU Utah residents with Northern and Western European ancestry male mat grandfather 0
-NA06989 1328 CEU Utah residents with Northern and Western European ancestry female mother 1
-NA06994 1340 CEU Utah residents with Northern and Western European ancestry male pat grandfather 0
-NA07000 1340 CEU Utah residents with Northern and Western European ancestry female pat grandmother 1
-NA07037 13291 CEU Utah residents with Northern and Western European ancestry female pat grandmother 0
-NA07048 1341 CEU Utah residents with Northern and Western European ancestry male father 1
-NA07051 13292 CEU Utah residents with Northern and Western European ancestry male mat grandfather 0
-NA07056 1340 CEU Utah residents with Northern and Western European ancestry female mat grandmother 0
-NA07347 1345 CEU Utah residents with Northern and Western European ancestry male pat grandfather 0
-NA07357 1345 CEU Utah residents with Northern and Western European ancestry male mat grandfather 0
-NA10847 1334 CEU Utah residents with Northern and Western European ancestry female mother 1
-NA10851 1344 CEU Utah residents with Northern and Western European ancestry male father 1
-NA11829 1350 CEU Utah residents with Northern and Western European ancestry male pat grandfather 1
-NA11830 1350 CEU Utah residents with Northern and Western European ancestry female pat grandmother 0
-NA11831 1350 CEU Utah residents with Northern and Western European ancestry male mat grandfather 1
-NA11843 1349 CEU Utah residents with Northern and Western European ancestry male pat grandfather 1
-NA11892 1377 CEU Utah residents with Northern and Western European ancestry female pat grandmother 1
-NA11893 1377 CEU Utah residents with Northern and Western European ancestry male mat grandfather 0
-NA11894 1377 CEU Utah residents with Northern and Western European ancestry female mat grandmother 1
-NA11919 1423 CEU Utah residents with Northern and Western European ancestry male mat grandfather 1
-NA11920 1423 CEU Utah residents with Northern and Western European ancestry female mat grandmother 1
-NA11930 1424 CEU Utah residents with Northern and Western European ancestry male pat grandfather 1
-NA11931 1424 CEU Utah residents with Northern and Western European ancestry female pat grandmother 1
-NA11932 1424a CEU Utah residents with Northern and Western European ancestry male mat grandfather 1
-NA11933 1424a CEU Utah residents with Northern and Western European ancestry female mat grandmother 1
-NA11992 1362 CEU Utah residents with Northern and Western European ancestry male pat grandfather 0
-NA11993 1362 CEU Utah residents with Northern and Western European ancestry female pat grandmother 0
-NA11994 1362 CEU Utah residents with Northern and Western European ancestry male mat grandfather 1
-NA11995 1362 CEU Utah residents with Northern and Western European ancestry female mat grandmother 1
-NA12003 1420 CEU Utah residents with Northern and Western European ancestry male pat grandfather 1
-NA12004 1420 CEU Utah residents with Northern and Western European ancestry female pat grandmother 0
-NA12006 1420 CEU Utah residents with Northern and Western European ancestry female mat grandmother 0
-NA12043 1346 CEU Utah residents with Northern and Western European ancestry male pat grandfather 1
-NA12044 1346 CEU Utah residents with Northern and Western European ancestry female pat grandmother 0
-NA12045 1346 CEU Utah residents with Northern and Western European ancestry male mat grandfather 0
-NA12046 1346 CEU Utah residents with Northern and Western European ancestry female mat grandmother 1
-NA12058 1344 CEU Utah residents with Northern and Western European ancestry female mat grandmother 0
-NA12144 1334 CEU Utah residents with Northern and Western European ancestry male pat grandfather 1
-NA12154 1408 CEU Utah residents with Northern and Western European ancestry male pat grandfather 1
-NA12155 1408 CEU Utah residents with Northern and Western European ancestry male mat grandfather 1
-NA12249 1416 CEU Utah residents with Northern and Western European ancestry female pat grandmother 0
-NA12272 1418 CEU Utah residents with Northern and Western European ancestry male pat grandfather 0
-NA12273 1418 CEU Utah residents with Northern and Western European ancestry female pat grandmother 0
-NA12275 1418 CEU Utah residents with Northern and Western European ancestry female mat grandmother 0
-NA12282 1421a CEU Utah residents with Northern and Western European ancestry male pat grandfather 0
-NA12283 1421a CEU Utah residents with Northern and Western European ancestry female pat grandmother 0
-NA12286 1421 CEU Utah residents with Northern and Western European ancestry male mat grandfather 0
-NA12287 1421 CEU Utah residents with Northern and Western European ancestry female mat grandmother 1
-NA12340 1330 CEU Utah residents with Northern and Western European ancestry male pat grandfather 1
-NA12341 1330 CEU Utah residents with Northern and Western European ancestry female pat grandmother 0
-NA12342 1330 CEU Utah residents with Northern and Western European ancestry male mat grandfather 0
-NA12347 13281 CEU Utah residents with Northern and Western European ancestry male pat grandfather 1
-NA12348 13281 CEU Utah residents with Northern and Western European ancestry female pat grandmother 1
-NA12383 1353 CEU Utah residents with Northern and Western European ancestry female pat grandmother 0
-NA12399 1354 CEU Utah residents with Northern and Western European ancestry male mat grandfather 1
-NA12400 1354 CEU Utah residents with Northern and Western European ancestry female mat grandmother 1
-NA12413 1355 CEU Utah residents with Northern and Western European ancestry male pat grandfather 0
-NA12489 1353 CEU Utah residents with Northern and Western European ancestry female mat grandmother 1
-NA12546 1353 CEU Utah residents with Northern and Western European ancestry male mat grandfather 1
-NA12716 1358 CEU Utah residents with Northern and Western European ancestry male pat grandfather 1
-NA12717 1358 CEU Utah residents with Northern and Western European ancestry female pat grandmother 1
-NA12718 1358 CEU Utah residents with Northern and Western European ancestry female mat grandmother 1
-NA12748 1444 CEU Utah residents with Northern and Western European ancestry male pat grandfather 0
-NA12749 1444 CEU Utah residents with Northern and Western European ancestry female pat grandmother 1
-NA12750 1444 CEU Utah residents with Northern and Western European ancestry male mat grandfather 0
-NA12751 1444 CEU Utah residents with Northern and Western European ancestry female mat grandmother 1
-NA12761 1447 CEU Utah residents with Northern and Western European ancestry female pat grandmother 0
-NA12763 1447 CEU Utah residents with Northern and Western European ancestry female mat grandmother 1
-NA12775 1451 CEU Utah residents with Northern and Western European ancestry male pat grandfather 1
-NA12777 1451 CEU Utah residents with Northern and Western European ancestry male mat grandfather 1
-NA12778 1451 CEU Utah residents with Northern and Western European ancestry female mat grandmother 0
-NA12812 1454 CEU Utah residents with Northern and Western European ancestry male pat grandfather 1
-NA12814 1454 CEU Utah residents with Northern and Western European ancestry male mat grandfather 0
-NA12815 1454 CEU Utah residents with Northern and Western European ancestry female mat grandmother 0
-NA12827 1456 CEU Utah residents with Northern and Western European ancestry male pat grandfather 0
-NA12829 1456 CEU Utah residents with Northern and Western European ancestry male mat grandfather 1
-NA12830 1456 CEU Utah residents with Northern and Western European ancestry female mat grandmother 1
-NA12842 1458 CEU Utah residents with Northern and Western European ancestry male mat grandfather 1
-NA12843 1458 CEU Utah residents with Northern and Western European ancestry female mat grandmother 1
-NA12872 1459 CEU Utah residents with Northern and Western European ancestry male pat grandfather 1
-NA12873 1459 CEU Utah residents with Northern and Western European ancestry female pat grandmother 1
-NA12874 1459 CEU Utah residents with Northern and Western European ancestry male mat grandfather 0
-NA12889 1463 CEU Utah residents with Northern and Western European ancestry male pat grandfather; father 1
-NA12890 1463 CEU Utah residents with Northern and Western European ancestry female pat grandmother; mother 1
-NA18486 Y001 YRI Yoruba in Ibadan, Nigeria male father 1
-NA18487 Y002 YRI Yoruba in Ibadan, Nigeria male father 0
-NA18489 Y002 YRI Yoruba in Ibadan, Nigeria female mother 0
-NA18498 Y003 YRI Yoruba in Ibadan, Nigeria male father 0
-NA18499 Y003 YRI Yoruba in Ibadan, Nigeria female mother 0
-NA18501 Y004 YRI Yoruba in Ibadan, Nigeria male father 0
-NA18502 Y004 YRI Yoruba in Ibadan, Nigeria female mother 1
-NA18504 Y005 YRI Yoruba in Ibadan, Nigeria male father 0
-NA18505 Y005 YRI Yoruba in Ibadan, Nigeria female mother 1
-NA18507 Y009 YRI Yoruba in Ibadan, Nigeria male father 1
-NA18508 Y009 YRI Yoruba in Ibadan, Nigeria female mother 0
-NA18510 Y010a YRI Yoruba in Ibadan, Nigeria male not father 1
-NA18511 Y010 YRI Yoruba in Ibadan, Nigeria female mother 1
-NA18516 Y013 YRI Yoruba in Ibadan, Nigeria male father 0
-NA18517 Y013 YRI Yoruba in Ibadan, Nigeria female mother 1
-NA18519 Y014 YRI Yoruba in Ibadan, Nigeria male father 0
-NA18520 Y014 YRI Yoruba in Ibadan, Nigeria female mother 1
-NA18522 Y016 YRI Yoruba in Ibadan, Nigeria male father 1
-NA18523 Y016 YRI Yoruba in Ibadan, Nigeria female mother 0
-NA18525 NA18525 CHB Han Chinese in Bejing, China female  0
-NA18526 NA18526 CHB Han Chinese in Bejing, China female  0
-NA18527 NA18527 CHB Han Chinese in Bejing, China female  0
-NA18528 NA18528 CHB Han Chinese in Bejing, China female  1
-NA18530 NA18530 CHB Han Chinese in Bejing, China male  1
-NA18532 NA18532 CHB Han Chinese in Bejing, China female  1
-NA18534 NA18534 CHB Han Chinese in Bejing, China male  0
-NA18535 NA18535 CHB Han Chinese in Bejing, China female  0
-NA18536 NA18536 CHB Han Chinese in Bejing, China male  1
-NA18537 NA18537 CHB Han Chinese in Bejing, China female  1
-NA18538 NA18538 CHB Han Chinese in Bejing, China female  1
-NA18539 NA18539 CHB Han Chinese in Bejing, China female  0
-NA18541 NA18541 CHB Han Chinese in Bejing, China female  1
-NA18542 NA18542 CHB Han Chinese in Bejing, China female  0
-NA18543 NA18543 CHB Han Chinese in Bejing, China male  0
-NA18544 NA18544 CHB Han Chinese in Bejing, China male  1
-NA18545 NA18545 CHB Han Chinese in Bejing, China female  0
-NA18546 NA18546 CHB Han Chinese in Bejing, China male  1
-NA18547 NA18547 CHB Han Chinese in Bejing, China female  0
-NA18548 NA18548 CHB Han Chinese in Bejing, China male  0
-NA18549 NA18549 CHB Han Chinese in Bejing, China male  1
-NA18550 NA18550 CHB Han Chinese in Bejing, China female  0
-NA18552 NA18552 CHB Han Chinese in Bejing, China female  1
-NA18553 NA18553 CHB Han Chinese in Bejing, China female  1
-NA18555 NA18555 CHB Han Chinese in Bejing, China female  0
-NA18557 NA18557 CHB Han Chinese in Bejing, China male  0
-NA18558 NA18558 CHB Han Chinese in Bejing, China male  1
-NA18559 NA18559 CHB Han Chinese in Bejing, China male  0
-NA18560 NA18560 CHB Han Chinese in Bejing, China female  1
-NA18561 NA18561 CHB Han Chinese in Bejing, China male  0
-NA18562 NA18562 CHB Han Chinese in Bejing, China male  0
-NA18563 NA18563 CHB Han Chinese in Bejing, China male  1
-NA18564 NA18564 CHB Han Chinese in Bejing, China female  0
-NA18565 NA18565 CHB Han Chinese in Bejing, China female  1
-NA18566 NA18566 CHB Han Chinese in Bejing, China female  1
-NA18567 NA18567 CHB Han Chinese in Bejing, China female  0
-NA18570 NA18570 CHB Han Chinese in Bejing, China female  0
-NA18571 NA18571 CHB Han Chinese in Bejing, China female  0
-NA18572 NA18572 CHB Han Chinese in Bejing, China male  1
-NA18573 NA18573 CHB Han Chinese in Bejing, China female  0
-NA18574 NA18574 CHB Han Chinese in Bejing, China female  0
-NA18576 NA18576 CHB Han Chinese in Bejing, China female  0
-NA18577 NA18577 CHB Han Chinese in Bejing, China female  0
-NA18579 NA18579 CHB Han Chinese in Bejing, China female  1
-NA18582 NA18582 CHB Han Chinese in Bejing, China female  0
-NA18592 NA18592 CHB Han Chinese in Bejing, China female  0
-NA18593 NA18593 CHB Han Chinese in Bejing, China female  0
-NA18595 NA18595 CHB Han Chinese in Bejing, China female  1
-NA18596 NA18596 CHB Han Chinese in Bejing, China female  0
-NA18597 NA18597 CHB Han Chinese in Bejing, China female  1
-NA18599 NA18599 CHB Han Chinese in Bejing, China female  1
-NA18602 NA18602 CHB Han Chinese in Bejing, China female  1
-NA18603 NA18603 CHB Han Chinese in Bejing, China male  1
-NA18605 NA18605 CHB Han Chinese in Bejing, China male  0
-NA18606 NA18606 CHB Han Chinese in Bejing, China male  0
-NA18608 NA18608 CHB Han Chinese in Bejing, China male  1
-NA18609 NA18609 CHB Han Chinese in Bejing, China male  0
-NA18610 NA18610 CHB Han Chinese in Bejing, China female  1
-NA18611 NA18611 CHB Han Chinese in Bejing, China male  1
-NA18612 NA18612 CHB Han Chinese in Bejing, China male  0
-NA18613 NA18613 CHB Han Chinese in Bejing, China male  1
-NA18614 NA18614 CHB Han Chinese in Bejing, China female  0
-NA18615 NA18615 CHB Han Chinese in Bejing, China female  0
-NA18616 NA18616 CHB Han Chinese in Bejing, China female  1
-NA18617 NA18617 CHB Han Chinese in Bejing, China female  1
-NA18618 NA18618 CHB Han Chinese in Bejing, China female  1
-NA18619 NA18619 CHB Han Chinese in Bejing, China female  1
-NA18620 NA18620 CHB Han Chinese in Bejing, China male  1
-NA18621 NA18621 CHB Han Chinese in Bejing, China male  0
-NA18622 NA18622 CHB Han Chinese in Bejing, China male  1
-NA18623 NA18623 CHB Han Chinese in Bejing, China male  0
-NA18624 NA18624 CHB Han Chinese in Bejing, China male  1
-NA18626 NA18626 CHB Han Chinese in Bejing, China female  1
-NA18627 NA18627 CHB Han Chinese in Bejing, China female  0
-NA18628 NA18628 CHB Han Chinese in Bejing, China female  0
-NA18630 NA18630 CHB Han Chinese in Bejing, China female  0
-NA18631 NA18631 CHB Han Chinese in Bejing, China female  1
-NA18632 NA18632 CHB Han Chinese in Bejing, China male  0
-NA18633 NA18633 CHB Han Chinese in Bejing, China male  1
-NA18634 NA18634 CHB Han Chinese in Bejing, China female  0
-NA18635 NA18635 CHB Han Chinese in Bejing, China male  1
-NA18636 NA18636 CHB Han Chinese in Bejing, China male  0
-NA18637 NA18637 CHB Han Chinese in Bejing, China male  0
-NA18638 NA18638 CHB Han Chinese in Bejing, China male  0
-NA18639 NA18639 CHB Han Chinese in Bejing, China male  0
-NA18640 NA18640 CHB Han Chinese in Bejing, China female  1
-NA18641 NA18641 CHB Han Chinese in Bejing, China female  1
-NA18642 NA18642 CHB Han Chinese in Bejing, China female  0
-NA18643 NA18643 CHB Han Chinese in Bejing, China male  1
-NA18645 NA18645 CHB Han Chinese in Bejing, China male  1
-NA18647 NA18647 CHB Han Chinese in Bejing, China male  0
-NA18740 NA18740 CHB Han Chinese in Bejing, China male  0
-NA18745 NA18745 CHB Han Chinese in Bejing, China male  0
-NA18747 NA18747 CHB Han Chinese in Bejing, China male  1
-NA18748 NA18748 CHB Han Chinese in Bejing, China male  0
-NA18749 NA18749 CHB Han Chinese in Bejing, China male  0
-NA18757 NA18757 CHB Han Chinese in Bejing, China male  0
-NA18853 Y018 YRI Yoruba in Ibadan, Nigeria male father 0
-NA18856 Y023 YRI Yoruba in Ibadan, Nigeria male father 0
-NA18858 Y012 YRI Yoruba in Ibadan, Nigeria female mother 0
-NA18861 Y024 YRI Yoruba in Ibadan, Nigeria female mother 0
-NA18867 Y007 YRI Yoruba in Ibadan, Nigeria female mother 0
-NA18868 Y007 YRI Yoruba in Ibadan, Nigeria male father 0
-NA18870 Y017 YRI Yoruba in Ibadan, Nigeria female mother 1
-NA18871 Y017 YRI Yoruba in Ibadan, Nigeria male father 1
-NA18873 Y019 YRI Yoruba in Ibadan, Nigeria female mother 1
-NA18874 Y019 YRI Yoruba in Ibadan, Nigeria male father 1
-NA18907 Y025 YRI Yoruba in Ibadan, Nigeria female mother 0
-NA18908 Y025a YRI Yoruba in Ibadan, Nigeria male not father 1
-NA18909 Y027 YRI Yoruba in Ibadan, Nigeria female mother 1
-NA18910 Y027 YRI Yoruba in Ibadan, Nigeria male father 0
-NA18912 Y028 YRI Yoruba in Ibadan, Nigeria female mother 1
-NA18916 Y030 YRI Yoruba in Ibadan, Nigeria female mother 0
-NA18917 Y030 YRI Yoruba in Ibadan, Nigeria male father 0
-NA18923 Y033 YRI Yoruba in Ibadan, Nigeria male father 0
-NA18924 Y033 YRI Yoruba in Ibadan, Nigeria female mother 0
-NA18933 Y036 YRI Yoruba in Ibadan, Nigeria female mother 1
-NA18934 Y036 YRI Yoruba in Ibadan, Nigeria male father 1
-NA18939 NA18939 JPT Japanese in Tokyo, Japan female  0
-NA18940 NA18940 JPT Japanese in Tokyo, Japan male  0
-NA18941 NA18941 JPT Japanese in Tokyo, Japan female  0
-NA18942 NA18942 JPT Japanese in Tokyo, Japan female  1
-NA18943 NA18943 JPT Japanese in Tokyo, Japan male  0
-NA18944 NA18944 JPT Japanese in Tokyo, Japan male  1
-NA18945 NA18945 JPT Japanese in Tokyo, Japan male  1
-NA18946 NA18946 JPT Japanese in Tokyo, Japan female  1
-NA18947 NA18947 JPT Japanese in Tokyo, Japan female  1
-NA18948 NA18948 JPT Japanese in Tokyo, Japan male  1
-NA18949 NA18949 JPT Japanese in Tokyo, Japan female  1
-NA18950 NA18950 JPT Japanese in Tokyo, Japan female  0
-NA18951 NA18951 JPT Japanese in Tokyo, Japan female  0
-NA18952 NA18952 JPT Japanese in Tokyo, Japan male  1
-NA18953 NA18953 JPT Japanese in Tokyo, Japan male  0
-NA18954 NA18954 JPT Japanese in Tokyo, Japan female  0
-NA18956 NA18956 JPT Japanese in Tokyo, Japan female  0
-NA18957 NA18957 JPT Japanese in Tokyo, Japan female  1
-NA18959 NA18959 JPT Japanese in Tokyo, Japan male  0
-NA18960 NA18960 JPT Japanese in Tokyo, Japan male  1
-NA18961 NA18961 JPT Japanese in Tokyo, Japan male  1
-NA18962 NA18962 JPT Japanese in Tokyo, Japan male  0
-NA18963 NA18963 JPT Japanese in Tokyo, Japan female  1
-NA18964 NA18964 JPT Japanese in Tokyo, Japan female  0
-NA18965 NA18965 JPT Japanese in Tokyo, Japan male  1
-NA18966 NA18966 JPT Japanese in Tokyo, Japan male  1
-NA18968 NA18968 JPT Japanese in Tokyo, Japan female  1
-NA18971 NA18971 JPT Japanese in Tokyo, Japan male  0
-NA18973 NA18973 JPT Japanese in Tokyo, Japan female  0
-NA18974 NA18974 JPT Japanese in Tokyo, Japan male  1
-NA18975 NA18975 JPT Japanese in Tokyo, Japan female  0
-NA18976 NA18976 JPT Japanese in Tokyo, Japan female  1
-NA18977 NA18977 JPT Japanese in Tokyo, Japan male  0
-NA18978 NA18978 JPT Japanese in Tokyo, Japan female  0
-NA18980 NA18980 JPT Japanese in Tokyo, Japan female  1
-NA18981 NA18981 JPT Japanese in Tokyo, Japan female  0
-NA18982 NA18982 JPT Japanese in Tokyo, Japan male  0
-NA18983 NA18983 JPT Japanese in Tokyo, Japan male  0
-NA18984 NA18984 JPT Japanese in Tokyo, Japan male  1
-NA18985 NA18985 JPT Japanese in Tokyo, Japan male  1
-NA18986 NA18986 JPT Japanese in Tokyo, Japan male  1
-NA18987 NA18987 JPT Japanese in Tokyo, Japan female  0
-NA18988 NA18988 JPT Japanese in Tokyo, Japan male  1
-NA18989 NA18989 JPT Japanese in Tokyo, Japan male  1
-NA18990 NA18990 JPT Japanese in Tokyo, Japan male  0
-NA18992 NA18992 JPT Japanese in Tokyo, Japan female  1
-NA18994 NA18994 JPT Japanese in Tokyo, Japan male  0
-NA18995 NA18995 JPT Japanese in Tokyo, Japan male  1
-NA18998 NA18998 JPT Japanese in Tokyo, Japan female  1
-NA18999 NA18999 JPT Japanese in Tokyo, Japan female  1
-NA19000 NA19000 JPT Japanese in Tokyo, Japan male  1
-NA19002 NA19002 JPT Japanese in Tokyo, Japan female  1
-NA19003 NA19003 JPT Japanese in Tokyo, Japan female  0
-NA19004 NA19004 JPT Japanese in Tokyo, Japan male  1
-NA19005 NA19005 JPT Japanese in Tokyo, Japan male  0
-NA19007 NA19007 JPT Japanese in Tokyo, Japan male  1
-NA19009 NA19009 JPT Japanese in Tokyo, Japan male  1
-NA19010 NA19010 JPT Japanese in Tokyo, Japan female  1
-NA19012 NA19012 JPT Japanese in Tokyo, Japan male  0
-NA19020 NA19020 LWK Luhya in Webuye, Kenya male  0
-NA19028 NA19028 LWK Luhya in Webuye, Kenya male  1
-NA19035 NA19035 LWK Luhya in Webuye, Kenya male  1
-NA19036 NA19036 LWK Luhya in Webuye, Kenya female  0
-NA19038 NA19038 LWK Luhya in Webuye, Kenya female  1
-NA19041 NA19041 LWK Luhya in Webuye, Kenya male  1
-NA19044 NA19044 LWK Luhya in Webuye, Kenya male  0
-NA19046 NA19046 LWK Luhya in Webuye, Kenya male  1
-NA19054 NA19054 JPT Japanese in Tokyo, Japan female  0
-NA19055 NA19055 JPT Japanese in Tokyo, Japan male  1
-NA19056 NA19056 JPT Japanese in Tokyo, Japan male  0
-NA19057 NA19057 JPT Japanese in Tokyo, Japan female  0
-NA19058 NA19058 JPT Japanese in Tokyo, Japan male  1
-NA19059 NA19059 JPT Japanese in Tokyo, Japan female  0
-NA19060 NA19060 JPT Japanese in Tokyo, Japan male  0
-NA19062 NA19062 JPT Japanese in Tokyo, Japan male  0
-NA19063 NA19063 JPT Japanese in Tokyo, Japan male  0
-NA19064 NA19064 JPT Japanese in Tokyo, Japan female  1
-NA19065 NA19065 JPT Japanese in Tokyo, Japan female  0
-NA19066 NA19066 JPT Japanese in Tokyo, Japan male  1
-NA19067 NA19067 JPT Japanese in Tokyo, Japan male  1
-NA19068 NA19068 JPT Japanese in Tokyo, Japan male  0
-NA19070 NA19070 JPT Japanese in Tokyo, Japan male  0
-NA19072 NA19072 JPT Japanese in Tokyo, Japan male  0
-NA19074 NA19074 JPT Japanese in Tokyo, Japan female  1
-NA19075 NA19075 JPT Japanese in Tokyo, Japan male  1
-NA19076 NA19076 JPT Japanese in Tokyo, Japan male  0
-NA19077 NA19077 JPT Japanese in Tokyo, Japan female  0
-NA19078 NA19078 JPT Japanese in Tokyo, Japan female  0
-NA19079 NA19079 JPT Japanese in Tokyo, Japan male  0
-NA19080 NA19080 JPT Japanese in Tokyo, Japan female  0
-NA19081 NA19081 JPT Japanese in Tokyo, Japan female  1
-NA19082 NA19082 JPT Japanese in Tokyo, Japan male  1
-NA19083 NA19083 JPT Japanese in Tokyo, Japan male  1
-NA19084 NA19084 JPT Japanese in Tokyo, Japan female  0
-NA19085 NA19085 JPT Japanese in Tokyo, Japan male  1
-NA19087 NA19087 JPT Japanese in Tokyo, Japan female  0
-NA19088 NA19088 JPT Japanese in Tokyo, Japan male  1
-NA19093 Y040 YRI Yoruba in Ibadan, Nigeria female mother 1
-NA19095 Y041 YRI Yoruba in Ibadan, Nigeria female mother 0
-NA19096 Y041 YRI Yoruba in Ibadan, Nigeria male father 0
-NA19098 Y105 YRI Yoruba in Ibadan, Nigeria male father 1
-NA19099 Y105 YRI Yoruba in Ibadan, Nigeria female mother 0
-NA19102 Y042 YRI Yoruba in Ibadan, Nigeria female mother 1
-NA19107 Y006 YRI Yoruba in Ibadan, Nigeria male father 0
-NA19108 Y006 YRI Yoruba in Ibadan, Nigeria female mother 1
-NA19113 Y079 YRI Yoruba in Ibadan, Nigeria male father 1
-NA19114 Y079 YRI Yoruba in Ibadan, Nigeria female mother 0
-NA19116 Y060 YRI Yoruba in Ibadan, Nigeria female mother 0
-NA19117 Y100 YRI Yoruba in Ibadan, Nigeria male father 0
-NA19118 Y100 YRI Yoruba in Ibadan, Nigeria female mother 0
-NA19119 Y060 YRI Yoruba in Ibadan, Nigeria male father 0
-NA19121 Y061 YRI Yoruba in Ibadan, Nigeria male father 0
-NA19129 Y077 YRI Yoruba in Ibadan, Nigeria female child 0
-NA19130 Y101 YRI Yoruba in Ibadan, Nigeria male father 1
-NA19131 Y101 YRI Yoruba in Ibadan, Nigeria female mother 0
-NA19137 Y043 YRI Yoruba in Ibadan, Nigeria female mother 1
-NA19138 Y043 YRI Yoruba in Ibadan, Nigeria male father 0
-NA19146 Y075 YRI Yoruba in Ibadan, Nigeria male father 0
-NA19147 Y075 YRI Yoruba in Ibadan, Nigeria female mother 0
-NA19149 Y073 YRI Yoruba in Ibadan, Nigeria female mother 1
-NA19150 Y073 YRI Yoruba in Ibadan, Nigeria male father 1
-NA19152 Y072 YRI Yoruba in Ibadan, Nigeria female mother 1
-NA19160 Y056 YRI Yoruba in Ibadan, Nigeria male father 1
-NA19171 Y047 YRI Yoruba in Ibadan, Nigeria male father 0
-NA19172 Y047 YRI Yoruba in Ibadan, Nigeria female mother 0
-NA19175 Y044 YRI Yoruba in Ibadan, Nigeria male father 0
-NA19185 Y039 YRI Yoruba in Ibadan, Nigeria female mother 0
-NA19189 Y111 YRI Yoruba in Ibadan, Nigeria male father 1
-NA19190 Y111 YRI Yoruba in Ibadan, Nigeria female mother 1
-NA19197 Y035 YRI Yoruba in Ibadan, Nigeria female mother 1
-NA19198 Y035 YRI Yoruba in Ibadan, Nigeria male father 1
-NA19200 Y045 YRI Yoruba in Ibadan, Nigeria male father 0
-NA19204 Y048 YRI Yoruba in Ibadan, Nigeria female mother 1
-NA19207 Y051 YRI Yoruba in Ibadan, Nigeria male father 0
-NA19209 Y050 YRI Yoruba in Ibadan, Nigeria female mother 0
-NA19213 Y110 YRI Yoruba in Ibadan, Nigeria male father 0
-NA19222 Y058 YRI Yoruba in Ibadan, Nigeria female mother 1
-NA19223 Y058 YRI Yoruba in Ibadan, Nigeria male father 0
-NA19225 Y057 YRI Yoruba in Ibadan, Nigeria female mother 0
-NA19235 Y116 YRI Yoruba in Ibadan, Nigeria female mother 1
-NA19236 Y116 YRI Yoruba in Ibadan, Nigeria male father 0
-NA19247 Y120 YRI Yoruba in Ibadan, Nigeria female mother 0
-NA19248 Y120 YRI Yoruba in Ibadan, Nigeria male father 1
-NA19256 Y092 YRI Yoruba in Ibadan, Nigeria male father 0
-NA19257 Y092 YRI Yoruba in Ibadan, Nigeria female mother 0
-NA19307 NA19307 LWK Luhya in Webuye, Kenya male  1
-NA19308 NA19308 LWK Luhya in Webuye, Kenya male  1
-NA19309 NA19309 LWK Luhya in Webuye, Kenya male  0
-NA19310 NA19310 LWK Luhya in Webuye, Kenya female  0
-NA19311 NA19311 LWK Luhya in Webuye, Kenya male  1
-NA19312 NA19312 LWK Luhya in Webuye, Kenya male  1
-NA19313 LWK001 LWK Luhya in Webuye, Kenya female  1
-NA19315 NA19315 LWK Luhya in Webuye, Kenya female  0
-NA19316 NA19316 LWK Luhya in Webuye, Kenya female  0
-NA19317 NA19317 LWK Luhya in Webuye, Kenya male  0
-NA19318 NA19318 LWK Luhya in Webuye, Kenya male  1
-NA19319 NA19319 LWK Luhya in Webuye, Kenya male  0
-NA19321 NA19321 LWK Luhya in Webuye, Kenya female  1
-NA19324 NA19324 LWK Luhya in Webuye, Kenya female  0
-NA19327 NA19327 LWK Luhya in Webuye, Kenya female  0
-NA19328 NA19328 LWK Luhya in Webuye, Kenya female  0
-NA19331 LWK001 LWK Luhya in Webuye, Kenya male  0
-NA19332 NA19332 LWK Luhya in Webuye, Kenya female  1
-NA19334 NA19334 LWK Luhya in Webuye, Kenya male  0
-NA19338 NA19338 LWK Luhya in Webuye, Kenya female  1
-NA19346 NA19346 LWK Luhya in Webuye, Kenya male  0
-NA19347 NA19347 LWK Luhya in Webuye, Kenya male  0
-NA19350 NA19350 LWK Luhya in Webuye, Kenya male  0
-NA19351 NA19351 LWK Luhya in Webuye, Kenya female  1
-NA19352 NA19352 LWK Luhya in Webuye, Kenya male  1
-NA19355 NA19355 LWK Luhya in Webuye, Kenya female  0
-NA19359 NA19359 LWK Luhya in Webuye, Kenya male  0
-NA19360 NA19360 LWK Luhya in Webuye, Kenya male  1
-NA19371 NA19371 LWK Luhya in Webuye, Kenya male  1
-NA19372 NA19372 LWK Luhya in Webuye, Kenya male  0
-NA19373 NA19373 LWK Luhya in Webuye, Kenya male  1
-NA19374 NA19374 LWK Luhya in Webuye, Kenya male  0
-NA19375 NA19375 LWK Luhya in Webuye, Kenya male  0
-NA19376 NA19376 LWK Luhya in Webuye, Kenya male  1
-NA19377 NA19377 LWK Luhya in Webuye, Kenya female  0
-NA19379 NA19379 LWK Luhya in Webuye, Kenya female  0
-NA19380 NA19380 LWK Luhya in Webuye, Kenya male  0
-NA19381 LWK002 LWK Luhya in Webuye, Kenya female  1
-NA19382 LWK002 LWK Luhya in Webuye, Kenya male  1
-NA19383 NA19383 LWK Luhya in Webuye, Kenya male  1
-NA19384 NA19384 LWK Luhya in Webuye, Kenya male  1
-NA19385 NA19385 LWK Luhya in Webuye, Kenya male  0
-NA19390 NA19390 LWK Luhya in Webuye, Kenya female  0
-NA19391 NA19391 LWK Luhya in Webuye, Kenya female  1
-NA19393 NA19393 LWK Luhya in Webuye, Kenya male  0
-NA19394 NA19394 LWK Luhya in Webuye, Kenya male  1
-NA19395 NA19395 LWK Luhya in Webuye, Kenya female  1
-NA19396 NA19396 LWK Luhya in Webuye, Kenya female  1
-NA19397 NA19397 LWK Luhya in Webuye, Kenya male  0
-NA19398 NA19398 LWK Luhya in Webuye, Kenya female  1
-NA19399 NA19399 LWK Luhya in Webuye, Kenya female  1
-NA19401 NA19401 LWK Luhya in Webuye, Kenya female  0
-NA19403 NA19403 LWK Luhya in Webuye, Kenya female  0
-NA19404 NA19404 LWK Luhya in Webuye, Kenya female  1
-NA19428 NA19428 LWK Luhya in Webuye, Kenya male  0
-NA19429 NA19429 LWK Luhya in Webuye, Kenya male  1
-NA19430 NA19430 LWK Luhya in Webuye, Kenya male  0
-NA19431 NA19431 LWK Luhya in Webuye, Kenya female  1
-NA19434 LWK003 LWK Luhya in Webuye, Kenya female  1
-NA19435 NA19435 LWK Luhya in Webuye, Kenya female  0
-NA19436 NA19436 LWK Luhya in Webuye, Kenya female  1
-NA19437 NA19437 LWK Luhya in Webuye, Kenya female  1
-NA19438 NA19438 LWK Luhya in Webuye, Kenya female  0
-NA19439 NA19439 LWK Luhya in Webuye, Kenya female  0
-NA19440 NA19440 LWK Luhya in Webuye, Kenya female  1
-NA19443 NA19443 LWK Luhya in Webuye, Kenya male  0
-NA19444 LWK003 LWK Luhya in Webuye, Kenya male  1
-NA19445 LWK004 LWK Luhya in Webuye, Kenya female  1
-NA19446 NA19446 LWK Luhya in Webuye, Kenya female  1
-NA19448 NA19448 LWK Luhya in Webuye, Kenya male  0
-NA19449 NA19449 LWK Luhya in Webuye, Kenya female  1
-NA19451 NA19451 LWK Luhya in Webuye, Kenya male  0
-NA19452 NA19452 LWK Luhya in Webuye, Kenya male  1
-NA19453 LWK004 LWK Luhya in Webuye, Kenya male  1
-NA19455 NA19455 LWK Luhya in Webuye, Kenya male  1
-NA19456 NA19456 LWK Luhya in Webuye, Kenya female  1
-NA19457 NA19457 LWK Luhya in Webuye, Kenya female  0
-NA19461 NA19461 LWK Luhya in Webuye, Kenya male  1
-NA19462 NA19462 LWK Luhya in Webuye, Kenya female  1
-NA19463 NA19463 LWK Luhya in Webuye, Kenya female  0
-NA19466 NA19466 LWK Luhya in Webuye, Kenya male  1
-NA19467 NA19467 LWK Luhya in Webuye, Kenya female  0
-NA19468 NA19468 LWK Luhya in Webuye, Kenya female  1
-NA19469 LWK005 LWK Luhya in Webuye, Kenya female  1
-NA19470 LWK005 LWK Luhya in Webuye, Kenya female  0
-NA19471 NA19471 LWK Luhya in Webuye, Kenya female  1
-NA19472 NA19472 LWK Luhya in Webuye, Kenya female  0
-NA19473 NA19473 LWK Luhya in Webuye, Kenya female  1
-NA19474 NA19474 LWK Luhya in Webuye, Kenya female  0
-NA19625 2357 ASW African Ancestry in Southwest US female child 1
-NA19648 m001 MXL Mexican Ancestry in Los Angeles, California female mother 0
-NA19651 m005 MXL Mexican Ancestry in Los Angeles, California female mother 1
-NA19652 m005 MXL Mexican Ancestry in Los Angeles, California male father 0
-NA19654 m006 MXL Mexican Ancestry in Los Angeles, California female mother 1
-NA19655 m006 MXL Mexican Ancestry in Los Angeles, California male father 0
-NA19657 m007 MXL Mexican Ancestry in Los Angeles, California female mother 1
-NA19660 m008 MXL Mexican Ancestry in Los Angeles, California female mother 1
-NA19661 m008 MXL Mexican Ancestry in Los Angeles, California male father 1
-NA19663 m012 MXL Mexican Ancestry in Los Angeles, California female mother 1
-NA19664 m012 MXL Mexican Ancestry in Los Angeles, California male father 0
-NA19672 2382 MXL Mexican Ancestry in Los Angeles, California female mother 1
-NA19675 m004 MXL Mexican Ancestry in Los Angeles, California female mother 0
-NA19676 m004 MXL Mexican Ancestry in Los Angeles, California male father 0
-NA19678 m009 MXL Mexican Ancestry in Los Angeles, California female mother 0
-NA19679 m009 MXL Mexican Ancestry in Los Angeles, California male father 0
-NA19681 m010 MXL Mexican Ancestry in Los Angeles, California female mother 1
-NA19682 m010 MXL Mexican Ancestry in Los Angeles, California male father 1
-NA19684 m011 MXL Mexican Ancestry in Los Angeles, California female mother 0
-NA19685 m011 MXL Mexican Ancestry in Los Angeles, California male father 1
-NA19700 2367 ASW African Ancestry in Southwest US male father 1
-NA19701 2367 ASW African Ancestry in Southwest US female mother 0
-NA19703 2368 ASW African Ancestry in Southwest US male father 0
-NA19704 2368 ASW African Ancestry in Southwest US female mother 1
-NA19707 2369 ASW African Ancestry in Southwest US female mother 1
-NA19711 2371 ASW African Ancestry in Southwest US male father 1
-NA19712 2371 ASW African Ancestry in Southwest US female mother 1
-NA19713 2436 ASW African Ancestry in Southwest US female mother 1
-NA19716 m014 MXL Mexican Ancestry in Los Angeles, California female mother 1
-NA19717 m014 MXL Mexican Ancestry in Los Angeles, California male father 0
-NA19719 m015 MXL Mexican Ancestry in Los Angeles, California female mother 0
-NA19720 m015 MXL Mexican Ancestry in Los Angeles, California male father 1
-NA19722 m016 MXL Mexican Ancestry in Los Angeles, California female mother 1
-NA19723 m016 MXL Mexican Ancestry in Los Angeles, California male father 1
-NA19725 m017 MXL Mexican Ancestry in Los Angeles, California female mother 0
-NA19726 m017 MXL Mexican Ancestry in Los Angeles, California male father 1
-NA19728 m018 MXL Mexican Ancestry in Los Angeles, California female mother 1
-NA19729 m018 MXL Mexican Ancestry in Los Angeles, California male father 1
-NA19731 m019 MXL Mexican Ancestry in Los Angeles, California female mother 0
-NA19732 m019 MXL Mexican Ancestry in Los Angeles, California male father 0
-NA19734 2393 MXL Mexican Ancestry in Los Angeles, California female mother 1
-NA19735 2393 MXL Mexican Ancestry in Los Angeles, California male father 1
-NA19737 2394 MXL Mexican Ancestry in Los Angeles, California female mother 1
-NA19738 2394 MXL Mexican Ancestry in Los Angeles, California male father 1
-NA19740 2395 MXL Mexican Ancestry in Los Angeles, California female mother 1
-NA19741 2395 MXL Mexican Ancestry in Los Angeles, California male father 1
-NA19746 m023 MXL Mexican Ancestry in Los Angeles, California female mother 0
-NA19747 m023 MXL Mexican Ancestry in Los Angeles, California male father 1
-NA19749 m024 MXL Mexican Ancestry in Los Angeles, California female mother 0
-NA19750 m024 MXL Mexican Ancestry in Los Angeles, California male father 1
-NA19752 2401 MXL Mexican Ancestry in Los Angeles, California female mother 1
-NA19753 2401 MXL Mexican Ancestry in Los Angeles, California male father 1
-NA19755 m026 MXL Mexican Ancestry in Los Angeles, California female mother 1
-NA19756 m026 MXL Mexican Ancestry in Los Angeles, California male father 1
-NA19758 m027 MXL Mexican Ancestry in Los Angeles, California female mother 0
-NA19759 m027 MXL Mexican Ancestry in Los Angeles, California male father 1
-NA19761 m028 MXL Mexican Ancestry in Los Angeles, California female mother 0
-NA19762 m028 MXL Mexican Ancestry in Los Angeles, California male father 1
-NA19764 2405 MXL Mexican Ancestry in Los Angeles, California female mother 0
-NA19770 m031 MXL Mexican Ancestry in Los Angeles, California female mother 0
-NA19771 m031 MXL Mexican Ancestry in Los Angeles, California male father 0
-NA19773 m033 MXL Mexican Ancestry in Los Angeles, California female mother 0
-NA19774 m033 MXL Mexican Ancestry in Los Angeles, California male father 0
-NA19776 m034 MXL Mexican Ancestry in Los Angeles, California female mother 1
-NA19777 m034 MXL Mexican Ancestry in Los Angeles, California male father 1
-NA19779 m035 MXL Mexican Ancestry in Los Angeles, California female mother 1
-NA19780 m035 MXL Mexican Ancestry in Los Angeles, California male father 1
-NA19782 m036 MXL Mexican Ancestry in Los Angeles, California female mother 1
-NA19783 m036 MXL Mexican Ancestry in Los Angeles, California male father 0
-NA19785 m032 MXL Mexican Ancestry in Los Angeles, California female mother 1
-NA19786 m032 MXL Mexican Ancestry in Los Angeles, California male father 1
-NA19788 m037 MXL Mexican Ancestry in Los Angeles, California female mother 1
-NA19789 m037 MXL Mexican Ancestry in Los Angeles, California male father 1
-NA19794 m039 MXL Mexican Ancestry in Los Angeles, California female mother 0
-NA19795 m039 MXL Mexican Ancestry in Los Angeles, California male father 0
-NA19818 2418 ASW African Ancestry in Southwest US male father 0
-NA19819 2418 ASW African Ancestry in Southwest US female mother 0
-NA19834 2424 ASW African Ancestry in Southwest US male father 0
-NA19835 2424 ASW African Ancestry in Southwest US female mother 1
-NA19900 2425 ASW African Ancestry in Southwest US male father 1
-NA19901 2425 ASW African Ancestry in Southwest US female mother 1
-NA19904 2426 ASW African Ancestry in Southwest US male father 0
-NA19908 2427 ASW African Ancestry in Southwest US male father 0
-NA19909 2427 ASW African Ancestry in Southwest US female mother 0
-NA19914 2430 ASW African Ancestry in Southwest US female mother 1
-NA19916 2431 ASW African Ancestry in Southwest US male father 0
-NA19917 2431 ASW African Ancestry in Southwest US female mother 0
-NA19920 2433 ASW African Ancestry in Southwest US male father 0
-NA19921 2433 ASW African Ancestry in Southwest US female mother 1
-NA19922 2434 ASW African Ancestry in Southwest US male father 0
-NA19923 2434 ASW African Ancestry in Southwest US female mother 1
-NA19982 2436 ASW African Ancestry in Southwest US male father 1
-NA19984 2437a ASW African Ancestry in Southwest US male father 0
-NA19985 2437 ASW African Ancestry in Southwest US female mother 1
-NA20126 2446 ASW African Ancestry in Southwest US male father 1
-NA20127 2446 ASW African Ancestry in Southwest US female mother 0
-NA20276 2466 ASW African Ancestry in Southwest US female mother 0
-NA20278 2467 ASW African Ancestry in Southwest US male father 1
-NA20281 2469a ASW African Ancestry in Southwest US male not father 0
-NA20282 2469 ASW African Ancestry in Southwest US female mother 0
-NA20287 2470 ASW African Ancestry in Southwest US female mother 1
-NA20289 2471 ASW African Ancestry in Southwest US female mother 1
-NA20291 2472 ASW African Ancestry in Southwest US male father 1
-NA20294 2474 ASW African Ancestry in Southwest US female mother 0
-NA20296 2475 ASW African Ancestry in Southwest US female mother 0
-NA20298 2476a ASW African Ancestry in Southwest US male father 0
-NA20299 2476 ASW African Ancestry in Southwest US female mother 1
-NA20314 2479 ASW African Ancestry in Southwest US female mother 0
-NA20317 2480 ASW African Ancestry in Southwest US female mother 1
-NA20322 2481 ASW African Ancestry in Southwest US female child 0
-NA20332 2483 ASW African Ancestry in Southwest US female mother 1
-NA20334 2484 ASW African Ancestry in Southwest US female mother 0
-NA20336 2485 ASW African Ancestry in Southwest US female mother 0
-NA20339 2486 ASW African Ancestry in Southwest US female mother 1
-NA20340 2487 ASW African Ancestry in Southwest US male father 1
-NA20341 2487 ASW African Ancestry in Southwest US female mother 0
-NA20342 2488 ASW African Ancestry in Southwest US male father 1
-NA20344 2489 ASW African Ancestry in Southwest US female mother 1
-NA20346 2490 ASW African Ancestry in Southwest US male father 1
-NA20348 2491 ASW African Ancestry in Southwest US male father 0
-NA20351 2493 ASW African Ancestry in Southwest US male father 0
-NA20356 2494 ASW African Ancestry in Southwest US male father 0
-NA20357 2494 ASW African Ancestry in Southwest US female mother 0
-NA20359 2495 ASW African Ancestry in Southwest US female mother 1
-NA20363 2496 ASW African Ancestry in Southwest US female mother 1
-NA20412 2505 ASW African Ancestry in Southwest US female mother 1
-NA20414 2506 ASW African Ancestry in Southwest US female mother 0
-NA20502 NA20502 TSI Toscani in Italy female  1
-NA20503 NA20503 TSI Toscani in Italy female  0
-NA20504 NA20504 TSI Toscani in Italy female  0
-NA20505 NA20505 TSI Toscani in Italy female  1
-NA20506 NA20506 TSI Toscani in Italy female  0
-NA20507 NA20507 TSI Toscani in Italy female  1
-NA20508 NA20508 TSI Toscani in Italy female  1
-NA20509 NA20509 TSI Toscani in Italy male  0
-NA20510 NA20510 TSI Toscani in Italy male  1
-NA20512 NA20512 TSI Toscani in Italy male  1
-NA20513 NA20513 TSI Toscani in Italy male  0
-NA20515 NA20515 TSI Toscani in Italy male  1
-NA20516 NA20516 TSI Toscani in Italy male  0
-NA20517 NA20517 TSI Toscani in Italy female  1
-NA20518 NA20518 TSI Toscani in Italy male  1
-NA20519 NA20519 TSI Toscani in Italy male  0
-NA20520 NA20520 TSI Toscani in Italy male  0
-NA20521 NA20521 TSI Toscani in Italy male  1
-NA20522 NA20522 TSI Toscani in Italy female  0
-NA20524 NA20524 TSI Toscani in Italy male  1
-NA20525 NA20525 TSI Toscani in Italy male  1
-NA20527 NA20527 TSI Toscani in Italy male  0
-NA20528 NA20528 TSI Toscani in Italy male  0
-NA20529 NA20529 TSI Toscani in Italy female  1
-NA20530 NA20530 TSI Toscani in Italy female  1
-NA20531 NA20531 TSI Toscani in Italy female  0
-NA20532 NA20532 TSI Toscani in Italy male  0
-NA20533 NA20533 TSI Toscani in Italy female  1
-NA20534 NA20534 TSI Toscani in Italy male  0
-NA20535 NA20535 TSI Toscani in Italy female  0
-NA20536 NA20536 TSI Toscani in Italy male  1
-NA20537 NA20537 TSI Toscani in Italy male  0
-NA20538 NA20538 TSI Toscani in Italy male  0
-NA20539 NA20539 TSI Toscani in Italy male  0
-NA20540 NA20540 TSI Toscani in Italy female  0
-NA20541 NA20541 TSI Toscani in Italy female  1
-NA20542 NA20542 TSI Toscani in Italy female  0
-NA20543 NA20543 TSI Toscani in Italy male  0
-NA20544 NA20544 TSI Toscani in Italy male  1
-NA20581 NA20581 TSI Toscani in Italy male  1
-NA20582 NA20582 TSI Toscani in Italy female  0
-NA20585 NA20585 TSI Toscani in Italy female  1
-NA20586 NA20586 TSI Toscani in Italy male  1
-NA20588 NA20588 TSI Toscani in Italy male  0
-NA20589 NA20589 TSI Toscani in Italy female  0
-NA20752 NA20752 TSI Toscani in Italy male  1
-NA20753 NA20753 TSI Toscani in Italy female  0
-NA20754 NA20754 TSI Toscani in Italy male  0
-NA20755 NA20755 TSI Toscani in Italy male  0
-NA20756 NA20756 TSI Toscani in Italy female  0
-NA20757 NA20757 TSI Toscani in Italy female  1
-NA20758 NA20758 TSI Toscani in Italy male  0
-NA20759 NA20759 TSI Toscani in Italy male  0
-NA20760 NA20760 TSI Toscani in Italy female  0
-NA20761 NA20761 TSI Toscani in Italy female  0
-NA20765 NA20765 TSI Toscani in Italy male  0
-NA20766 NA20766 TSI Toscani in Italy female  0
-NA20768 NA20768 TSI Toscani in Italy female  0
-NA20769 NA20769 TSI Toscani in Italy female  1
-NA20770 NA20770 TSI Toscani in Italy male  1
-NA20771 NA20771 TSI Toscani in Italy female  0
-NA20772 NA20772 TSI Toscani in Italy female  0
-NA20773 NA20773 TSI Toscani in Italy female  1
-NA20774 NA20774 TSI Toscani in Italy female  0
-NA20775 NA20775 TSI Toscani in Italy female  0
-NA20778 NA20778 TSI Toscani in Italy male  1
-NA20783 NA20783 TSI Toscani in Italy male  1
-NA20785 NA20785 TSI Toscani in Italy male  1
-NA20786 NA20786 TSI Toscani in Italy female  0
-NA20787 NA20787 TSI Toscani in Italy male  0
-NA20790 NA20790 TSI Toscani in Italy female  1
-NA20792 NA20792 TSI Toscani in Italy male  0
-NA20795 NA20795 TSI Toscani in Italy female  0
-NA20796 NA20796 TSI Toscani in Italy male  0
-NA20797 NA20797 TSI Toscani in Italy female  1
-NA20798 NA20798 TSI Toscani in Italy male  0
-NA20799 NA20799 TSI Toscani in Italy female  0
-NA20800 NA20800 TSI Toscani in Italy female  1
-NA20801 NA20801 TSI Toscani in Italy male  0
-NA20802 NA20802 TSI Toscani in Italy female  0
-NA20803 NA20803 TSI Toscani in Italy male  0
-NA20804 NA20804 TSI Toscani in Italy female  0
-NA20805 NA20805 TSI Toscani in Italy male  1
-NA20806 NA20806 TSI Toscani in Italy male  0
-NA20807 NA20807 TSI Toscani in Italy female  0
-NA20808 NA20808 TSI Toscani in Italy female  1
-NA20809 NA20809 TSI Toscani in Italy male  1
-NA20810 NA20810 TSI Toscani in Italy male  0
-NA20811 NA20811 TSI Toscani in Italy male  1
-NA20812 NA20812 TSI Toscani in Italy male  1
-NA20813 NA20813 TSI Toscani in Italy female  1
-NA20814 NA20814 TSI Toscani in Italy male  0
-NA20815 NA20815 TSI Toscani in Italy male  0
-NA20816 NA20816 TSI Toscani in Italy male  0
-NA20818 NA20818 TSI Toscani in Italy female  0
-NA20819 NA20819 TSI Toscani in Italy female  1
-NA20826 NA20826 TSI Toscani in Italy female  0
-NA20828 NA20828 TSI Toscani in Italy female  0
+Sample	Family.ID	Population	Population.Description	Gender	Relationship	casco
+HG00096	HG00096	GBR	British in England and Scotland	male		1
+HG00097	HG00097	GBR	British in England and Scotland	female		1
+HG00099	HG00099	GBR	British in England and Scotland	female		1
+HG00100	HG00100	GBR	British in England and Scotland	female		0
+HG00101	HG00101	GBR	British in England and Scotland	male		1
+HG00102	HG00102	GBR	British in England and Scotland	female		0
+HG00103	HG00103	GBR	British in England and Scotland	male		0
+HG00104	HG00104	GBR	British in England and Scotland	female		1
+HG00106	HG00106	GBR	British in England and Scotland	female		1
+HG00108	HG00108	GBR	British in England and Scotland	male		1
+HG00109	HG00109	GBR	British in England and Scotland	male		1
+HG00110	HG00110	GBR	British in England and Scotland	female		0
+HG00111	HG00111	GBR	British in England and Scotland	female		0
+HG00112	HG00112	GBR	British in England and Scotland	male		1
+HG00113	HG00113	GBR	British in England and Scotland	male		0
+HG00114	HG00114	GBR	British in England and Scotland	male		1
+HG00116	HG00116	GBR	British in England and Scotland	male		0
+HG00117	HG00117	GBR	British in England and Scotland	male		0
+HG00118	HG00118	GBR	British in England and Scotland	female		0
+HG00119	HG00119	GBR	British in England and Scotland	male		0
+HG00120	HG00120	GBR	British in England and Scotland	female		1
+HG00121	HG00121	GBR	British in England and Scotland	female		1
+HG00122	HG00122	GBR	British in England and Scotland	female		1
+HG00123	HG00123	GBR	British in England and Scotland	female		1
+HG00124	HG00124	GBR	British in England and Scotland	female		1
+HG00125	HG00125	GBR	British in England and Scotland	female		0
+HG00126	HG00126	GBR	British in England and Scotland	male		0
+HG00127	HG00127	GBR	British in England and Scotland	female		1
+HG00128	HG00128	GBR	British in England and Scotland	female		1
+HG00129	HG00129	GBR	British in England and Scotland	male		0
+HG00130	HG00130	GBR	British in England and Scotland	female		1
+HG00131	HG00131	GBR	British in England and Scotland	male		1
+HG00133	HG00133	GBR	British in England and Scotland	female		1
+HG00134	HG00134	GBR	British in England and Scotland	female		0
+HG00135	HG00135	GBR	British in England and Scotland	female		0
+HG00136	HG00136	GBR	British in England and Scotland	male		1
+HG00137	HG00137	GBR	British in England and Scotland	female		0
+HG00138	HG00138	GBR	British in England and Scotland	male		0
+HG00139	HG00139	GBR	British in England and Scotland	male		1
+HG00140	HG00140	GBR	British in England and Scotland	male		1
+HG00141	HG00141	GBR	British in England and Scotland	male		1
+HG00142	HG00142	GBR	British in England and Scotland	male		0
+HG00143	HG00143	GBR	British in England and Scotland	male		0
+HG00146	GBR002	GBR	British in England and Scotland	female	child	1
+HG00148	HG00148	GBR	British in England and Scotland	male		0
+HG00149	HG00149	GBR	British in England and Scotland	male		1
+HG00150	HG00150	GBR	British in England and Scotland	female		0
+HG00151	HG00151	GBR	British in England and Scotland	male		1
+HG00152	HG00152	GBR	British in England and Scotland	male		0
+HG00154	HG00154	GBR	British in England and Scotland	female		1
+HG00155	GBR001	GBR	British in England and Scotland	male	Child	1
+HG00156	HG00156	GBR	British in England and Scotland	male		1
+HG00158	GBR003	GBR	British in England and Scotland	female	mother	1
+HG00159	HG00159	GBR	British in England and Scotland	male		1
+HG00160	HG00160	GBR	British in England and Scotland	male		0
+HG00171	HG00171	FIN	Finnish in Finland	female		1
+HG00173	HG00173	FIN	Finnish in Finland	female		1
+HG00174	HG00174	FIN	Finnish in Finland	female		0
+HG00176	HG00176	FIN	Finnish in Finland	female		0
+HG00177	HG00177	FIN	Finnish in Finland	female		1
+HG00178	HG00178	FIN	Finnish in Finland	female		1
+HG00179	HG00179	FIN	Finnish in Finland	female		1
+HG00180	HG00180	FIN	Finnish in Finland	female		1
+HG00182	HG00182	FIN	Finnish in Finland	male		1
+HG00183	HG00183	FIN	Finnish in Finland	male		1
+HG00185	HG00185	FIN	Finnish in Finland	male		0
+HG00186	HG00186	FIN	Finnish in Finland	male		1
+HG00187	HG00187	FIN	Finnish in Finland	male		1
+HG00188	HG00188	FIN	Finnish in Finland	male		1
+HG00189	HG00189	FIN	Finnish in Finland	male		1
+HG00190	HG00190	FIN	Finnish in Finland	male		0
+HG00231	HG00231	GBR	British in England and Scotland	female		1
+HG00232	HG00232	GBR	British in England and Scotland	female		1
+HG00233	HG00233	GBR	British in England and Scotland	female		0
+HG00234	HG00234	GBR	British in England and Scotland	male		1
+HG00235	HG00235	GBR	British in England and Scotland	female		1
+HG00236	HG00236	GBR	British in England and Scotland	female		0
+HG00237	HG00237	GBR	British in England and Scotland	female		0
+HG00238	HG00238	GBR	British in England and Scotland	female		1
+HG00239	HG00239	GBR	British in England and Scotland	female		1
+HG00240	HG00240	GBR	British in England and Scotland	female		1
+HG00242	HG00242	GBR	British in England and Scotland	male		1
+HG00243	HG00243	GBR	British in England and Scotland	male		1
+HG00244	HG00244	GBR	British in England and Scotland	male		1
+HG00245	HG00245	GBR	British in England and Scotland	female		1
+HG00246	HG00246	GBR	British in England and Scotland	male		1
+HG00247	GBR004	GBR	British in England and Scotland	female	mother	0
+HG00249	HG00249	GBR	British in England and Scotland	female		1
+HG00250	HG00250	GBR	British in England and Scotland	female		1
+HG00251	HG00251	GBR	British in England and Scotland	male		1
+HG00252	HG00252	GBR	British in England and Scotland	male		1
+HG00253	HG00253	GBR	British in England and Scotland	female		0
+HG00254	HG00254	GBR	British in England and Scotland	female		1
+HG00255	HG00255	GBR	British in England and Scotland	female		0
+HG00256	HG00256	GBR	British in England and Scotland	male		0
+HG00257	HG00257	GBR	British in England and Scotland	female		1
+HG00258	HG00258	GBR	British in England and Scotland	female		0
+HG00259	HG00259	GBR	British in England and Scotland	female		0
+HG00260	HG00260	GBR	British in England and Scotland	male		0
+HG00261	HG00261	GBR	British in England and Scotland	female		0
+HG00262	HG00262	GBR	British in England and Scotland	female		0
+HG00263	HG00263	GBR	British in England and Scotland	female		1
+HG00264	HG00264	GBR	British in England and Scotland	male		0
+HG00265	HG00265	GBR	British in England and Scotland	male		1
+HG00266	HG00266	FIN	Finnish in Finland	female		0
+HG00267	HG00267	FIN	Finnish in Finland	male		1
+HG00268	HG00268	FIN	Finnish in Finland	female		1
+HG00269	HG00269	FIN	Finnish in Finland	female		1
+HG00270	HG00270	FIN	Finnish in Finland	female		1
+HG00271	HG00271	FIN	Finnish in Finland	male		0
+HG00272	HG00272	FIN	Finnish in Finland	female		1
+HG00273	HG00273	FIN	Finnish in Finland	male		0
+HG00274	HG00274	FIN	Finnish in Finland	female		0
+HG00275	HG00275	FIN	Finnish in Finland	female		1
+HG00276	HG00276	FIN	Finnish in Finland	female		1
+HG00277	HG00277	FIN	Finnish in Finland	male		0
+HG00278	HG00278	FIN	Finnish in Finland	male		1
+HG00280	HG00280	FIN	Finnish in Finland	male		1
+HG00281	HG00281	FIN	Finnish in Finland	female		0
+HG00282	HG00282	FIN	Finnish in Finland	female		0
+HG00284	HG00284	FIN	Finnish in Finland	male		1
+HG00285	HG00285	FIN	Finnish in Finland	female		1
+HG00306	HG00306	FIN	Finnish in Finland	female		1
+HG00309	HG00309	FIN	Finnish in Finland	female		1
+HG00310	HG00310	FIN	Finnish in Finland	male		0
+HG00311	HG00311	FIN	Finnish in Finland	male		0
+HG00312	HG00312	FIN	Finnish in Finland	male		1
+HG00313	HG00313	FIN	Finnish in Finland	female		0
+HG00315	HG00315	FIN	Finnish in Finland	female		1
+HG00318	HG00318	FIN	Finnish in Finland	female		0
+HG00319	HG00319	FIN	Finnish in Finland	female		0
+HG00320	HG00320	FIN	Finnish in Finland	female		0
+HG00321	HG00321	FIN	Finnish in Finland	male		1
+HG00323	HG00323	FIN	Finnish in Finland	female		1
+HG00324	HG00324	FIN	Finnish in Finland	female		1
+HG00325	HG00325	FIN	Finnish in Finland	male		0
+HG00326	HG00326	FIN	Finnish in Finland	female		1
+HG00327	HG00327	FIN	Finnish in Finland	female		0
+HG00328	HG00328	FIN	Finnish in Finland	female		0
+HG00329	HG00329	FIN	Finnish in Finland	male		1
+HG00330	HG00330	FIN	Finnish in Finland	female		0
+HG00331	HG00331	FIN	Finnish in Finland	female		0
+HG00332	HG00332	FIN	Finnish in Finland	female		1
+HG00334	HG00334	FIN	Finnish in Finland	female		0
+HG00335	HG00335	FIN	Finnish in Finland	male		0
+HG00336	HG00336	FIN	Finnish in Finland	male		0
+HG00337	HG00337	FIN	Finnish in Finland	female		1
+HG00338	HG00338	FIN	Finnish in Finland	male		0
+HG00339	HG00339	FIN	Finnish in Finland	female		0
+HG00341	HG00341	FIN	Finnish in Finland	male		1
+HG00342	HG00342	FIN	Finnish in Finland	male		0
+HG00343	HG00343	FIN	Finnish in Finland	female		0
+HG00344	HG00344	FIN	Finnish in Finland	female		0
+HG00345	HG00345	FIN	Finnish in Finland	male		0
+HG00346	HG00346	FIN	Finnish in Finland	female		0
+HG00349	HG00349	FIN	Finnish in Finland	female		1
+HG00350	HG00350	FIN	Finnish in Finland	female		0
+HG00351	HG00351	FIN	Finnish in Finland	male		1
+HG00353	HG00353	FIN	Finnish in Finland	female		0
+HG00355	HG00355	FIN	Finnish in Finland	female		1
+HG00356	HG00356	FIN	Finnish in Finland	female		0
+HG00357	HG00357	FIN	Finnish in Finland	female		0
+HG00358	HG00358	FIN	Finnish in Finland	male		0
+HG00359	HG00359	FIN	Finnish in Finland	female		1
+HG00360	HG00360	FIN	Finnish in Finland	male		1
+HG00361	HG00361	FIN	Finnish in Finland	female		0
+HG00362	HG00362	FIN	Finnish in Finland	female		1
+HG00364	HG00364	FIN	Finnish in Finland	female		0
+HG00366	HG00366	FIN	Finnish in Finland	male		1
+HG00367	HG00367	FIN	Finnish in Finland	female		1
+HG00369	HG00369	FIN	Finnish in Finland	male		1
+HG00372	HG00372	FIN	Finnish in Finland	male		1
+HG00373	HG00373	FIN	Finnish in Finland	female		0
+HG00375	HG00375	FIN	Finnish in Finland	male		0
+HG00376	HG00376	FIN	Finnish in Finland	female		1
+HG00377	HG00377	FIN	Finnish in Finland	female		1
+HG00378	HG00378	FIN	Finnish in Finland	female		0
+HG00381	HG00381	FIN	Finnish in Finland	female		1
+HG00382	HG00382	FIN	Finnish in Finland	male		0
+HG00383	HG00383	FIN	Finnish in Finland	female		0
+HG00384	HG00384	FIN	Finnish in Finland	female		1
+HG00403	SH001	CHS	Southern Han Chinese, China	male	father	1
+HG00404	SH001	CHS	Southern Han Chinese, China	female	mother	0
+HG00406	SH002	CHS	Southern Han Chinese, China	male	father	1
+HG00407	SH002	CHS	Southern Han Chinese, China	female	mother	1
+HG00418	SH006	CHS	Southern Han Chinese, China	male	father	0
+HG00419	SH006	CHS	Southern Han Chinese, China	female	mother	0
+HG00421	SH007	CHS	Southern Han Chinese, China	male	father	0
+HG00422	SH007	CHS	Southern Han Chinese, China	female	mother	1
+HG00427	SH009	CHS	Southern Han Chinese, China	male	father	0
+HG00428	SH009	CHS	Southern Han Chinese, China	female	mother	1
+HG00436	SH012	CHS	Southern Han Chinese, China	male	father	0
+HG00437	SH012	CHS	Southern Han Chinese, China	female	mother	1
+HG00442	SH014	CHS	Southern Han Chinese, China	male	father	1
+HG00443	SH014	CHS	Southern Han Chinese, China	female	mother	1
+HG00445	SH015	CHS	Southern Han Chinese, China	male	father	1
+HG00446	SH015	CHS	Southern Han Chinese, China	female	mother	1
+HG00448	SH016	CHS	Southern Han Chinese, China	male	father	1
+HG00449	SH016	CHS	Southern Han Chinese, China	female	mother	1
+HG00451	SH017	CHS	Southern Han Chinese, China	male	father	0
+HG00452	SH017	CHS	Southern Han Chinese, China	female	mother	1
+HG00457	SH019	CHS	Southern Han Chinese, China	male	father	0
+HG00458	SH019	CHS	Southern Han Chinese, China	female	mother	0
+HG00463	SH021	CHS	Southern Han Chinese, China	male	father	0
+HG00464	SH021	CHS	Southern Han Chinese, China	female	mother	0
+HG00472	SH024	CHS	Southern Han Chinese, China	male	father	0
+HG00473	SH024	CHS	Southern Han Chinese, China	female	mother	0
+HG00475	SH025	CHS	Southern Han Chinese, China	male	father	0
+HG00476	SH025	CHS	Southern Han Chinese, China	female	mother	1
+HG00478	SH026	CHS	Southern Han Chinese, China	male	father	0
+HG00479	SH026	CHS	Southern Han Chinese, China	female	mother	1
+HG00500	SH028	CHS	Southern Han Chinese, China	male	father	0
+HG00501	SH028	CHS	Southern Han Chinese, China	female	mother	0
+HG00512	SH032	CHS	Southern Han Chinese, China	male	father	1
+HG00513	SH032	CHS	Southern Han Chinese, China	female	mother	0
+HG00524	SH036	CHS	Southern Han Chinese, China	male	father	0
+HG00525	SH036	CHS	Southern Han Chinese, China	female	mother	1
+HG00530	SH038	CHS	Southern Han Chinese, China	male	father	1
+HG00531	SH038	CHS	Southern Han Chinese, China	female	mother	1
+HG00533	SH039	CHS	Southern Han Chinese, China	male	father	0
+HG00534	SH039	CHS	Southern Han Chinese, China	female	mother	1
+HG00536	SH040	CHS	Southern Han Chinese, China	male	father	1
+HG00537	SH040	CHS	Southern Han Chinese, China	female	mother	0
+HG00542	SH042	CHS	Southern Han Chinese, China	male	father	1
+HG00543	SH042	CHS	Southern Han Chinese, China	female	mother	1
+HG00553	PR02	PUR	Puerto Rican in Puerto Rico	male	father	0
+HG00554	PR02	PUR	Puerto Rican in Puerto Rico	female	mother	0
+HG00556	SH045	CHS	Southern Han Chinese, China	male	father	1
+HG00557	SH045	CHS	Southern Han Chinese, China	female	mother	0
+HG00559	SH046	CHS	Southern Han Chinese, China	male	father	0
+HG00560	SH046	CHS	Southern Han Chinese, China	female	mother	0
+HG00565	SH048	CHS	Southern Han Chinese, China	male	father	0
+HG00566	SH048	CHS	Southern Han Chinese, China	female	mother	1
+HG00577	SH052	CHS	Southern Han Chinese, China	male	father	1
+HG00578	SH052	CHS	Southern Han Chinese, China	female	mother	0
+HG00580	SH053	CHS	Southern Han Chinese, China	male	father	1
+HG00581	SH053	CHS	Southern Han Chinese, China	female	mother	0
+HG00583	SH054	CHS	Southern Han Chinese, China	male	father	0
+HG00584	SH054	CHS	Southern Han Chinese, China	female	mother	1
+HG00589	SH056	CHS	Southern Han Chinese, China	male	father	0
+HG00590	SH056	CHS	Southern Han Chinese, China	female	mother	0
+HG00592	SH057	CHS	Southern Han Chinese, China	male	father	0
+HG00593	SH057	CHS	Southern Han Chinese, China	female	mother	1
+HG00595	SH058	CHS	Southern Han Chinese, China	male	father	0
+HG00596	SH058	CHS	Southern Han Chinese, China	female	mother	1
+HG00607	SH062	CHS	Southern Han Chinese, China	male	father	0
+HG00608	SH062	CHS	Southern Han Chinese, China	female	mother	0
+HG00610	SH063	CHS	Southern Han Chinese, China	male	father	1
+HG00611	SH063	CHS	Southern Han Chinese, China	female	mother	0
+HG00613	SH064	CHS	Southern Han Chinese, China	male	father	1
+HG00614	SH064	CHS	Southern Han Chinese, China	female	mother	1
+HG00619	SH066	CHS	Southern Han Chinese, China	male	father	1
+HG00620	SH066	CHS	Southern Han Chinese, China	female	mother	1
+HG00625	SH068	CHS	Southern Han Chinese, China	male	father	1
+HG00626	SH068	CHS	Southern Han Chinese, China	female	mother	1
+HG00628	SH069	CHS	Southern Han Chinese, China	male	father	0
+HG00629	SH069	CHS	Southern Han Chinese, China	female	mother	0
+HG00634	SH071	CHS	Southern Han Chinese, China	male	father	1
+HG00635	SH071	CHS	Southern Han Chinese, China	female	mother	0
+HG00637	PR03	PUR	Puerto Rican in Puerto Rico	male	father	0
+HG00638	PR03	PUR	Puerto Rican in Puerto Rico	female	mother	1
+HG00640	PR04	PUR	Puerto Rican in Puerto Rico	male	father	1
+HG00641	PR04	PUR	Puerto Rican in Puerto Rico	female	mother	1
+HG00650	SH072	CHS	Southern Han Chinese, China	male	father	0
+HG00651	SH072	CHS	Southern Han Chinese, China	female	mother	0
+HG00653	SH073	CHS	Southern Han Chinese, China	male	father	0
+HG00654	SH073	CHS	Southern Han Chinese, China	female	mother	1
+HG00656	SH074	CHS	Southern Han Chinese, China	male	father	0
+HG00657	SH074	CHS	Southern Han Chinese, China	female	mother	0
+HG00662	SH076	CHS	Southern Han Chinese, China	male	father	0
+HG00663	SH076	CHS	Southern Han Chinese, China	female	mother	1
+HG00671	SH079	CHS	Southern Han Chinese, China	male	father	1
+HG00672	SH079	CHS	Southern Han Chinese, China	female	mother	0
+HG00683	SH083	CHS	Southern Han Chinese, China	male	father	0
+HG00684	SH083	CHS	Southern Han Chinese, China	female	mother	1
+HG00689	SH085	CHS	Southern Han Chinese, China	male	father	1
+HG00690	SH085	CHS	Southern Han Chinese, China	female	mother	0
+HG00692	SH086	CHS	Southern Han Chinese, China	male	father	0
+HG00693	SH086	CHS	Southern Han Chinese, China	female	mother	1
+HG00698	SH088	CHS	Southern Han Chinese, China	male	father	0
+HG00699	SH088	CHS	Southern Han Chinese, China	female	mother	0
+HG00701	SH089	CHS	Southern Han Chinese, China	male	father	0
+HG00702	SH089	CHS	Southern Han Chinese, China	female	mother	0
+HG00704	SH090	CHS	Southern Han Chinese, China	male	father	1
+HG00705	SH090	CHS	Southern Han Chinese, China	female	mother	1
+HG00707	SH091	CHS	Southern Han Chinese, China	male	father	0
+HG00708	SH091	CHS	Southern Han Chinese, China	female	mother	0
+HG00731	PR05	PUR	Puerto Rican in Puerto Rico	male	father	1
+HG00732	PR05	PUR	Puerto Rican in Puerto Rico	female	mother	0
+HG00734	PR06	PUR	Puerto Rican in Puerto Rico	female	mother	0
+HG00736	PR07	PUR	Puerto Rican in Puerto Rico	male	father	0
+HG00737	PR07	PUR	Puerto Rican in Puerto Rico	female	mother	1
+HG00740	PR09	PUR	Puerto Rican in Puerto Rico	female	mother	1
+HG01047	PR06	PUR	Puerto Rican in Puerto Rico	male	father	0
+HG01048	PR08	PUR	Puerto Rican in Puerto Rico	male	father	0
+HG01051	PR11	PUR	Puerto Rican in Puerto Rico	male	father	0
+HG01052	PR11	PUR	Puerto Rican in Puerto Rico	female	mother	0
+HG01055	PR12	PUR	Puerto Rican in Puerto Rico	female	mother	1
+HG01060	PR14	PUR	Puerto Rican in Puerto Rico	male	father	0
+HG01061	PR14	PUR	Puerto Rican in Puerto Rico	female	mother	1
+HG01066	PR16	PUR	Puerto Rican in Puerto Rico	male	father	0
+HG01067	PR16	PUR	Puerto Rican in Puerto Rico	female	mother	0
+HG01069	PR17	PUR	Puerto Rican in Puerto Rico	male	father	1
+HG01070	PR17	PUR	Puerto Rican in Puerto Rico	female	mother	1
+HG01072	PR18	PUR	Puerto Rican in Puerto Rico	male	father	1
+HG01073	PR18	PUR	Puerto Rican in Puerto Rico	female	mother	1
+HG01075	PR01	PUR	Puerto Rican in Puerto Rico	male	father	0
+HG01079	PR21	PUR	Puerto Rican in Puerto Rico	male	father	0
+HG01080	PR21	PUR	Puerto Rican in Puerto Rico	female	mother	0
+HG01082	PR28	PUR	Puerto Rican in Puerto Rico	male	father	1
+HG01083	PR28	PUR	Puerto Rican in Puerto Rico	female	mother	1
+HG01085	PR26	PUR	Puerto Rican in Puerto Rico	male	father	0
+HG01095	PR29	PUR	Puerto Rican in Puerto Rico	female	mother	1
+HG01097	PR31	PUR	Puerto Rican in Puerto Rico	male	father	1
+HG01098	PR31	PUR	Puerto Rican in Puerto Rico	female	mother	1
+HG01101	PR19	PUR	Puerto Rican in Puerto Rico	male	father	1
+HG01102	PR19	PUR	Puerto Rican in Puerto Rico	female	mother	0
+HG01104	PR25	PUR	Puerto Rican in Puerto Rico	male	father	0
+HG01105	PR25	PUR	Puerto Rican in Puerto Rico	female	mother	1
+HG01107	PR33	PUR	Puerto Rican in Puerto Rico	male	father	1
+HG01108	PR33	PUR	Puerto Rican in Puerto Rico	female	mother	0
+HG01112	CLM03	CLM	Colombian in Medellin, Colombia	male	father	1
+HG01113	CLM03	CLM	Colombian in Medellin, Colombia	female	mother	0
+HG01124	CLM04	CLM	Colombian in Medellin, Colombia	male	father	1
+HG01125	CLM04	CLM	Colombian in Medellin, Colombia	female	mother	0
+HG01133	CLM07	CLM	Colombian in Medellin, Colombia	male	father	0
+HG01134	CLM07	CLM	Colombian in Medellin, Colombia	female	mother	0
+HG01136	CLM08	CLM	Colombian in Medellin, Colombia	male	father	1
+HG01137	CLM08	CLM	Colombian in Medellin, Colombia	female	mother	0
+HG01140	CLM09	CLM	Colombian in Medellin, Colombia	female	mother	1
+HG01148	CLM12	CLM	Colombian in Medellin, Colombia	male	father	1
+HG01149	CLM12	CLM	Colombian in Medellin, Colombia	female	mother	1
+HG01167	PR39	PUR	Puerto Rican in Puerto Rico	male	father	1
+HG01168	PR39	PUR	Puerto Rican in Puerto Rico	female	mother	0
+HG01170	PR24	PUR	Puerto Rican in Puerto Rico	male	father	0
+HG01171	PR24	PUR	Puerto Rican in Puerto Rico	female	mother	0
+HG01173	PR36	PUR	Puerto Rican in Puerto Rico	male	father	0
+HG01174	PR36	PUR	Puerto Rican in Puerto Rico	female	mother	0
+HG01176	PR42	PUR	Puerto Rican in Puerto Rico	male	father	1
+HG01183	PR44	PUR	Puerto Rican in Puerto Rico	female	mother	1
+HG01187	PR38	PUR	Puerto Rican in Puerto Rico	male	father	0
+HG01188	PR38	PUR	Puerto Rican in Puerto Rico	female	mother	0
+HG01190	PR40	PUR	Puerto Rican in Puerto Rico	male	father	1
+HG01191	PR40	PUR	Puerto Rican in Puerto Rico	female	mother	1
+HG01197	PR46	PUR	Puerto Rican in Puerto Rico	male	father	1
+HG01198	PR46	PUR	Puerto Rican in Puerto Rico	female	mother	0
+HG01204	PR49	PUR	Puerto Rican in Puerto Rico	male	father	1
+HG01250	CLM14	CLM	Colombian in Medellin, Colombia	male	father	0
+HG01251	CLM14	CLM	Colombian in Medellin, Colombia	female	mother	0
+HG01257	CLM16	CLM	Colombian in Medellin, Colombia	female	mother	0
+HG01259	CLM17	CLM	Colombian in Medellin, Colombia	male	father	1
+HG01271	CLM21	CLM	Colombian in Medellin, Colombia	male	father	0
+HG01272	CLM21	CLM	Colombian in Medellin, Colombia	female	mother	1
+HG01274	CLM22	CLM	Colombian in Medellin, Colombia	male	father	1
+HG01275	CLM22	CLM	Colombian in Medellin, Colombia	female	mother	0
+HG01277	CLM23	CLM	Colombian in Medellin, Colombia	male	father	0
+HG01278	CLM23	CLM	Colombian in Medellin, Colombia	female	mother	0
+HG01334	HG01334	GBR	British in England and Scotland	male		1
+HG01342	CLM26	CLM	Colombian in Medellin, Colombia	female	mother	0
+HG01344	CLM27	CLM	Colombian in Medellin, Colombia	male	father	0
+HG01345	CLM27	CLM	Colombian in Medellin, Colombia	female	mother	0
+HG01350	CLM29	CLM	Colombian in Medellin, Colombia	male	father	1
+HG01351	CLM29	CLM	Colombian in Medellin, Colombia	female	mother	0
+HG01353	CLM30	CLM	Colombian in Medellin, Colombia	male	father	0
+HG01354	CLM30	CLM	Colombian in Medellin, Colombia	female	mother	1
+HG01356	CLM31	CLM	Colombian in Medellin, Colombia	male	father	0
+HG01357	CLM31	CLM	Colombian in Medellin, Colombia	female	mother	1
+HG01359	CLM32	CLM	Colombian in Medellin, Colombia	male	father	1
+HG01360	CLM32	CLM	Colombian in Medellin, Colombia	female	mother	0
+HG01365	CLM34	CLM	Colombian in Medellin, Colombia	male	father	0
+HG01366	CLM34	CLM	Colombian in Medellin, Colombia	female	mother	1
+HG01374	CLM37	CLM	Colombian in Medellin, Colombia	male	father	1
+HG01375	CLM37	CLM	Colombian in Medellin, Colombia	female	mother	1
+HG01377	CLM38	CLM	Colombian in Medellin, Colombia	male	father	0
+HG01378	CLM38	CLM	Colombian in Medellin, Colombia	female	mother	1
+HG01383	CLM40	CLM	Colombian in Medellin, Colombia	male	father	0
+HG01384	CLM40	CLM	Colombian in Medellin, Colombia	female	mother	0
+HG01389	CLM42	CLM	Colombian in Medellin, Colombia	male	father	1
+HG01390	CLM42	CLM	Colombian in Medellin, Colombia	female	mother	0
+HG01437	CLM45	CLM	Colombian in Medellin, Colombia	male	father	0
+HG01440	CLM46a	CLM	Colombian in Medellin, Colombia	male	father	0
+HG01441	CLM46	CLM	Colombian in Medellin, Colombia	female	mother	0
+HG01455	CLM51	CLM	Colombian in Medellin, Colombia	male	father	0
+HG01456	CLM51	CLM	Colombian in Medellin, Colombia	female	mother	1
+HG01461	CLM53	CLM	Colombian in Medellin, Colombia	male	father	1
+HG01462	CLM53	CLM	Colombian in Medellin, Colombia	female	mother	0
+HG01465	CLM54	CLM	Colombian in Medellin, Colombia	female	mother	1
+HG01488	CLM62	CLM	Colombian in Medellin, Colombia	male	father	0
+HG01489	CLM62	CLM	Colombian in Medellin, Colombia	female	mother	0
+HG01491	CLM63	CLM	Colombian in Medellin, Colombia	male	father	0
+HG01492	CLM63	CLM	Colombian in Medellin, Colombia	female	mother	0
+HG01494	CLM64	CLM	Colombian in Medellin, Colombia	male	father	0
+HG01495	CLM64	CLM	Colombian in Medellin, Colombia	female	mother	1
+HG01497	CLM65	CLM	Colombian in Medellin, Colombia	male	father	1
+HG01498	CLM65	CLM	Colombian in Medellin, Colombia	female	mother	0
+HG01515	IBS006	IBS	Iberian populations in Spain	male	father	0
+HG01516	IBS006	IBS	Iberian populations in Spain	female	mother	0
+HG01518	IBS007	IBS	Iberian populations in Spain	male	father	1
+HG01519	IBS007	IBS	Iberian populations in Spain	female	mother	1
+HG01521	IBS008	IBS	Iberian populations in Spain	male	father	0
+HG01522	IBS008	IBS	Iberian populations in Spain	female	mother	0
+HG01550	CLM66	CLM	Colombian in Medellin, Colombia	male	father	1
+HG01551	CLM66	CLM	Colombian in Medellin, Colombia	female	mother	1
+HG01617	IBS019	IBS	Iberian populations in Spain	male	father	1
+HG01618	IBS019	IBS	Iberian populations in Spain	female	mother	0
+HG01619	IBS018	IBS	Iberian populations in Spain	male	father	0
+HG01620	IBS018	IBS	Iberian populations in Spain	female	mother	0
+HG01623	IBS017	IBS	Iberian populations in Spain	female	mother	0
+HG01624	IBS017	IBS	Iberian populations in Spain	male	father	0
+HG01625	IBS016	IBS	Iberian populations in Spain	male	father	0
+HG01626	IBS016	IBS	Iberian populations in Spain	female	mother	0
+NA06984	1328	CEU	Utah residents with Northern and Western European ancestry	male	father	1
+NA06986	13291	CEU	Utah residents with Northern and Western European ancestry	male	mat grandfather	0
+NA06989	1328	CEU	Utah residents with Northern and Western European ancestry	female	mother	1
+NA06994	1340	CEU	Utah residents with Northern and Western European ancestry	male	pat grandfather	0
+NA07000	1340	CEU	Utah residents with Northern and Western European ancestry	female	pat grandmother	1
+NA07037	13291	CEU	Utah residents with Northern and Western European ancestry	female	pat grandmother	0
+NA07048	1341	CEU	Utah residents with Northern and Western European ancestry	male	father	1
+NA07051	13292	CEU	Utah residents with Northern and Western European ancestry	male	mat grandfather	0
+NA07056	1340	CEU	Utah residents with Northern and Western European ancestry	female	mat grandmother	0
+NA07347	1345	CEU	Utah residents with Northern and Western European ancestry	male	pat grandfather	0
+NA07357	1345	CEU	Utah residents with Northern and Western European ancestry	male	mat grandfather	0
+NA10847	1334	CEU	Utah residents with Northern and Western European ancestry	female	mother	1
+NA10851	1344	CEU	Utah residents with Northern and Western European ancestry	male	father	1
+NA11829	1350	CEU	Utah residents with Northern and Western European ancestry	male	pat grandfather	1
+NA11830	1350	CEU	Utah residents with Northern and Western European ancestry	female	pat grandmother	0
+NA11831	1350	CEU	Utah residents with Northern and Western European ancestry	male	mat grandfather	1
+NA11843	1349	CEU	Utah residents with Northern and Western European ancestry	male	pat grandfather	1
+NA11892	1377	CEU	Utah residents with Northern and Western European ancestry	female	pat grandmother	1
+NA11893	1377	CEU	Utah residents with Northern and Western European ancestry	male	mat grandfather	0
+NA11894	1377	CEU	Utah residents with Northern and Western European ancestry	female	mat grandmother	1
+NA11919	1423	CEU	Utah residents with Northern and Western European ancestry	male	mat grandfather	1
+NA11920	1423	CEU	Utah residents with Northern and Western European ancestry	female	mat grandmother	1
+NA11930	1424	CEU	Utah residents with Northern and Western European ancestry	male	pat grandfather	1
+NA11931	1424	CEU	Utah residents with Northern and Western European ancestry	female	pat grandmother	1
+NA11932	1424a	CEU	Utah residents with Northern and Western European ancestry	male	mat grandfather	1
+NA11933	1424a	CEU	Utah residents with Northern and Western European ancestry	female	mat grandmother	1
+NA11992	1362	CEU	Utah residents with Northern and Western European ancestry	male	pat grandfather	0
+NA11993	1362	CEU	Utah residents with Northern and Western European ancestry	female	pat grandmother	0
+NA11994	1362	CEU	Utah residents with Northern and Western European ancestry	male	mat grandfather	1
+NA11995	1362	CEU	Utah residents with Northern and Western European ancestry	female	mat grandmother	1
+NA12003	1420	CEU	Utah residents with Northern and Western European ancestry	male	pat grandfather	1
+NA12004	1420	CEU	Utah residents with Northern and Western European ancestry	female	pat grandmother	0
+NA12006	1420	CEU	Utah residents with Northern and Western European ancestry	female	mat grandmother	0
+NA12043	1346	CEU	Utah residents with Northern and Western European ancestry	male	pat grandfather	1
+NA12044	1346	CEU	Utah residents with Northern and Western European ancestry	female	pat grandmother	0
+NA12045	1346	CEU	Utah residents with Northern and Western European ancestry	male	mat grandfather	0
+NA12046	1346	CEU	Utah residents with Northern and Western European ancestry	female	mat grandmother	1
+NA12058	1344	CEU	Utah residents with Northern and Western European ancestry	female	mat grandmother	0
+NA12144	1334	CEU	Utah residents with Northern and Western European ancestry	male	pat grandfather	1
+NA12154	1408	CEU	Utah residents with Northern and Western European ancestry	male	pat grandfather	1
+NA12155	1408	CEU	Utah residents with Northern and Western European ancestry	male	mat grandfather	1
+NA12249	1416	CEU	Utah residents with Northern and Western European ancestry	female	pat grandmother	0
+NA12272	1418	CEU	Utah residents with Northern and Western European ancestry	male	pat grandfather	0
+NA12273	1418	CEU	Utah residents with Northern and Western European ancestry	female	pat grandmother	0
+NA12275	1418	CEU	Utah residents with Northern and Western European ancestry	female	mat grandmother	0
+NA12282	1421a	CEU	Utah residents with Northern and Western European ancestry	male	pat grandfather	0
+NA12283	1421a	CEU	Utah residents with Northern and Western European ancestry	female	pat grandmother	0
+NA12286	1421	CEU	Utah residents with Northern and Western European ancestry	male	mat grandfather	0
+NA12287	1421	CEU	Utah residents with Northern and Western European ancestry	female	mat grandmother	1
+NA12340	1330	CEU	Utah residents with Northern and Western European ancestry	male	pat grandfather	1
+NA12341	1330	CEU	Utah residents with Northern and Western European ancestry	female	pat grandmother	0
+NA12342	1330	CEU	Utah residents with Northern and Western European ancestry	male	mat grandfather	0
+NA12347	13281	CEU	Utah residents with Northern and Western European ancestry	male	pat grandfather	1
+NA12348	13281	CEU	Utah residents with Northern and Western European ancestry	female	pat grandmother	1
+NA12383	1353	CEU	Utah residents with Northern and Western European ancestry	female	pat grandmother	0
+NA12399	1354	CEU	Utah residents with Northern and Western European ancestry	male	mat grandfather	1
+NA12400	1354	CEU	Utah residents with Northern and Western European ancestry	female	mat grandmother	1
+NA12413	1355	CEU	Utah residents with Northern and Western European ancestry	male	pat grandfather	0
+NA12489	1353	CEU	Utah residents with Northern and Western European ancestry	female	mat grandmother	1
+NA12546	1353	CEU	Utah residents with Northern and Western European ancestry	male	mat grandfather	1
+NA12716	1358	CEU	Utah residents with Northern and Western European ancestry	male	pat grandfather	1
+NA12717	1358	CEU	Utah residents with Northern and Western European ancestry	female	pat grandmother	1
+NA12718	1358	CEU	Utah residents with Northern and Western European ancestry	female	mat grandmother	1
+NA12748	1444	CEU	Utah residents with Northern and Western European ancestry	male	pat grandfather	0
+NA12749	1444	CEU	Utah residents with Northern and Western European ancestry	female	pat grandmother	1
+NA12750	1444	CEU	Utah residents with Northern and Western European ancestry	male	mat grandfather	0
+NA12751	1444	CEU	Utah residents with Northern and Western European ancestry	female	mat grandmother	1
+NA12761	1447	CEU	Utah residents with Northern and Western European ancestry	female	pat grandmother	0
+NA12763	1447	CEU	Utah residents with Northern and Western European ancestry	female	mat grandmother	1
+NA12775	1451	CEU	Utah residents with Northern and Western European ancestry	male	pat grandfather	1
+NA12777	1451	CEU	Utah residents with Northern and Western European ancestry	male	mat grandfather	1
+NA12778	1451	CEU	Utah residents with Northern and Western European ancestry	female	mat grandmother	0
+NA12812	1454	CEU	Utah residents with Northern and Western European ancestry	male	pat grandfather	1
+NA12814	1454	CEU	Utah residents with Northern and Western European ancestry	male	mat grandfather	0
+NA12815	1454	CEU	Utah residents with Northern and Western European ancestry	female	mat grandmother	0
+NA12827	1456	CEU	Utah residents with Northern and Western European ancestry	male	pat grandfather	0
+NA12829	1456	CEU	Utah residents with Northern and Western European ancestry	male	mat grandfather	1
+NA12830	1456	CEU	Utah residents with Northern and Western European ancestry	female	mat grandmother	1
+NA12842	1458	CEU	Utah residents with Northern and Western European ancestry	male	mat grandfather	1
+NA12843	1458	CEU	Utah residents with Northern and Western European ancestry	female	mat grandmother	1
+NA12872	1459	CEU	Utah residents with Northern and Western European ancestry	male	pat grandfather	1
+NA12873	1459	CEU	Utah residents with Northern and Western European ancestry	female	pat grandmother	1
+NA12874	1459	CEU	Utah residents with Northern and Western European ancestry	male	mat grandfather	0
+NA12889	1463	CEU	Utah residents with Northern and Western European ancestry	male	pat grandfather; father	1
+NA12890	1463	CEU	Utah residents with Northern and Western European ancestry	female	pat grandmother; mother	1
+NA18486	Y001	YRI	Yoruba in Ibadan, Nigeria	male	father	1
+NA18487	Y002	YRI	Yoruba in Ibadan, Nigeria	male	father	0
+NA18489	Y002	YRI	Yoruba in Ibadan, Nigeria	female	mother	0
+NA18498	Y003	YRI	Yoruba in Ibadan, Nigeria	male	father	0
+NA18499	Y003	YRI	Yoruba in Ibadan, Nigeria	female	mother	0
+NA18501	Y004	YRI	Yoruba in Ibadan, Nigeria	male	father	0
+NA18502	Y004	YRI	Yoruba in Ibadan, Nigeria	female	mother	1
+NA18504	Y005	YRI	Yoruba in Ibadan, Nigeria	male	father	0
+NA18505	Y005	YRI	Yoruba in Ibadan, Nigeria	female	mother	1
+NA18507	Y009	YRI	Yoruba in Ibadan, Nigeria	male	father	1
+NA18508	Y009	YRI	Yoruba in Ibadan, Nigeria	female	mother	0
+NA18510	Y010a	YRI	Yoruba in Ibadan, Nigeria	male	not father	1
+NA18511	Y010	YRI	Yoruba in Ibadan, Nigeria	female	mother	1
+NA18516	Y013	YRI	Yoruba in Ibadan, Nigeria	male	father	0
+NA18517	Y013	YRI	Yoruba in Ibadan, Nigeria	female	mother	1
+NA18519	Y014	YRI	Yoruba in Ibadan, Nigeria	male	father	0
+NA18520	Y014	YRI	Yoruba in Ibadan, Nigeria	female	mother	1
+NA18522	Y016	YRI	Yoruba in Ibadan, Nigeria	male	father	1
+NA18523	Y016	YRI	Yoruba in Ibadan, Nigeria	female	mother	0
+NA18525	NA18525	CHB	Han Chinese in Bejing, China	female		0
+NA18526	NA18526	CHB	Han Chinese in Bejing, China	female		0
+NA18527	NA18527	CHB	Han Chinese in Bejing, China	female		0
+NA18528	NA18528	CHB	Han Chinese in Bejing, China	female		1
+NA18530	NA18530	CHB	Han Chinese in Bejing, China	male		1
+NA18532	NA18532	CHB	Han Chinese in Bejing, China	female		1
+NA18534	NA18534	CHB	Han Chinese in Bejing, China	male		0
+NA18535	NA18535	CHB	Han Chinese in Bejing, China	female		0
+NA18536	NA18536	CHB	Han Chinese in Bejing, China	male		1
+NA18537	NA18537	CHB	Han Chinese in Bejing, China	female		1
+NA18538	NA18538	CHB	Han Chinese in Bejing, China	female		1
+NA18539	NA18539	CHB	Han Chinese in Bejing, China	female		0
+NA18541	NA18541	CHB	Han Chinese in Bejing, China	female		1
+NA18542	NA18542	CHB	Han Chinese in Bejing, China	female		0
+NA18543	NA18543	CHB	Han Chinese in Bejing, China	male		0
+NA18544	NA18544	CHB	Han Chinese in Bejing, China	male		1
+NA18545	NA18545	CHB	Han Chinese in Bejing, China	female		0
+NA18546	NA18546	CHB	Han Chinese in Bejing, China	male		1
+NA18547	NA18547	CHB	Han Chinese in Bejing, China	female		0
+NA18548	NA18548	CHB	Han Chinese in Bejing, China	male		0
+NA18549	NA18549	CHB	Han Chinese in Bejing, China	male		1
+NA18550	NA18550	CHB	Han Chinese in Bejing, China	female		0
+NA18552	NA18552	CHB	Han Chinese in Bejing, China	female		1
+NA18553	NA18553	CHB	Han Chinese in Bejing, China	female		1
+NA18555	NA18555	CHB	Han Chinese in Bejing, China	female		0
+NA18557	NA18557	CHB	Han Chinese in Bejing, China	male		0
+NA18558	NA18558	CHB	Han Chinese in Bejing, China	male		1
+NA18559	NA18559	CHB	Han Chinese in Bejing, China	male		0
+NA18560	NA18560	CHB	Han Chinese in Bejing, China	female		1
+NA18561	NA18561	CHB	Han Chinese in Bejing, China	male		0
+NA18562	NA18562	CHB	Han Chinese in Bejing, China	male		0
+NA18563	NA18563	CHB	Han Chinese in Bejing, China	male		1
+NA18564	NA18564	CHB	Han Chinese in Bejing, China	female		0
+NA18565	NA18565	CHB	Han Chinese in Bejing, China	female		1
+NA18566	NA18566	CHB	Han Chinese in Bejing, China	female		1
+NA18567	NA18567	CHB	Han Chinese in Bejing, China	female		0
+NA18570	NA18570	CHB	Han Chinese in Bejing, China	female		0
+NA18571	NA18571	CHB	Han Chinese in Bejing, China	female		0
+NA18572	NA18572	CHB	Han Chinese in Bejing, China	male		1
+NA18573	NA18573	CHB	Han Chinese in Bejing, China	female		0
+NA18574	NA18574	CHB	Han Chinese in Bejing, China	female		0
+NA18576	NA18576	CHB	Han Chinese in Bejing, China	female		0
+NA18577	NA18577	CHB	Han Chinese in Bejing, China	female		0
+NA18579	NA18579	CHB	Han Chinese in Bejing, China	female		1
+NA18582	NA18582	CHB	Han Chinese in Bejing, China	female		0
+NA18592	NA18592	CHB	Han Chinese in Bejing, China	female		0
+NA18593	NA18593	CHB	Han Chinese in Bejing, China	female		0
+NA18595	NA18595	CHB	Han Chinese in Bejing, China	female		1
+NA18596	NA18596	CHB	Han Chinese in Bejing, China	female		0
+NA18597	NA18597	CHB	Han Chinese in Bejing, China	female		1
+NA18599	NA18599	CHB	Han Chinese in Bejing, China	female		1
+NA18602	NA18602	CHB	Han Chinese in Bejing, China	female		1
+NA18603	NA18603	CHB	Han Chinese in Bejing, China	male		1
+NA18605	NA18605	CHB	Han Chinese in Bejing, China	male		0
+NA18606	NA18606	CHB	Han Chinese in Bejing, China	male		0
+NA18608	NA18608	CHB	Han Chinese in Bejing, China	male		1
+NA18609	NA18609	CHB	Han Chinese in Bejing, China	male		0
+NA18610	NA18610	CHB	Han Chinese in Bejing, China	female		1
+NA18611	NA18611	CHB	Han Chinese in Bejing, China	male		1
+NA18612	NA18612	CHB	Han Chinese in Bejing, China	male		0
+NA18613	NA18613	CHB	Han Chinese in Bejing, China	male		1
+NA18614	NA18614	CHB	Han Chinese in Bejing, China	female		0
+NA18615	NA18615	CHB	Han Chinese in Bejing, China	female		0
+NA18616	NA18616	CHB	Han Chinese in Bejing, China	female		1
+NA18617	NA18617	CHB	Han Chinese in Bejing, China	female		1
+NA18618	NA18618	CHB	Han Chinese in Bejing, China	female		1
+NA18619	NA18619	CHB	Han Chinese in Bejing, China	female		1
+NA18620	NA18620	CHB	Han Chinese in Bejing, China	male		1
+NA18621	NA18621	CHB	Han Chinese in Bejing, China	male		0
+NA18622	NA18622	CHB	Han Chinese in Bejing, China	male		1
+NA18623	NA18623	CHB	Han Chinese in Bejing, China	male		0
+NA18624	NA18624	CHB	Han Chinese in Bejing, China	male		1
+NA18626	NA18626	CHB	Han Chinese in Bejing, China	female		1
+NA18627	NA18627	CHB	Han Chinese in Bejing, China	female		0
+NA18628	NA18628	CHB	Han Chinese in Bejing, China	female		0
+NA18630	NA18630	CHB	Han Chinese in Bejing, China	female		0
+NA18631	NA18631	CHB	Han Chinese in Bejing, China	female		1
+NA18632	NA18632	CHB	Han Chinese in Bejing, China	male		0
+NA18633	NA18633	CHB	Han Chinese in Bejing, China	male		1
+NA18634	NA18634	CHB	Han Chinese in Bejing, China	female		0
+NA18635	NA18635	CHB	Han Chinese in Bejing, China	male		1
+NA18636	NA18636	CHB	Han Chinese in Bejing, China	male		0
+NA18637	NA18637	CHB	Han Chinese in Bejing, China	male		0
+NA18638	NA18638	CHB	Han Chinese in Bejing, China	male		0
+NA18639	NA18639	CHB	Han Chinese in Bejing, China	male		0
+NA18640	NA18640	CHB	Han Chinese in Bejing, China	female		1
+NA18641	NA18641	CHB	Han Chinese in Bejing, China	female		1
+NA18642	NA18642	CHB	Han Chinese in Bejing, China	female		0
+NA18643	NA18643	CHB	Han Chinese in Bejing, China	male		1
+NA18645	NA18645	CHB	Han Chinese in Bejing, China	male		1
+NA18647	NA18647	CHB	Han Chinese in Bejing, China	male		0
+NA18740	NA18740	CHB	Han Chinese in Bejing, China	male		0
+NA18745	NA18745	CHB	Han Chinese in Bejing, China	male		0
+NA18747	NA18747	CHB	Han Chinese in Bejing, China	male		1
+NA18748	NA18748	CHB	Han Chinese in Bejing, China	male		0
+NA18749	NA18749	CHB	Han Chinese in Bejing, China	male		0
+NA18757	NA18757	CHB	Han Chinese in Bejing, China	male		0
+NA18853	Y018	YRI	Yoruba in Ibadan, Nigeria	male	father	0
+NA18856	Y023	YRI	Yoruba in Ibadan, Nigeria	male	father	0
+NA18858	Y012	YRI	Yoruba in Ibadan, Nigeria	female	mother	0
+NA18861	Y024	YRI	Yoruba in Ibadan, Nigeria	female	mother	0
+NA18867	Y007	YRI	Yoruba in Ibadan, Nigeria	female	mother	0
+NA18868	Y007	YRI	Yoruba in Ibadan, Nigeria	male	father	0
+NA18870	Y017	YRI	Yoruba in Ibadan, Nigeria	female	mother	1
+NA18871	Y017	YRI	Yoruba in Ibadan, Nigeria	male	father	1
+NA18873	Y019	YRI	Yoruba in Ibadan, Nigeria	female	mother	1
+NA18874	Y019	YRI	Yoruba in Ibadan, Nigeria	male	father	1
+NA18907	Y025	YRI	Yoruba in Ibadan, Nigeria	female	mother	0
+NA18908	Y025a	YRI	Yoruba in Ibadan, Nigeria	male	not father	1
+NA18909	Y027	YRI	Yoruba in Ibadan, Nigeria	female	mother	1
+NA18910	Y027	YRI	Yoruba in Ibadan, Nigeria	male	father	0
+NA18912	Y028	YRI	Yoruba in Ibadan, Nigeria	female	mother	1
+NA18916	Y030	YRI	Yoruba in Ibadan, Nigeria	female	mother	0
+NA18917	Y030	YRI	Yoruba in Ibadan, Nigeria	male	father	0
+NA18923	Y033	YRI	Yoruba in Ibadan, Nigeria	male	father	0
+NA18924	Y033	YRI	Yoruba in Ibadan, Nigeria	female	mother	0
+NA18933	Y036	YRI	Yoruba in Ibadan, Nigeria	female	mother	1
+NA18934	Y036	YRI	Yoruba in Ibadan, Nigeria	male	father	1
+NA18939	NA18939	JPT	Japanese in Tokyo, Japan	female		0
+NA18940	NA18940	JPT	Japanese in Tokyo, Japan	male		0
+NA18941	NA18941	JPT	Japanese in Tokyo, Japan	female		0
+NA18942	NA18942	JPT	Japanese in Tokyo, Japan	female		1
+NA18943	NA18943	JPT	Japanese in Tokyo, Japan	male		0
+NA18944	NA18944	JPT	Japanese in Tokyo, Japan	male		1
+NA18945	NA18945	JPT	Japanese in Tokyo, Japan	male		1
+NA18946	NA18946	JPT	Japanese in Tokyo, Japan	female		1
+NA18947	NA18947	JPT	Japanese in Tokyo, Japan	female		1
+NA18948	NA18948	JPT	Japanese in Tokyo, Japan	male		1
+NA18949	NA18949	JPT	Japanese in Tokyo, Japan	female		1
+NA18950	NA18950	JPT	Japanese in Tokyo, Japan	female		0
+NA18951	NA18951	JPT	Japanese in Tokyo, Japan	female		0
+NA18952	NA18952	JPT	Japanese in Tokyo, Japan	male		1
+NA18953	NA18953	JPT	Japanese in Tokyo, Japan	male		0
+NA18954	NA18954	JPT	Japanese in Tokyo, Japan	female		0
+NA18956	NA18956	JPT	Japanese in Tokyo, Japan	female		0
+NA18957	NA18957	JPT	Japanese in Tokyo, Japan	female		1
+NA18959	NA18959	JPT	Japanese in Tokyo, Japan	male		0
+NA18960	NA18960	JPT	Japanese in Tokyo, Japan	male		1
+NA18961	NA18961	JPT	Japanese in Tokyo, Japan	male		1
+NA18962	NA18962	JPT	Japanese in Tokyo, Japan	male		0
+NA18963	NA18963	JPT	Japanese in Tokyo, Japan	female		1
+NA18964	NA18964	JPT	Japanese in Tokyo, Japan	female		0
+NA18965	NA18965	JPT	Japanese in Tokyo, Japan	male		1
+NA18966	NA18966	JPT	Japanese in Tokyo, Japan	male		1
+NA18968	NA18968	JPT	Japanese in Tokyo, Japan	female		1
+NA18971	NA18971	JPT	Japanese in Tokyo, Japan	male		0
+NA18973	NA18973	JPT	Japanese in Tokyo, Japan	female		0
+NA18974	NA18974	JPT	Japanese in Tokyo, Japan	male		1
+NA18975	NA18975	JPT	Japanese in Tokyo, Japan	female		0
+NA18976	NA18976	JPT	Japanese in Tokyo, Japan	female		1
+NA18977	NA18977	JPT	Japanese in Tokyo, Japan	male		0
+NA18978	NA18978	JPT	Japanese in Tokyo, Japan	female		0
+NA18980	NA18980	JPT	Japanese in Tokyo, Japan	female		1
+NA18981	NA18981	JPT	Japanese in Tokyo, Japan	female		0
+NA18982	NA18982	JPT	Japanese in Tokyo, Japan	male		0
+NA18983	NA18983	JPT	Japanese in Tokyo, Japan	male		0
+NA18984	NA18984	JPT	Japanese in Tokyo, Japan	male		1
+NA18985	NA18985	JPT	Japanese in Tokyo, Japan	male		1
+NA18986	NA18986	JPT	Japanese in Tokyo, Japan	male		1
+NA18987	NA18987	JPT	Japanese in Tokyo, Japan	female		0
+NA18988	NA18988	JPT	Japanese in Tokyo, Japan	male		1
+NA18989	NA18989	JPT	Japanese in Tokyo, Japan	male		1
+NA18990	NA18990	JPT	Japanese in Tokyo, Japan	male		0
+NA18992	NA18992	JPT	Japanese in Tokyo, Japan	female		1
+NA18994	NA18994	JPT	Japanese in Tokyo, Japan	male		0
+NA18995	NA18995	JPT	Japanese in Tokyo, Japan	male		1
+NA18998	NA18998	JPT	Japanese in Tokyo, Japan	female		1
+NA18999	NA18999	JPT	Japanese in Tokyo, Japan	female		1
+NA19000	NA19000	JPT	Japanese in Tokyo, Japan	male		1
+NA19002	NA19002	JPT	Japanese in Tokyo, Japan	female		1
+NA19003	NA19003	JPT	Japanese in Tokyo, Japan	female		0
+NA19004	NA19004	JPT	Japanese in Tokyo, Japan	male		1
+NA19005	NA19005	JPT	Japanese in Tokyo, Japan	male		0
+NA19007	NA19007	JPT	Japanese in Tokyo, Japan	male		1
+NA19009	NA19009	JPT	Japanese in Tokyo, Japan	male		1
+NA19010	NA19010	JPT	Japanese in Tokyo, Japan	female		1
+NA19012	NA19012	JPT	Japanese in Tokyo, Japan	male		0
+NA19020	NA19020	LWK	Luhya in Webuye, Kenya	male		0
+NA19028	NA19028	LWK	Luhya in Webuye, Kenya	male		1
+NA19035	NA19035	LWK	Luhya in Webuye, Kenya	male		1
+NA19036	NA19036	LWK	Luhya in Webuye, Kenya	female		0
+NA19038	NA19038	LWK	Luhya in Webuye, Kenya	female		1
+NA19041	NA19041	LWK	Luhya in Webuye, Kenya	male		1
+NA19044	NA19044	LWK	Luhya in Webuye, Kenya	male		0
+NA19046	NA19046	LWK	Luhya in Webuye, Kenya	male		1
+NA19054	NA19054	JPT	Japanese in Tokyo, Japan	female		0
+NA19055	NA19055	JPT	Japanese in Tokyo, Japan	male		1
+NA19056	NA19056	JPT	Japanese in Tokyo, Japan	male		0
+NA19057	NA19057	JPT	Japanese in Tokyo, Japan	female		0
+NA19058	NA19058	JPT	Japanese in Tokyo, Japan	male		1
+NA19059	NA19059	JPT	Japanese in Tokyo, Japan	female		0
+NA19060	NA19060	JPT	Japanese in Tokyo, Japan	male		0
+NA19062	NA19062	JPT	Japanese in Tokyo, Japan	male		0
+NA19063	NA19063	JPT	Japanese in Tokyo, Japan	male		0
+NA19064	NA19064	JPT	Japanese in Tokyo, Japan	female		1
+NA19065	NA19065	JPT	Japanese in Tokyo, Japan	female		0
+NA19066	NA19066	JPT	Japanese in Tokyo, Japan	male		1
+NA19067	NA19067	JPT	Japanese in Tokyo, Japan	male		1
+NA19068	NA19068	JPT	Japanese in Tokyo, Japan	male		0
+NA19070	NA19070	JPT	Japanese in Tokyo, Japan	male		0
+NA19072	NA19072	JPT	Japanese in Tokyo, Japan	male		0
+NA19074	NA19074	JPT	Japanese in Tokyo, Japan	female		1
+NA19075	NA19075	JPT	Japanese in Tokyo, Japan	male		1
+NA19076	NA19076	JPT	Japanese in Tokyo, Japan	male		0
+NA19077	NA19077	JPT	Japanese in Tokyo, Japan	female		0
+NA19078	NA19078	JPT	Japanese in Tokyo, Japan	female		0
+NA19079	NA19079	JPT	Japanese in Tokyo, Japan	male		0
+NA19080	NA19080	JPT	Japanese in Tokyo, Japan	female		0
+NA19081	NA19081	JPT	Japanese in Tokyo, Japan	female		1
+NA19082	NA19082	JPT	Japanese in Tokyo, Japan	male		1
+NA19083	NA19083	JPT	Japanese in Tokyo, Japan	male		1
+NA19084	NA19084	JPT	Japanese in Tokyo, Japan	female		0
+NA19085	NA19085	JPT	Japanese in Tokyo, Japan	male		1
+NA19087	NA19087	JPT	Japanese in Tokyo, Japan	female		0
+NA19088	NA19088	JPT	Japanese in Tokyo, Japan	male		1
+NA19093	Y040	YRI	Yoruba in Ibadan, Nigeria	female	mother	1
+NA19095	Y041	YRI	Yoruba in Ibadan, Nigeria	female	mother	0
+NA19096	Y041	YRI	Yoruba in Ibadan, Nigeria	male	father	0
+NA19098	Y105	YRI	Yoruba in Ibadan, Nigeria	male	father	1
+NA19099	Y105	YRI	Yoruba in Ibadan, Nigeria	female	mother	0
+NA19102	Y042	YRI	Yoruba in Ibadan, Nigeria	female	mother	1
+NA19107	Y006	YRI	Yoruba in Ibadan, Nigeria	male	father	0
+NA19108	Y006	YRI	Yoruba in Ibadan, Nigeria	female	mother	1
+NA19113	Y079	YRI	Yoruba in Ibadan, Nigeria	male	father	1
+NA19114	Y079	YRI	Yoruba in Ibadan, Nigeria	female	mother	0
+NA19116	Y060	YRI	Yoruba in Ibadan, Nigeria	female	mother	0
+NA19117	Y100	YRI	Yoruba in Ibadan, Nigeria	male	father	0
+NA19118	Y100	YRI	Yoruba in Ibadan, Nigeria	female	mother	0
+NA19119	Y060	YRI	Yoruba in Ibadan, Nigeria	male	father	0
+NA19121	Y061	YRI	Yoruba in Ibadan, Nigeria	male	father	0
+NA19129	Y077	YRI	Yoruba in Ibadan, Nigeria	female	child	0
+NA19130	Y101	YRI	Yoruba in Ibadan, Nigeria	male	father	1
+NA19131	Y101	YRI	Yoruba in Ibadan, Nigeria	female	mother	0
+NA19137	Y043	YRI	Yoruba in Ibadan, Nigeria	female	mother	1
+NA19138	Y043	YRI	Yoruba in Ibadan, Nigeria	male	father	0
+NA19146	Y075	YRI	Yoruba in Ibadan, Nigeria	male	father	0
+NA19147	Y075	YRI	Yoruba in Ibadan, Nigeria	female	mother	0
+NA19149	Y073	YRI	Yoruba in Ibadan, Nigeria	female	mother	1
+NA19150	Y073	YRI	Yoruba in Ibadan, Nigeria	male	father	1
+NA19152	Y072	YRI	Yoruba in Ibadan, Nigeria	female	mother	1
+NA19160	Y056	YRI	Yoruba in Ibadan, Nigeria	male	father	1
+NA19171	Y047	YRI	Yoruba in Ibadan, Nigeria	male	father	0
+NA19172	Y047	YRI	Yoruba in Ibadan, Nigeria	female	mother	0
+NA19175	Y044	YRI	Yoruba in Ibadan, Nigeria	male	father	0
+NA19185	Y039	YRI	Yoruba in Ibadan, Nigeria	female	mother	0
+NA19189	Y111	YRI	Yoruba in Ibadan, Nigeria	male	father	1
+NA19190	Y111	YRI	Yoruba in Ibadan, Nigeria	female	mother	1
+NA19197	Y035	YRI	Yoruba in Ibadan, Nigeria	female	mother	1
+NA19198	Y035	YRI	Yoruba in Ibadan, Nigeria	male	father	1
+NA19200	Y045	YRI	Yoruba in Ibadan, Nigeria	male	father	0
+NA19204	Y048	YRI	Yoruba in Ibadan, Nigeria	female	mother	1
+NA19207	Y051	YRI	Yoruba in Ibadan, Nigeria	male	father	0
+NA19209	Y050	YRI	Yoruba in Ibadan, Nigeria	female	mother	0
+NA19213	Y110	YRI	Yoruba in Ibadan, Nigeria	male	father	0
+NA19222	Y058	YRI	Yoruba in Ibadan, Nigeria	female	mother	1
+NA19223	Y058	YRI	Yoruba in Ibadan, Nigeria	male	father	0
+NA19225	Y057	YRI	Yoruba in Ibadan, Nigeria	female	mother	0
+NA19235	Y116	YRI	Yoruba in Ibadan, Nigeria	female	mother	1
+NA19236	Y116	YRI	Yoruba in Ibadan, Nigeria	male	father	0
+NA19247	Y120	YRI	Yoruba in Ibadan, Nigeria	female	mother	0
+NA19248	Y120	YRI	Yoruba in Ibadan, Nigeria	male	father	1
+NA19256	Y092	YRI	Yoruba in Ibadan, Nigeria	male	father	0
+NA19257	Y092	YRI	Yoruba in Ibadan, Nigeria	female	mother	0
+NA19307	NA19307	LWK	Luhya in Webuye, Kenya	male		1
+NA19308	NA19308	LWK	Luhya in Webuye, Kenya	male		1
+NA19309	NA19309	LWK	Luhya in Webuye, Kenya	male		0
+NA19310	NA19310	LWK	Luhya in Webuye, Kenya	female		0
+NA19311	NA19311	LWK	Luhya in Webuye, Kenya	male		1
+NA19312	NA19312	LWK	Luhya in Webuye, Kenya	male		1
+NA19313	LWK001	LWK	Luhya in Webuye, Kenya	female		1
+NA19315	NA19315	LWK	Luhya in Webuye, Kenya	female		0
+NA19316	NA19316	LWK	Luhya in Webuye, Kenya	female		0
+NA19317	NA19317	LWK	Luhya in Webuye, Kenya	male		0
+NA19318	NA19318	LWK	Luhya in Webuye, Kenya	male		1
+NA19319	NA19319	LWK	Luhya in Webuye, Kenya	male		0
+NA19321	NA19321	LWK	Luhya in Webuye, Kenya	female		1
+NA19324	NA19324	LWK	Luhya in Webuye, Kenya	female		0
+NA19327	NA19327	LWK	Luhya in Webuye, Kenya	female		0
+NA19328	NA19328	LWK	Luhya in Webuye, Kenya	female		0
+NA19331	LWK001	LWK	Luhya in Webuye, Kenya	male		0
+NA19332	NA19332	LWK	Luhya in Webuye, Kenya	female		1
+NA19334	NA19334	LWK	Luhya in Webuye, Kenya	male		0
+NA19338	NA19338	LWK	Luhya in Webuye, Kenya	female		1
+NA19346	NA19346	LWK	Luhya in Webuye, Kenya	male		0
+NA19347	NA19347	LWK	Luhya in Webuye, Kenya	male		0
+NA19350	NA19350	LWK	Luhya in Webuye, Kenya	male		0
+NA19351	NA19351	LWK	Luhya in Webuye, Kenya	female		1
+NA19352	NA19352	LWK	Luhya in Webuye, Kenya	male		1
+NA19355	NA19355	LWK	Luhya in Webuye, Kenya	female		0
+NA19359	NA19359	LWK	Luhya in Webuye, Kenya	male		0
+NA19360	NA19360	LWK	Luhya in Webuye, Kenya	male		1
+NA19371	NA19371	LWK	Luhya in Webuye, Kenya	male		1
+NA19372	NA19372	LWK	Luhya in Webuye, Kenya	male		0
+NA19373	NA19373	LWK	Luhya in Webuye, Kenya	male		1
+NA19374	NA19374	LWK	Luhya in Webuye, Kenya	male		0
+NA19375	NA19375	LWK	Luhya in Webuye, Kenya	male		0
+NA19376	NA19376	LWK	Luhya in Webuye, Kenya	male		1
+NA19377	NA19377	LWK	Luhya in Webuye, Kenya	female		0
+NA19379	NA19379	LWK	Luhya in Webuye, Kenya	female		0
+NA19380	NA19380	LWK	Luhya in Webuye, Kenya	male		0
+NA19381	LWK002	LWK	Luhya in Webuye, Kenya	female		1
+NA19382	LWK002	LWK	Luhya in Webuye, Kenya	male		1
+NA19383	NA19383	LWK	Luhya in Webuye, Kenya	male		1
+NA19384	NA19384	LWK	Luhya in Webuye, Kenya	male		1
+NA19385	NA19385	LWK	Luhya in Webuye, Kenya	male		0
+NA19390	NA19390	LWK	Luhya in Webuye, Kenya	female		0
+NA19391	NA19391	LWK	Luhya in Webuye, Kenya	female		1
+NA19393	NA19393	LWK	Luhya in Webuye, Kenya	male		0
+NA19394	NA19394	LWK	Luhya in Webuye, Kenya	male		1
+NA19395	NA19395	LWK	Luhya in Webuye, Kenya	female		1
+NA19396	NA19396	LWK	Luhya in Webuye, Kenya	female		1
+NA19397	NA19397	LWK	Luhya in Webuye, Kenya	male		0
+NA19398	NA19398	LWK	Luhya in Webuye, Kenya	female		1
+NA19399	NA19399	LWK	Luhya in Webuye, Kenya	female		1
+NA19401	NA19401	LWK	Luhya in Webuye, Kenya	female		0
+NA19403	NA19403	LWK	Luhya in Webuye, Kenya	female		0
+NA19404	NA19404	LWK	Luhya in Webuye, Kenya	female		1
+NA19428	NA19428	LWK	Luhya in Webuye, Kenya	male		0
+NA19429	NA19429	LWK	Luhya in Webuye, Kenya	male		1
+NA19430	NA19430	LWK	Luhya in Webuye, Kenya	male		0
+NA19431	NA19431	LWK	Luhya in Webuye, Kenya	female		1
+NA19434	LWK003	LWK	Luhya in Webuye, Kenya	female		1
+NA19435	NA19435	LWK	Luhya in Webuye, Kenya	female		0
+NA19436	NA19436	LWK	Luhya in Webuye, Kenya	female		1
+NA19437	NA19437	LWK	Luhya in Webuye, Kenya	female		1
+NA19438	NA19438	LWK	Luhya in Webuye, Kenya	female		0
+NA19439	NA19439	LWK	Luhya in Webuye, Kenya	female		0
+NA19440	NA19440	LWK	Luhya in Webuye, Kenya	female		1
+NA19443	NA19443	LWK	Luhya in Webuye, Kenya	male		0
+NA19444	LWK003	LWK	Luhya in Webuye, Kenya	male		1
+NA19445	LWK004	LWK	Luhya in Webuye, Kenya	female		1
+NA19446	NA19446	LWK	Luhya in Webuye, Kenya	female		1
+NA19448	NA19448	LWK	Luhya in Webuye, Kenya	male		0
+NA19449	NA19449	LWK	Luhya in Webuye, Kenya	female		1
+NA19451	NA19451	LWK	Luhya in Webuye, Kenya	male		0
+NA19452	NA19452	LWK	Luhya in Webuye, Kenya	male		1
+NA19453	LWK004	LWK	Luhya in Webuye, Kenya	male		1
+NA19455	NA19455	LWK	Luhya in Webuye, Kenya	male		1
+NA19456	NA19456	LWK	Luhya in Webuye, Kenya	female		1
+NA19457	NA19457	LWK	Luhya in Webuye, Kenya	female		0
+NA19461	NA19461	LWK	Luhya in Webuye, Kenya	male		1
+NA19462	NA19462	LWK	Luhya in Webuye, Kenya	female		1
+NA19463	NA19463	LWK	Luhya in Webuye, Kenya	female		0
+NA19466	NA19466	LWK	Luhya in Webuye, Kenya	male		1
+NA19467	NA19467	LWK	Luhya in Webuye, Kenya	female		0
+NA19468	NA19468	LWK	Luhya in Webuye, Kenya	female		1
+NA19469	LWK005	LWK	Luhya in Webuye, Kenya	female		1
+NA19470	LWK005	LWK	Luhya in Webuye, Kenya	female		0
+NA19471	NA19471	LWK	Luhya in Webuye, Kenya	female		1
+NA19472	NA19472	LWK	Luhya in Webuye, Kenya	female		0
+NA19473	NA19473	LWK	Luhya in Webuye, Kenya	female		1
+NA19474	NA19474	LWK	Luhya in Webuye, Kenya	female		0
+NA19625	2357	ASW	African Ancestry in Southwest US	female	child	1
+NA19648	m001	MXL	Mexican Ancestry in Los Angeles, California	female	mother	0
+NA19651	m005	MXL	Mexican Ancestry in Los Angeles, California	female	mother	1
+NA19652	m005	MXL	Mexican Ancestry in Los Angeles, California	male	father	0
+NA19654	m006	MXL	Mexican Ancestry in Los Angeles, California	female	mother	1
+NA19655	m006	MXL	Mexican Ancestry in Los Angeles, California	male	father	0
+NA19657	m007	MXL	Mexican Ancestry in Los Angeles, California	female	mother	1
+NA19660	m008	MXL	Mexican Ancestry in Los Angeles, California	female	mother	1
+NA19661	m008	MXL	Mexican Ancestry in Los Angeles, California	male	father	1
+NA19663	m012	MXL	Mexican Ancestry in Los Angeles, California	female	mother	1
+NA19664	m012	MXL	Mexican Ancestry in Los Angeles, California	male	father	0
+NA19672	2382	MXL	Mexican Ancestry in Los Angeles, California	female	mother	1
+NA19675	m004	MXL	Mexican Ancestry in Los Angeles, California	female	mother	0
+NA19676	m004	MXL	Mexican Ancestry in Los Angeles, California	male	father	0
+NA19678	m009	MXL	Mexican Ancestry in Los Angeles, California	female	mother	0
+NA19679	m009	MXL	Mexican Ancestry in Los Angeles, California	male	father	0
+NA19681	m010	MXL	Mexican Ancestry in Los Angeles, California	female	mother	1
+NA19682	m010	MXL	Mexican Ancestry in Los Angeles, California	male	father	1
+NA19684	m011	MXL	Mexican Ancestry in Los Angeles, California	female	mother	0
+NA19685	m011	MXL	Mexican Ancestry in Los Angeles, California	male	father	1
+NA19700	2367	ASW	African Ancestry in Southwest US	male	father	1
+NA19701	2367	ASW	African Ancestry in Southwest US	female	mother	0
+NA19703	2368	ASW	African Ancestry in Southwest US	male	father	0
+NA19704	2368	ASW	African Ancestry in Southwest US	female	mother	1
+NA19707	2369	ASW	African Ancestry in Southwest US	female	mother	1
+NA19711	2371	ASW	African Ancestry in Southwest US	male	father	1
+NA19712	2371	ASW	African Ancestry in Southwest US	female	mother	1
+NA19713	2436	ASW	African Ancestry in Southwest US	female	mother	1
+NA19716	m014	MXL	Mexican Ancestry in Los Angeles, California	female	mother	1
+NA19717	m014	MXL	Mexican Ancestry in Los Angeles, California	male	father	0
+NA19719	m015	MXL	Mexican Ancestry in Los Angeles, California	female	mother	0
+NA19720	m015	MXL	Mexican Ancestry in Los Angeles, California	male	father	1
+NA19722	m016	MXL	Mexican Ancestry in Los Angeles, California	female	mother	1
+NA19723	m016	MXL	Mexican Ancestry in Los Angeles, California	male	father	1
+NA19725	m017	MXL	Mexican Ancestry in Los Angeles, California	female	mother	0
+NA19726	m017	MXL	Mexican Ancestry in Los Angeles, California	male	father	1
+NA19728	m018	MXL	Mexican Ancestry in Los Angeles, California	female	mother	1
+NA19729	m018	MXL	Mexican Ancestry in Los Angeles, California	male	father	1
+NA19731	m019	MXL	Mexican Ancestry in Los Angeles, California	female	mother	0
+NA19732	m019	MXL	Mexican Ancestry in Los Angeles, California	male	father	0
+NA19734	2393	MXL	Mexican Ancestry in Los Angeles, California	female	mother	1
+NA19735	2393	MXL	Mexican Ancestry in Los Angeles, California	male	father	1
+NA19737	2394	MXL	Mexican Ancestry in Los Angeles, California	female	mother	1
+NA19738	2394	MXL	Mexican Ancestry in Los Angeles, California	male	father	1
+NA19740	2395	MXL	Mexican Ancestry in Los Angeles, California	female	mother	1
+NA19741	2395	MXL	Mexican Ancestry in Los Angeles, California	male	father	1
+NA19746	m023	MXL	Mexican Ancestry in Los Angeles, California	female	mother	0
+NA19747	m023	MXL	Mexican Ancestry in Los Angeles, California	male	father	1
+NA19749	m024	MXL	Mexican Ancestry in Los Angeles, California	female	mother	0
+NA19750	m024	MXL	Mexican Ancestry in Los Angeles, California	male	father	1
+NA19752	2401	MXL	Mexican Ancestry in Los Angeles, California	female	mother	1
+NA19753	2401	MXL	Mexican Ancestry in Los Angeles, California	male	father	1
+NA19755	m026	MXL	Mexican Ancestry in Los Angeles, California	female	mother	1
+NA19756	m026	MXL	Mexican Ancestry in Los Angeles, California	male	father	1
+NA19758	m027	MXL	Mexican Ancestry in Los Angeles, California	female	mother	0
+NA19759	m027	MXL	Mexican Ancestry in Los Angeles, California	male	father	1
+NA19761	m028	MXL	Mexican Ancestry in Los Angeles, California	female	mother	0
+NA19762	m028	MXL	Mexican Ancestry in Los Angeles, California	male	father	1
+NA19764	2405	MXL	Mexican Ancestry in Los Angeles, California	female	mother	0
+NA19770	m031	MXL	Mexican Ancestry in Los Angeles, California	female	mother	0
+NA19771	m031	MXL	Mexican Ancestry in Los Angeles, California	male	father	0
+NA19773	m033	MXL	Mexican Ancestry in Los Angeles, California	female	mother	0
+NA19774	m033	MXL	Mexican Ancestry in Los Angeles, California	male	father	0
+NA19776	m034	MXL	Mexican Ancestry in Los Angeles, California	female	mother	1
+NA19777	m034	MXL	Mexican Ancestry in Los Angeles, California	male	father	1
+NA19779	m035	MXL	Mexican Ancestry in Los Angeles, California	female	mother	1
+NA19780	m035	MXL	Mexican Ancestry in Los Angeles, California	male	father	1
+NA19782	m036	MXL	Mexican Ancestry in Los Angeles, California	female	mother	1
+NA19783	m036	MXL	Mexican Ancestry in Los Angeles, California	male	father	0
+NA19785	m032	MXL	Mexican Ancestry in Los Angeles, California	female	mother	1
+NA19786	m032	MXL	Mexican Ancestry in Los Angeles, California	male	father	1
+NA19788	m037	MXL	Mexican Ancestry in Los Angeles, California	female	mother	1
+NA19789	m037	MXL	Mexican Ancestry in Los Angeles, California	male	father	1
+NA19794	m039	MXL	Mexican Ancestry in Los Angeles, California	female	mother	0
+NA19795	m039	MXL	Mexican Ancestry in Los Angeles, California	male	father	0
+NA19818	2418	ASW	African Ancestry in Southwest US	male	father	0
+NA19819	2418	ASW	African Ancestry in Southwest US	female	mother	0
+NA19834	2424	ASW	African Ancestry in Southwest US	male	father	0
+NA19835	2424	ASW	African Ancestry in Southwest US	female	mother	1
+NA19900	2425	ASW	African Ancestry in Southwest US	male	father	1
+NA19901	2425	ASW	African Ancestry in Southwest US	female	mother	1
+NA19904	2426	ASW	African Ancestry in Southwest US	male	father	0
+NA19908	2427	ASW	African Ancestry in Southwest US	male	father	0
+NA19909	2427	ASW	African Ancestry in Southwest US	female	mother	0
+NA19914	2430	ASW	African Ancestry in Southwest US	female	mother	1
+NA19916	2431	ASW	African Ancestry in Southwest US	male	father	0
+NA19917	2431	ASW	African Ancestry in Southwest US	female	mother	0
+NA19920	2433	ASW	African Ancestry in Southwest US	male	father	0
+NA19921	2433	ASW	African Ancestry in Southwest US	female	mother	1
+NA19922	2434	ASW	African Ancestry in Southwest US	male	father	0
+NA19923	2434	ASW	African Ancestry in Southwest US	female	mother	1
+NA19982	2436	ASW	African Ancestry in Southwest US	male	father	1
+NA19984	2437a	ASW	African Ancestry in Southwest US	male	father	0
+NA19985	2437	ASW	African Ancestry in Southwest US	female	mother	1
+NA20126	2446	ASW	African Ancestry in Southwest US	male	father	1
+NA20127	2446	ASW	African Ancestry in Southwest US	female	mother	0
+NA20276	2466	ASW	African Ancestry in Southwest US	female	mother	0
+NA20278	2467	ASW	African Ancestry in Southwest US	male	father	1
+NA20281	2469a	ASW	African Ancestry in Southwest US	male	not father	0
+NA20282	2469	ASW	African Ancestry in Southwest US	female	mother	0
+NA20287	2470	ASW	African Ancestry in Southwest US	female	mother	1
+NA20289	2471	ASW	African Ancestry in Southwest US	female	mother	1
+NA20291	2472	ASW	African Ancestry in Southwest US	male	father	1
+NA20294	2474	ASW	African Ancestry in Southwest US	female	mother	0
+NA20296	2475	ASW	African Ancestry in Southwest US	female	mother	0
+NA20298	2476a	ASW	African Ancestry in Southwest US	male	father	0
+NA20299	2476	ASW	African Ancestry in Southwest US	female	mother	1
+NA20314	2479	ASW	African Ancestry in Southwest US	female	mother	0
+NA20317	2480	ASW	African Ancestry in Southwest US	female	mother	1
+NA20322	2481	ASW	African Ancestry in Southwest US	female	child	0
+NA20332	2483	ASW	African Ancestry in Southwest US	female	mother	1
+NA20334	2484	ASW	African Ancestry in Southwest US	female	mother	0
+NA20336	2485	ASW	African Ancestry in Southwest US	female	mother	0
+NA20339	2486	ASW	African Ancestry in Southwest US	female	mother	1
+NA20340	2487	ASW	African Ancestry in Southwest US	male	father	1
+NA20341	2487	ASW	African Ancestry in Southwest US	female	mother	0
+NA20342	2488	ASW	African Ancestry in Southwest US	male	father	1
+NA20344	2489	ASW	African Ancestry in Southwest US	female	mother	1
+NA20346	2490	ASW	African Ancestry in Southwest US	male	father	1
+NA20348	2491	ASW	African Ancestry in Southwest US	male	father	0
+NA20351	2493	ASW	African Ancestry in Southwest US	male	father	0
+NA20356	2494	ASW	African Ancestry in Southwest US	male	father	0
+NA20357	2494	ASW	African Ancestry in Southwest US	female	mother	0
+NA20359	2495	ASW	African Ancestry in Southwest US	female	mother	1
+NA20363	2496	ASW	African Ancestry in Southwest US	female	mother	1
+NA20412	2505	ASW	African Ancestry in Southwest US	female	mother	1
+NA20414	2506	ASW	African Ancestry in Southwest US	female	mother	0
+NA20502	NA20502	TSI	Toscani in Italy	female		1
+NA20503	NA20503	TSI	Toscani in Italy	female		0
+NA20504	NA20504	TSI	Toscani in Italy	female		0
+NA20505	NA20505	TSI	Toscani in Italy	female		1
+NA20506	NA20506	TSI	Toscani in Italy	female		0
+NA20507	NA20507	TSI	Toscani in Italy	female		1
+NA20508	NA20508	TSI	Toscani in Italy	female		1
+NA20509	NA20509	TSI	Toscani in Italy	male		0
+NA20510	NA20510	TSI	Toscani in Italy	male		1
+NA20512	NA20512	TSI	Toscani in Italy	male		1
+NA20513	NA20513	TSI	Toscani in Italy	male		0
+NA20515	NA20515	TSI	Toscani in Italy	male		1
+NA20516	NA20516	TSI	Toscani in Italy	male		0
+NA20517	NA20517	TSI	Toscani in Italy	female		1
+NA20518	NA20518	TSI	Toscani in Italy	male		1
+NA20519	NA20519	TSI	Toscani in Italy	male		0
+NA20520	NA20520	TSI	Toscani in Italy	male		0
+NA20521	NA20521	TSI	Toscani in Italy	male		1
+NA20522	NA20522	TSI	Toscani in Italy	female		0
+NA20524	NA20524	TSI	Toscani in Italy	male		1
+NA20525	NA20525	TSI	Toscani in Italy	male		1
+NA20527	NA20527	TSI	Toscani in Italy	male		0
+NA20528	NA20528	TSI	Toscani in Italy	male		0
+NA20529	NA20529	TSI	Toscani in Italy	female		1
+NA20530	NA20530	TSI	Toscani in Italy	female		1
+NA20531	NA20531	TSI	Toscani in Italy	female		0
+NA20532	NA20532	TSI	Toscani in Italy	male		0
+NA20533	NA20533	TSI	Toscani in Italy	female		1
+NA20534	NA20534	TSI	Toscani in Italy	male		0
+NA20535	NA20535	TSI	Toscani in Italy	female		0
+NA20536	NA20536	TSI	Toscani in Italy	male		1
+NA20537	NA20537	TSI	Toscani in Italy	male		0
+NA20538	NA20538	TSI	Toscani in Italy	male		0
+NA20539	NA20539	TSI	Toscani in Italy	male		0
+NA20540	NA20540	TSI	Toscani in Italy	female		0
+NA20541	NA20541	TSI	Toscani in Italy	female		1
+NA20542	NA20542	TSI	Toscani in Italy	female		0
+NA20543	NA20543	TSI	Toscani in Italy	male		0
+NA20544	NA20544	TSI	Toscani in Italy	male		1
+NA20581	NA20581	TSI	Toscani in Italy	male		1
+NA20582	NA20582	TSI	Toscani in Italy	female		0
+NA20585	NA20585	TSI	Toscani in Italy	female		1
+NA20586	NA20586	TSI	Toscani in Italy	male		1
+NA20588	NA20588	TSI	Toscani in Italy	male		0
+NA20589	NA20589	TSI	Toscani in Italy	female		0
+NA20752	NA20752	TSI	Toscani in Italy	male		1
+NA20753	NA20753	TSI	Toscani in Italy	female		0
+NA20754	NA20754	TSI	Toscani in Italy	male		0
+NA20755	NA20755	TSI	Toscani in Italy	male		0
+NA20756	NA20756	TSI	Toscani in Italy	female		0
+NA20757	NA20757	TSI	Toscani in Italy	female		1
+NA20758	NA20758	TSI	Toscani in Italy	male		0
+NA20759	NA20759	TSI	Toscani in Italy	male		0
+NA20760	NA20760	TSI	Toscani in Italy	female		0
+NA20761	NA20761	TSI	Toscani in Italy	female		0
+NA20765	NA20765	TSI	Toscani in Italy	male		0
+NA20766	NA20766	TSI	Toscani in Italy	female		0
+NA20768	NA20768	TSI	Toscani in Italy	female		0
+NA20769	NA20769	TSI	Toscani in Italy	female		1
+NA20770	NA20770	TSI	Toscani in Italy	male		1
+NA20771	NA20771	TSI	Toscani in Italy	female		0
+NA20772	NA20772	TSI	Toscani in Italy	female		0
+NA20773	NA20773	TSI	Toscani in Italy	female		1
+NA20774	NA20774	TSI	Toscani in Italy	female		0
+NA20775	NA20775	TSI	Toscani in Italy	female		0
+NA20778	NA20778	TSI	Toscani in Italy	male		1
+NA20783	NA20783	TSI	Toscani in Italy	male		1
+NA20785	NA20785	TSI	Toscani in Italy	male		1
+NA20786	NA20786	TSI	Toscani in Italy	female		0
+NA20787	NA20787	TSI	Toscani in Italy	male		0
+NA20790	NA20790	TSI	Toscani in Italy	female		1
+NA20792	NA20792	TSI	Toscani in Italy	male		0
+NA20795	NA20795	TSI	Toscani in Italy	female		0
+NA20796	NA20796	TSI	Toscani in Italy	male		0
+NA20797	NA20797	TSI	Toscani in Italy	female		1
+NA20798	NA20798	TSI	Toscani in Italy	male		0
+NA20799	NA20799	TSI	Toscani in Italy	female		0
+NA20800	NA20800	TSI	Toscani in Italy	female		1
+NA20801	NA20801	TSI	Toscani in Italy	male		0
+NA20802	NA20802	TSI	Toscani in Italy	female		0
+NA20803	NA20803	TSI	Toscani in Italy	male		0
+NA20804	NA20804	TSI	Toscani in Italy	female		0
+NA20805	NA20805	TSI	Toscani in Italy	male		1
+NA20806	NA20806	TSI	Toscani in Italy	male		0
+NA20807	NA20807	TSI	Toscani in Italy	female		0
+NA20808	NA20808	TSI	Toscani in Italy	female		1
+NA20809	NA20809	TSI	Toscani in Italy	male		1
+NA20810	NA20810	TSI	Toscani in Italy	male		0
+NA20811	NA20811	TSI	Toscani in Italy	male		1
+NA20812	NA20812	TSI	Toscani in Italy	male		1
+NA20813	NA20813	TSI	Toscani in Italy	female		1
+NA20814	NA20814	TSI	Toscani in Italy	male		0
+NA20815	NA20815	TSI	Toscani in Italy	male		0
+NA20816	NA20816	TSI	Toscani in Italy	male		0
+NA20818	NA20818	TSI	Toscani in Italy	female		0
+NA20819	NA20819	TSI	Toscani in Italy	female		1
+NA20826	NA20826	TSI	Toscani in Italy	female		0
+NA20828	NA20828	TSI	Toscani in Italy	female		0
